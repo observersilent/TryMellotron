@@ -1,0 +1,2 @@
+Mellotron/data/VIM_02091.wav|{T A K A V Y0 } {P R A0 V0 I L A } {I G R Y0 }, {DZH E0 K0 I }. {KH O0 TSH0 I SH } {B Y0 T0 } {N A } {V0 I R SH Y0 N0 I } {G A T O0 F0 S0 A } {P L A T0 I0 T0 } {K R O0 V0 J0 U }.|1
+Mellotron/data/JUDY_00005.wav|{K R U0 T A }, {D A0 }? {ZH A0 L0 }, {K A N0 E0 SH N A }, {M Y0 } {U P A0 R Y V A J0 I M S0 A }, {N O0 } {P A TSH0 T0 I0 } {F S0 O0 }, {SH T O0 } {P R A KH O0 D0 I T } {TSH0 E0 R0 I S } {N A0 S }, {G A D0 I0 TS A } {T O0 L0 K A } {SH T O0 B Y } {L Y0 S A V A } {P A G A N0 A0 T0 }.|2

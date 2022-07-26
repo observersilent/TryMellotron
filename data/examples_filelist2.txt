@@ -1,0 +1,2 @@
+Mellotron/data/VIM_02091.wav|{T A K A V Y0 } {P R A0 V0 I L A } {I G R Y0 }, {DZH E0 K0 I }. {KH O0 TSH0 I SH } {B Y0 T0 } {N A } {V0 I R SH Y0 N0 I } {G A T O0 F0 S0 A } {P L A T0 I0 T0 } {K R O0 V0 J0 U }.|1
+Mellotron/data/000001.wav|{K A V O0 } {I N0 T0 I R0 I S U0 J0 U T } {P R0 I Z N A0 N0 I J0 A } {L0 I T0 I R A T U0 R N A V A } {N0 I U D A0 TSH0 N0 I K A }?|1

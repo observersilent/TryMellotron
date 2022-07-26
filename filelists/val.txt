@@ -1,0 +1,973 @@
+data/wavs/000000.wav|{S } {T R0 I V O0 ZH N Y M } {TSH0 U0 F S T V A M } {B0 I R U0 S0 } {J0 A0 } {Z A } {P0 I R O0 }.|1
+data/wavs/000001.wav|{K A V O0 } {I N0 T0 I R0 I S U0 J0 U T } {P R0 I Z N A0 N0 I J0 A } {L0 I T0 I R A T U0 R N A V A } {N0 I U D A0 TSH0 N0 I K A }?|1
+data/wavs/000002.wav|{SH T O0 } {P A U TSH0 I0 T0 I L0 N A V A } {F } {J0 I V O0 } {I0 S P A V0 I D0 I }?|1
+data/wavs/000003.wav|{D A0 } {I } {ZH Y0 Z0 N0 } {M A J0 A0 } {L0 I SH Y N A0 } {V N0 E0 SH N0 I V A } {T R A G0 I0 Z M A }.|1
+data/wavs/000004.wav|{J0 A0 } {A P S A L0 U0 T N A } {Z D A R O0 F }.|1
+data/wavs/000005.wav|{U } {M0 I N0 A0 } {J0 E0 S0 T0 } {L0 U0 B0 I SH0 I J0 A } {R A D N0 A0 }.|1
+data/wavs/000006.wav|{M N0 E0 } {F S0 I G D A0 } {G A T O0 V Y } {P R0 I D A S T A0 V0 I T0 } {R A B O0 T U }, {K A T O0 R A J0 A } {A B0 I S P0 E0 TSH0 I T } {N A R M A0 L0 N A J0 I } {B0 I A L A G0 I0 TSH0 I S K A J0 I } {S U SH0 I S T V A V A0 N0 I J0 I }.|1
+data/wavs/000007.wav|{M A0 L A } {T A V O0 }, {J0 A0 } {A B L A D A0 J0 U } {P R0 I M U0 SH0 I S T V A M0 I }.|1
+data/wavs/000008.wav|{M N0 E0 } {B0 I S } {T R U D A0 } {U D A J0 O0 TS A } {R A S P A L A G A0 T0 } {K } {S0 I B0 E0 } {L0 U D0 E0 J0 }.|1
+data/wavs/000009.wav|{J0 A0 } {S A V0 I R SH Y0 L } {D0 I S0 A0 T K0 I } {P A S T U0 P K A F }, {U G A L O0 V N A } {N A K A Z U0 J0 I M Y KH } {I } {A S T A0 F SH Y KH S0 A } {B0 I Z N A K A0 Z A N Y M0 I }.|1
+data/wavs/000010.wav|{J0 A0 } {D V A0 ZH D Y } {B Y0 L } {ZH Y N A0 T }, {I } {O0 B A } {R A0 Z A } {SH0 A0 S L0 I V A }.|1
+data/wavs/000011.wav|{N A K A N0 E0 TS }, {U } {M0 I N0 A0 } {J0 E0 S0 T0 } {S A B A0 K A }.|1
+data/wavs/000012.wav|{A } {E0 T A } {U0 ZH Y } {I Z L0 I0 SH Y S T V A }.|1
+data/wavs/000013.wav|{T A G D A0 } {P A TSH0 I M U0 } {ZH Y } {J0 A0 } {A SH0 U SH0 A0 J0 U } {S0 I B0 A0 } {N A } {G R A0 N0 I } {F0 I Z0 I0 TSH0 I S K A J0 } {K A T A S T R O0 F Y }?|1
+data/wavs/000014.wav|{A T K U0 D A } {U } {M0 I N0 A0 } {TSH0 U0 F S T V A } {B0 I Z N A D0 O0 ZH N A J0 } {ZH Y0 Z0 N0 I N A J0 } {N0 I P R0 I G O0 D N A S0 T0 I }?|1
+data/wavs/000015.wav|{F } {TSH0 E0 M } {P R0 I TSH0 I0 N A } {M A J0 E0 J0 } {T A S K0 I0 }?|1
+data/wavs/000016.wav|{J0 A0 } {KH A TSH0 U0 } {F } {E0 T A M } {R A Z A B R A0 TS A }.|1
+data/wavs/000017.wav|{P A S T A J0 A0 N A } {D U0 M A J0 U } {A P } {E0 T A M }.|1
+data/wavs/000018.wav|{M0 I TSH0 T A0 J0 U } {I } {N A D0 E0 J0 U S0 } {V Y0 Z V A T0 } {P R0 I0 Z N A K } {SH0 A0 S0 T0 J0 A }.|1
+data/wavs/000019.wav|{M N0 E0 } {ZH A0 L0 }, {SH T O0 } {P R A Z V U TSH0 A0 L A } {E0 T A } {S L O0 V A }.|1
+data/wavs/000020.wav|{V0 E0 T0 } {P R0 I TS T A V L0 E0 N0 I J0 A }, {K A T O0 R Y J0 I } {A N O0 } {R A ZH D A J0 I T }, {B0 I Z G R A N0 I0 TSH0 N Y } {D A } {N U L0 A0 }.|1
+data/wavs/000021.wav|{J0 A0 } {Z N A0 L } {TSH0 I L A V0 E0 K A }, {F S0 I R0 J0 O0 S } {U T V0 I R ZH D A0 F SH Y V A }, {SH T O0 } {O0 N } {B U0 D0 I T } {A P S A L0 U0 T N A } {SH0 A0 S L0 I F }, {J0 E0 S L0 I } {ZH Y L K A N T A R A } {Z A M0 E0 N0 I T } {J0 I M U0 } {F A N A V U J0 U } {T R U B U0 }.|1
+data/wavs/000022.wav|{S U0 J0 I T N A J0 I } {TSH0 U0 F S T V A } {T R0 I V A ZH Y T } {M0 I N0 A0 }.|1
+data/wavs/000023.wav|{A G A0 }, {P A D U0 M A J0 U T }, {V A Z A M N0 I0 L } {S0 I B0 A0 } {N0 I P R0 I0 Z N A N Y M } {G0 E0 N0 I J0 I M }!|1
+data/wavs/000024.wav|{F } {E0 T A M T A } {I } {D0 E0 L A }, {SH T O0 } {N0 E0 T }!|1
+data/wavs/000025.wav|{J0 A0 } {V Y0 S L U SH A L } {S O0 T N0 I }, {T Y0 S0 I TSH0 I } {O0 T K L0 I K A F } {N A } {M A I0 } {R A S K A0 Z Y }.|1
+data/wavs/000026.wav|{I } {N0 I K A G D A0 }, {N0 I } {F } {J0 I D0 I0 N A J0 }, {S A0 M A J0 } {U B O0 G A J0 }, {S A0 M A J0 } {F A N T A S0 T0 I0 TSH0 I S K A J0 } {P0 I T0 I R B U0 R K S K A J0 } {K A M P A0 N0 I } {M0 I N0 A0 } {N0 I } {A B J0 I V L0 I L0 I } {G0 E0 N0 I J0 I M }.|1
+data/wavs/000027.wav|{D A0 ZH Y } {K A G D A0 } {A B J0 I V L0 I L0 I } {T A K A V Y0 M0 I } {G A R0 I TS K A V A } {I } {KH A R0 I T A N0 I N K A }.|1
+data/wavs/000028.wav|{G A R0 I TS K0 I J0 } {A0 F T A R } {R A M A0 N A }, {P R0 I TS T A V L0 A0 J0 U SH0 I V A } {S A B O0 J0 } {D0 E0 V0 I T0 } {L0 I S T O0 F } {Z A S V0 E0 TSH0 I N A J0 } {F A T A B U M A0 G0 I }.|1
+data/wavs/000029.wav|{G L A0 V N A J0 I } {ZH Y } {D0 E0 J0 S T V U J0 U SH0 I J0 I } {L0 I TS O0 } {N A I B O0 L0 I J0 I } {Z R0 E0 L A V A } {R A M A0 N A } {KH A R0 I T A N0 I N K A } {P R0 I Z0 I R V A T0 I0 F }.|1
+data/wavs/000030.wav|{T R0 I N A0 TS A T0 } {L0 E0 T } {N A Z A0 T } {J0 A0 } {V Z0 A0 L S0 A } {Z A } {P0 I R O0 }.|1
+data/wavs/000031.wav|{N A P0 I S A0 L } {R A M A0 N }, {S0 E0 M0 } {P A V0 I S0 T0 E0 J0 } {I } {TSH0 I T Y0 R0 I S T A } {K A R O0 T K0 I KH } {V0 I SH0 E0 J0 }.|1
+data/wavs/000032.wav|{N A } {O0 SH0 U P0 } {P A B O0 L0 SH Y }, {TSH0 E0 M } {G O0 G A L0 }!|1
+data/wavs/000033.wav|{J0 A0 } {U B0 I ZH D0 O0 N }, {SH T O0 } {M Y0 } {S } {G O0 G A L0 I M } {A B L A D A0 J0 I M } {R A0 V N Y M0 I } {A0 F T A R S K0 I M0 I } {P R A V A0 M0 I }.|1
+data/wavs/000034.wav|{A B0 A0 Z A N A S0 T0 I } {R A0 Z N Y J0 I }.|1
+data/wavs/000035.wav|{K A0 K } {M0 I0 N0 I M U M }, {A D N0 I0 M } {N0 I A T J0 E0 M L0 I M Y M } {P R A0 V A M }.|1
+data/wavs/000036.wav|{P R A0 V A M } {A B N A R O0 D A V A T0 } {N A P0 I0 S A N A J0 I }.|1
+data/wavs/000037.wav|{T A } {J0 E0 S0 T0 } {P R A0 V A M } {B0 I S M0 E0 R T0 I J0 A } {I L0 I } {N0 I U D A0 TSH0 I }.|1
+data/wavs/000038.wav|{Z A } {SH T O0 } {ZH Y } {M A J0 A0 } {R0 I D A V A J0 A }, {TSH0 E0 S N A J0 A }, {J0 I D0 I0 N S T V0 I N A J0 A } {S K L O0 N A S0 T0 } {P A D A V L0 I J0 I TS A } {B0 I SH0 I0 S L0 I N Y M0 I } {O0 R G A N A M0 I }, {L0 I0 TS A M0 I }, {I N0 S0 T0 I T U0 T A M0 I } {V0 I L0 I0 K A V A } {G A S U D A0 R S T V A }? ?|1
+data/wavs/000039.wav|{J0 A0 } {D O0 L ZH Y N } {E0 T A } {P A N0 A0 T0 }.|1
+data/wavs/000040.wav|{N0 I } {B U0 D U } {U T R U ZH D A T0 } {S0 I B0 A0 } {K A M P A Z0 I0 TS Y J0 I J0 }.|1
+data/wavs/000041.wav|{S U M B U0 R N A }, {D L0 I0 N A } {I } {N0 I V N0 A0 T N A } {P A P Y T A0 J0 U S0 } {I Z L A ZH Y0 T0 } {S V O0 J0 U } {T V O0 R TSH0 I S K U J0 U } {B0 I A G R A0 F0 I J0 U }.|1
+data/wavs/000042.wav|{E0 T A } {B U0 D U T } {P R0 I K L0 U TSH0 E0 N0 I J0 A } {M A I0 KH } {R U0 K A P0 I S0 I J0 }.|1
+data/wavs/000043.wav|{P A R T R0 E0 T Y } {Z N A K O0 M Y KH }.|1
+data/wavs/000044.wav|{K A0 K } {ZH Y } {N A Z V A0 T0 } {M N0 E0 } {F S0 E0 } {E0 T A } {D A S0 J0 I }?|1
+data/wavs/000045.wav|{Z A P0 I0 S K0 I } {A D N A G O0 } {L0 I T0 I R A0 T A R A }?|1
+data/wavs/000046.wav|{S A TSH0 I N0 E0 N0 I J0 I } {N A } {V O0 L0 N U J0 U } {T0 E0 M U }?|1
+data/wavs/000047.wav|{R A0 Z V0 I } {E0 T A } {V A0 ZH N A }?|1
+data/wavs/000048.wav|{K N0 I0 G A T A } {N0 I V0 I0 D0 I M A J0 A }.|1
+data/wavs/000049.wav|{Z A } {A K N O0 M } {L0 I N0 I N G R A0 TS K0 I J0 I } {K R Y0 SH Y }, {A N0 T0 E0 N Y }, {B L0 E0 D N A J0 I } {N0 E0 B A }.|1
+data/wavs/000050.wav|{K A0 T0 A } {G A T O0 V0 I T } {U R O0 K0 I }, {F A K S0 T0 I R0 J0 E0 R } {G L A F0 I R A }, {P A KH O0 ZH A J0 A } {N A } {B0 I R0 O0 Z A V U J0 U } {TSH0 U0 R A TSH0 K U }, {S0 I D0 I0 T } {U } {J0 I J0 O0 } {N O0 K } {I } {D U0 M A J0 I T } {A B A } {M N0 E0 }.|1
+data/wavs/000051.wav|{A } {P0 E0 R0 I D A } {M N O0 J0 } {L0 I0 S T } {B U M A0 G0 I }.|1
+data/wavs/000052.wav|{I } {J0 A0 } {P0 I R0 I S0 I K A0 J0 U } {E0 T U } {B0 E0 L U J0 U } {Z A S0 N0 I ZH Y N U J0 U } {R A V N0 I0 N U } {A D0 I0 N }.|1
+data/wavs/000053.wav|{L0 I0 S T } {B U M A0 G0 I } {SH0 A0 S0 T0 J0 I } {I } {P R A K L0 A0 T0 I J0 I }!|1
+data/wavs/000054.wav|{L0 I0 S T } {B U M A0 G0 I } {N A K A Z A0 N0 I J0 I } {M A J0 O0 }.|1
+data/wavs/000055.wav|{P R0 I D0 I S L O0 V0 I J0 I }, {A D N A0 K A }, {Z A T0 I N U0 L A S0 }.|1
+data/wavs/000056.wav|{N A TSH0 N0 O0 M } {KH A T0 A0 } {B Y } {S } {E0 T A V A }.|1
+data/wavs/000057.wav|{P0 E0 R V Y J0 } {K R0 I0 T0 I K }.|1
+data/wavs/000058.wav|{D A } {R0 I V A L0 U0 TS Y I } {A G N0 I J0 A } {F R A N TS Y V N A } {M A U } {B Y L A0 } {P R0 I D V O0 R N Y M } {V0 I N0 I R O0 L A G A M }.|1
+data/wavs/000059.wav|{P R A SH L O0 } {SH Y Z0 D Y S0 A0 T } {L0 E0 T }.|1
+data/wavs/000060.wav|{N A F S0 I G D A0 } {S A KH R A N0 I0 L A } {A G N0 I J0 A } {F R A N TS Y V N A } {G A R D0 I L0 I0 V Y J0 } {D V A R TS O0 V Y J0 } {A P L O0 M P } {I } {P R0 I M A T U0 } {K L0 I N0 I TS Y0 S T A }.|1
+data/wavs/000061.wav|{E0 T A } {M A U } {S K A Z A0 L A } {N A0 SH Y M U } {K V A R T U P A L N A M A TSH0 I N A M U } {P A L K O0 V N0 I K U } {T0 I KH A M0 I R A V U }, {A D A V0 I0 F SH Y M U } {L A0 P U } {J0 I J0 O0 } {B A L O0 N K0 I }.|1
+data/wavs/000062.wav|{V Y0 } {S T R A0 SH N A J0 I } {G A V N A }, {M O0 N } {K A L A N0 I L0 }, {N0 I } {A B0 I S U0 T0 I }!|1
+data/wavs/000063.wav|{T0 I KH A M0 I R A F } {ZH Y0 L } {N A P R O0 T0 I F }, {Z A0 G N A N Y J0 } {F } {A T V R A T0 I0 T0 I L0 N U J0 U } {K A M U N A L K U } {S V A I0 M } {P A R T0 I0 J0 N Y M } {B0 I S K A R Y0 S0 T0 I J0 I M }.|1
+data/wavs/000064.wav|{O0 N } {D A B0 I V A0 L S0 A } {V L A0 S0 T0 I } {I } {N0 I N A V0 I0 D0 I L } {M A U } {Z A } {J0 I J0 O0 } {A R0 I S T A K R A T0 I0 TSH0 I S K A J0 I } {P R A I S KH A ZH D0 E0 N0 I J0 I }.|1
+data/wavs/000065.wav|{U } {S A0 M A V A } {T0 I KH A M0 I R A V A } {P R A I S KH A ZH D0 E0 N0 I J0 A } {N0 I } {B Y0 L A } {V A P SH0 E0 }.|1
+data/wavs/000066.wav|{J0 I V O0 } {P A R A D0 I0 L0 I } {D0 I R0 I K T0 I0 V Y }.|1
+data/wavs/000067.wav|{G R A KH A T A0 L } {O0 N }.|1
+data/wavs/000068.wav|{K A0 K A T0 } {F } {A D N O0 M } {P A L0 E0 } {N0 I } {S0 A0 D U }!|1
+data/wavs/000069.wav|{S T A R U0 KH A } {P A D N0 I M A0 L A } {G O0 L A V U } {T A0 K } {R0 E0 S K A }, {SH T O0 } {V Z L0 I T A0 L } {J0 I J0 O0 } {K R O0 SH Y TSH0 N Y J0 } {Z A L A T O0 J0 } {M0 I D A L0 J0 O0 N }.|1
+data/wavs/000070.wav|{N0 I U ZH E0 L0 I } {K A0 K A T0 } {R0 A0 D A M } {S } {V A0 M0 I } {T A K A0 J0 A } {U0 SH } {B O0 L0 SH A J0 A } {TSH0 E0 S0 T0 }?!|1
+data/wavs/000071.wav|{T U0 S K L Y J0 I } {P0 E0 R0 J0 A } {N A } {J0 I J0 O0 } {SH L0 A0 P0 I } {G N0 E0 V N A } {V Z D R A0 G0 I V A L0 I }.|1
+data/wavs/000072.wav|{D L0 A } {T0 I KH A M0 I R A V A } {J0 A0 } {B Y0 L } {TSH0 I R0 I SH0 U0 R } {I Z Y0 S K A N }.|1
+data/wavs/000073.wav|{D L0 A } {M A U } {B0 I Z N A D0 O0 ZH N A } {V U L0 G A0 R0 I N }.|1
+data/wavs/000074.wav|{N O0 } {P R O0 T0 I F } {A G N0 I } {F R A N TS Y V N Y } {U } {M0 I N0 A0 } {B Y0 L A } {S0 I0 L0 N A J0 I } {A R U0 ZH Y J0 I } {V0 E0 ZH L0 I V A S0 T0 }.|1
+data/wavs/000075.wav|{A } {T0 I KH A M0 I R A V A } {V0 E0 ZH L0 I V A S0 T0 } {N A S T A R A ZH Y V A L A }.|1
+data/wavs/000076.wav|{O0 N } {Z N A0 L }, {SH T O0 } {V0 E0 ZH L0 I V A S0 T0 } {M A S K0 I R U J0 I T } {P A R O0 K0 I }.|1
+data/wavs/000077.wav|{I } {V O0 T } {A D N A0 ZH D Y } {J0 A0 } {B0 I S0 E0 D A V A L } {P A } {K A M U N A0 L0 N A M U } {T0 I L0 I F O0 N U }.|1
+data/wavs/000078.wav|{B0 I S0 E0 D A } {E0 T A } {S T R A0 SH N A } {R A Z D R A ZH A L A } {T0 I KH A M0 I R A V A } {TSH0 R0 I Z M0 E0 R N Y M } {U0 M S T V0 I N Y M } {I Z A B0 I0 L0 I J0 I M }.|1
+data/wavs/000079.wav|{R A0 S } {D0 E0 S0 I T0 } {T0 I KH A M0 I R A F } {P R A S L0 E0 D A V A L } {U0 S K A J0 } {K A M U N A0 L0 N A J0 } {T R A0 S A J0 }.|1
+data/wavs/000080.wav|{T R0 I0 ZH D Y } {KH A D0 I0 L } {F } {U B O0 R N U J0 U }.|1
+data/wavs/000082.wav|{D A } {P A L0 A0 R N A V A } {S0 I J0 A0 N0 I J0 A } {N A TSH0 I0 S0 T0 I L } {L0 I SH O0 N Y J0 I } {I N0 D0 I V0 I D U A0 L0 N A S0 T0 I } {B A T0 I0 N K0 I }.|1
+data/wavs/000083.wav|{D A0 ZH Y } {Z A TSH0 E0 M T A } {V A Z0 I0 L } {S V O0 J0 } {M A P0 E0 T } {N A } {K U0 KH N0 U } {I } {A B R A0 T N A }.|1
+data/wavs/000085.wav|{J0 A0 } {G A V A R0 I0 L }, {SH T O0 } {L0 E0 F } {T O0 L S T A J0 } {P A } {S U0 T0 I } {D0 I L A0 } {A B Y V A0 T0 I L0 }.|1
+data/wavs/000086.wav|{SH T O0 } {D A S T A J0 I F S K0 I J0 } {S R A D N0 I0 } {P A S0 T0 I M P R0 I S0 I A N0 I0 Z M U }.|1
+data/wavs/000087.wav|{SH T O0 } {A P0 I R TS E0 P TS Y J0 A } {U } {B A L0 Z A K A } {N0 I A R G A N0 I TSH0 N A }.|1
+data/wavs/000088.wav|{SH T O0 } {L0 U0 D A } {F0 I D A S0 I J0 I N K A } {Z0 D0 E0 L A L A } {A B O0 R T }.|1
+data/wavs/000089.wav|{SH T O0 } {A M0 I R0 I K A0 N S K A J0 } {P R O0 Z0 I } {N0 I } {KH V A T A0 J0 I T } {K A S M A P A L0 I T0 I0 TSH0 I S K A V A } {F0 I R M0 E0 N T A }.|1
+data/wavs/000090.wav|{I } {T0 I KH A M0 I R A F } {N0 I } {V Y0 D0 I R ZH A L }.|1
+data/wavs/000091.wav|{U M Y0 SH L0 I N A } {Z A D0 E0 F } {M0 I N0 A0 } {P A L O0 G0 I M } {ZH Y V A T O0 M }, {O0 N } {R0 A0 F K N U L }.|1
+data/wavs/000092.wav|{S M O0 T R0 I T0 I K A } {P0 I S A0 T0 I L0 }!|1
+data/wavs/000093.wav|{D A0 } {E0 T A } {ZH Y } {P0 I S A0 T0 I L0 }!|1
+data/wavs/000094.wav|{R A S T R0 I L0 I V A T0 } {N A0 D A } {T A K0 I0 KH } {P0 I S A0 T0 I L0 I J0 }!|1
+data/wavs/000095.wav|{Z N A0 L } {B Y } {J0 A0 } {T A G D A0 }, {SH T O0 } {E0 T A T } {V O0 P L0 } {R A S L A0 B L0 I N A V A } {U0 M S T V0 I N A J0 } {P0 I R0 I G R U0 S K A J0 } {K V A R T U P A L N A M A TSH0 I N A V A } {N A } {D O0 L G0 I J0 I } {G O0 D Y } {A P R0 I D0 I L0 I0 T } {M A J0 U0 } {ZH Y0 Z0 N0 }.|1
+data/wavs/000096.wav|{R A S T R0 I L0 I V A T0 } {N A0 D A } {T A K0 I0 KH } {P0 I S A0 T0 I L0 I J0 }! {K A0 ZH Y TS A }, {J0 A0 } {D A P U S K A0 J0 U } {A SH Y0 P K U }.|1
+data/wavs/000097.wav|{N0 I A P KH A D0 I0 M A } {K A K A0 J0 A T A } {P A S L0 E0 D A V A T0 I L0 N A S0 T0 }.|1
+data/wavs/000098.wav|{N A P R0 I0 M0 I R }, {KH R A N A L A G0 I0 TSH0 I S K A J0 A }.|1
+data/wavs/000099.wav|{P0 E0 R V Y J0 } {L0 I T0 I R A T U0 R N Y J0 } {I0 M P U L0 S } {V O0 T } {S } {TSH0 I V O0 } {J0 A0 } {N A TSH0 N U0 }.|1
+data/wavs/000100.wav|{E0 T A } {B Y0 L A } {F } {A K T0 I B R0 E0 } {T Y0 S0 I TSH0 A } {D0 I V0 I T0 S O0 T } {S O0 R A K } {P0 A0 T A V A } {G O0 D A }.|1
+data/wavs/000101.wav|{B A SH K0 I R0 I J0 A }, {U F A }, {Y V A K U A0 TS Y J0 A }, {M N0 E0 } {T R0 I0 } {N0 I D0 E0 L0 I }.|1
+data/wavs/000102.wav|{K A G D A0 T A } {J0 A0 } {Z A P0 I S A0 L } {E0 T A T } {S L U0 TSH0 I J0 }.|1
+data/wavs/000103.wav|{M O0 J0 } {A T0 E0 TS } {B Y0 L } {R0 I ZH Y S0 O0 R A M } {D R A M A T0 I0 TSH0 I S K A V A } {T0 I A0 T R A }.|1
+data/wavs/000104.wav|{M A0 T0 } {B Y L A0 } {F } {E0 T A M } {T0 I A0 T R0 I } {A K T R0 I0 S A J0 }.|1
+data/wavs/000105.wav|{V A J0 N A0 } {N0 I } {R A Z L U TSH0 I0 L A } {I0 KH }.|1
+data/wavs/000106.wav|{A N0 I0 } {R A S T A0 L0 I S0 } {Z N A TSH0 I0 T0 I L0 N A } {P O0 ZH Y }, {K A G D A0 } {F S0 E0 } {B Y0 L A } {KH A R A SH O0 }.|1
+data/wavs/000107.wav|{J0 A0 } {R A D0 I0 L S0 A } {F } {Y V A K U A0 TS Y I }, {TSH0 I T V0 O0 R T A V A } {A K T0 I B R0 A0 }.|1
+data/wavs/000108.wav|{P R A SH L O0 } {T R0 I0 } {N0 I D0 E0 L0 I }.|1
+data/wavs/000109.wav|{M A0 T0 } {SH L A0 } {S } {K A L0 A0 S K A J0 } {P A } {B U L0 V A0 R U }.|1
+data/wavs/000110.wav|{I } {T U0 T } {J0 I J0 O0 } {A S T A N A V0 I0 L } {N0 I Z N A K O0 M Y J0 } {TSH0 I L A V0 E0 K }.|1
+data/wavs/000111.wav|{M A0 T0 } {G A V A R0 I0 L A }, {SH T O0 } {J0 I V O0 } {L0 I TS O0 } {B Y0 L A } {N0 I K R A S0 I0 V Y M } {I } {G R U0 S N Y M }.|1
+data/wavs/000112.wav|{A } {G L A0 V N A J0 I } {S A F S0 E0 M } {P R A S T Y0 M }, {K A0 K } {U } {D0 I R0 I V0 E0 N S K A V A } {M U ZH Y K A0 }.|1
+data/wavs/000113.wav|{J0 A0 } {D U0 M A J0 U }, {A N O0 } {B Y0 L A } {J0 I SH0 O0 } {I } {Z N A TSH0 I0 T0 I L0 N Y M }.|1
+data/wavs/000114.wav|{N0 I D A0 R A M } {M A0 M A } {P O0 M N0 I L A } {J0 I V O0 } {F S0 U0 } {ZH Y0 Z0 N0 }.|1
+data/wavs/000115.wav|{SH T A0 TS K0 I J0 } {N0 I Z N A K O0 M0 I TS } {K A Z A0 L S0 A } {F P A L N0 E0 } {Z D A R O0 V Y M }.|1
+data/wavs/000116.wav|{P R A S0 T0 I0 T0 I }, {R0 I SH Y0 T0 I L0 N A } {I } {S M U SH0 O0 N A } {V Y0 G A V A R0 I L } {O0 N }, {N O0 } {J0 A0 } {B Y } {KH A T0 E0 L } {U SH0 I P N U0 T0 } {E0 T A V A } {M A L0 TSH0 I0 SH K U }.|1
+data/wavs/000117.wav|{M A0 M A } {V A Z M U T0 I0 L A S0 }.|1
+data/wavs/000118.wav|{N O0 V A S0 T0 I }, {S K A Z A0 L A } {A N A0 }, {T A0 K } {V Y0 } {I } {M0 I N0 A0 } {Z A KH A T0 I0 T0 I } {U SH0 I P N U0 T0 }.|1
+data/wavs/000119.wav|{V R0 A0 T } {L0 I }, {U S P A K O0 I L } {J0 I J0 O0 } {N0 I Z N A K O0 M0 I TS }.|1
+data/wavs/000120.wav|{Z A T0 E0 M } {D A B A0 V0 I L }.|1
+data/wavs/000121.wav|{KH A T0 A0 } {J0 I SH0 O0 } {M0 I N U0 T U } {N A Z A0 T } {J0 A0 } {B Y } {Z A D U0 M A L S0 A }, {P R0 E0 ZH D0 I } {TSH0 E0 M } {A T V0 E0 T0 I T0 }.|1
+data/wavs/000122.wav|{I D0 O0 T } {V A J0 N A0 }, {Z A M0 E0 T0 I L A } {M A0 M A } {U0 ZH Y } {N0 I } {T A0 K } {R0 E0 S K A }, {S V0 I SH0 E0 N A J0 A } {V A J0 N A0 }!|1
+data/wavs/000123.wav|{N A S T A J0 A0 SH0 I J0 I } {M U SH0 I0 N Y } {G0 I0 B N U T } {N A } {P0 I R0 I D A V O0 J0 }.|1
+data/wavs/000124.wav|{A } {N0 E0 K A T A R Y J0 I } {G U L0 A0 J0 U T } {P A } {B U L0 V A0 R U } {I } {Z A D A J0 U T } {S T R A0 N Y J0 I } {V A P R O0 S Y }.|1
+data/wavs/000125.wav|{D A0 }, {P0 I TSH0 A0 L0 N A } {S A G L A S0 I0 L S0 A } {N0 I Z N A K O0 M0 I TS }, {V A J0 N A0 } {I D0 O0 T }.|1
+data/wavs/000126.wav|{A N A0 } {I D0 O0 T } {F } {D U SH E0 } {K A0 ZH D A V A } {I S } {N A0 S }.|1
+data/wavs/000127.wav|{Z A T0 E0 M } {D A B A0 V0 I L }.|1
+data/wavs/000128.wav|{V Y0 } {R A0 N0 I L0 I } {M A J0 O0 } {S0 E0 R TS Y }.|1
+data/wavs/000129.wav|{P R A SH L O0 } {T R0 I0 TS A T0 } {D V A0 } {G O0 D A }.|1
+data/wavs/000130.wav|{I } {V O0 T } {J0 A0 } {TSH0 I T A0 J0 U } {S T A T0 J0 U0 } {A P } {A N D R0 I J0 I } {P L A T A N A V0 I }.|1
+data/wavs/000131.wav|{A K A0 Z Y V A J0 I TS A }, {P L A T A N A F } {ZH Y0 L } {F } {U F0 I }.|1
+data/wavs/000132.wav|{P R A0 V D A }, {O0 TSH0 I N0 } {N0 I D O0 L G A }.|1
+data/wavs/000133.wav|{V0 E0 S0 } {A K T0 A0 B R0 } {S O0 R A K } {P0 E0 R V A V A } {G O0 D A }.|1
+data/wavs/000134.wav|{I } {J0 I SH0 O0 } {U } {N0 I V O0 } {T A0 M } {S L U TSH0 I0 L A S0 } {B0 I D A0 }.|1
+data/wavs/000135.wav|{P R A P A0 L } {TSH0 I M A D A0 N } {S A } {F S0 E0 M0 I } {R U0 K A P0 I S0 I M0 I }.|1
+data/wavs/000136.wav|{TSH0 I L A V0 E0 K }, {K A T O0 R Y J0 } {KH A T0 E0 L } {U SH0 I P N U0 T0 } {M0 I N0 A0 }, {B Y0 L } {A N D R0 I J0 I M } {P L A T A N A V Y M }.|1
+data/wavs/000137.wav|{J0 A0 } {P A V0 E0 D A L } {A P } {E0 T A J0 } {F S T R0 E0 TSH0 I } {D R U Z0 J0 A0 M }.|1
+data/wavs/000138.wav|{U N Y0 L Y J0 I } {L0 U0 D0 I } {S K A Z A0 L0 I }, {SH T O0 } {E0 T A } {M O0 K } {B Y0 T0 } {I } {N0 I } {A N D R0 I J0 } {P L A T A N A F }.|1
+data/wavs/000139.wav|{M A0 L A } {L0 I } {Z A G A0 D A TSH0 N Y KH } {T0 I0 P A F } {SH A T A0 J0 I TS A } {P A } {B U L0 V A0 R A M }?|1
+data/wavs/000140.wav|{K A K A0 J0 A } {TSH0 I P U KH A0 }!|1
+data/wavs/000141.wav|{F } {A P0 I0 S A N A J0 } {I S T O0 R0 I } {D A0 ZH Y } {J0 A0 } {F0 I G U0 R A } {N0 I S A M N0 E0 N A J0 A }!|1
+data/wavs/000142.wav|{T A0 K } {SH T O0 } {ZH Y } {G A V A R0 I0 T0 } {A } {P L A T A N A V0 I }?!|1
+data/wavs/000143.wav|{J0 A0 } {TSH0 A0 S T A } {D U0 M A J0 U } {P R A } {V O0 R A }, {K A T O0 R Y J0 } {U K R A0 L } {TSH0 I M A D A0 N } {S } {R U0 K A P0 I S0 I M0 I }.|1
+data/wavs/000144.wav|{V O0 R }, {N A V0 E0 R N A J0 I }, {A B R A0 D A V A L S0 A }, {Z A V0 I0 D0 I F } {TSH0 I M A D A0 N } {P L A T A N A V A }.|1
+data/wavs/000145.wav|{O0 N } {D U0 M A L }, {T A0 M } {L0 I ZH Y0 T } {F L0 A0 G A } {S P0 I0 R T A }, {SH Y V0 I O0 T A V Y J0 } {M A N0 T0 I L0 } {I } {B A L0 SH O0 J0 } {K U S O0 K } {G A V0 A0 D0 I N Y }.|1
+data/wavs/000146.wav|{T A }, {SH T O0 } {Z A T0 E0 M } {A B N A R U0 ZH Y L A S0 }, {B Y0 L A } {K R0 E0 P TSH0 I } {S P0 I0 R T A }, {TS Y N0 E0 J0 I } {SH Y V0 I O0 T A V A V A } {M A N0 T0 I L0 A } {I } {D A R O0 ZH Y } {F S0 E0 J0 } {G A V0 A0 D0 I N Y } {N A0 SH Y J0 } {P L A N0 E0 T Y }.|1
+data/wavs/000147.wav|{P R O0 S T A } {V O0 R } {E0 T A V A } {N0 I } {Z N A0 L }.|1
+data/wavs/000148.wav|{V0 I0 D N A }, {O0 N } {R A D0 I0 L S0 A } {KH R A N0 I0 TSH0 I S K0 I M } {N0 I U D A0 TSH0 N0 I K A M }.|1
+data/wavs/000149.wav|{KH A T0 E0 L } {R A Z B A G A T0 E0 T0 }, {A } {S T A0 L } {V L A D0 E0 L0 TS Y M } {P U S T O0 V A } {TSH0 I M A D A0 N A }.|1
+data/wavs/000150.wav|{SH T O0 } {M O0 ZH Y T } {B Y0 T0 } {P L A TSH0 E0 V N0 I J0 I }?|1
+data/wavs/000151.wav|{M A Z U0 R0 I K }, {D O0 L ZH N A } {B Y0 T0 }, {SH V Y R N U0 L } {R U0 K A P0 I S0 } {F } {K A N A0 V U }, {G D0 E0 } {A N A0 } {I } {Z G0 I0 N U L A }.|1
+data/wavs/000152.wav|{R U0 K A P0 I S0 }, {L0 I ZH A0 SH0 I J0 A } {F } {K A N A0 V0 I } {I L0 I } {F } {J0 A0 SH0 I K0 I } {S T A L A0 }, {N0 I A T L0 I TSH0 I0 M A } {A T } {P R A SH L A G O0 D N0 I KH } {G A Z0 E0 T }.|1
+data/wavs/000153.wav|{J0 A0 } {N0 I } {D U0 M A J0 U }, {SH T O0 B Y } {A N D R0 I J0 } {P L A T A N A F } {B0 I Z M0 E0 R N A } {S A ZH A L0 E0 L } {A P } {U T R A0 TSH0 I N A J0 } {R U0 K A P0 I S0 I }.|1
+data/wavs/000154.wav|{F } {E0 T0 I KH } {S L U0 TSH0 I J0 I KH } {N A S T A J0 A0 SH0 I J0 I } {P0 I S A0 T0 I L0 I } {R A S U ZH D A0 J0 U T } {T A0 K }.|1
+data/wavs/000155.wav|{D A0 ZH Y } {KH A R A SH O0 }, {SH T O0 } {U } {M0 I N0 A0 } {P R A P A0 L0 I } {S T A0 R Y J0 I } {R U0 K A P0 I S0 I }, {V0 E0 T0 } {A N0 I0 } {B Y0 L0 I } {T A0 K } {N0 I S A V0 I R SH E0 N Y }.|1
+data/wavs/000156.wav|{T0 I P0 E0 R0 } {J0 A0 } {V Y0 N U ZH D0 I N } {P0 I R0 I P0 I S A0 T0 } {R A S K A0 Z Y } {Z A N A V A }, {I } {A N0 I0 } {S T A0 N U T } {L U0 TSH0 SH Y }.|1
+data/wavs/000157.wav|{B Y0 L A } {L0 I } {F S0 E0 } {T A0 K } {N A } {S A0 M A M } {D0 E0 L0 I }?|1
+data/wavs/000158.wav|{D A0 } {R A0 Z V0 I } {E0 T A } {V A0 ZH N A }?!|1
+data/wavs/000159.wav|{D U0 M A J0 U }, {SH T O0 } {A B A J0 D0 O0 M S0 A } {B0 I S } {N A T A0 R0 I U S A }.|1
+data/wavs/000160.wav|{M A J0 A0 } {D U SH A0 } {T R0 E0 B U J0 I T } {E0 T A J0 } {F S T R0 E0 TSH0 I }.|1
+data/wavs/000161.wav|{N0 I } {Z R0 A0 } {ZH Y } {J0 A0 } {S } {D0 E0 TS T V A } {M0 I TSH0 T A0 L } {A } {L0 I T0 I R A T U0 R0 I }.|1
+data/wavs/000162.wav|{I } {V O0 T } {P Y T A0 J0 U S0 } {N A J0 T0 I0 } {S L O0 V A }.|1
+data/wavs/000163.wav|{J0 A0 } {V Y0 N U ZH D0 I N } {S A P SH0 A0 T0 } {K A K0 I0 J0 I T A } {D0 I T A0 L0 I } {M A J0 E0 J0 } {B0 I A G R A0 F0 I }, {I N A0 TSH0 I } {M N O0 G A J0 I } {A S T A0 N0 I TS A } {N0 I J0 A0 S N Y M }.|1
+data/wavs/000164.wav|{Z0 D0 E0 L A J0 U } {E0 T A } {K O0 R A T K A }, {P U N K T0 I0 R A M }.|1
+data/wavs/000165.wav|{T O0 L S T Y J0 } {Z A S0 T0 E0 N0 TSH0 I V Y J0 } {M A0 L0 TSH0 I K }.|1
+data/wavs/000166.wav|{M A0 T0 } {S A M A K R0 I T0 I0 TSH0 N A } {B R O0 S0 I L A } {T0 I A0 T R } {I } {R A B O0 T A J0 I T } {K A R0 E0 K T A R A M }.|1
+data/wavs/000167.wav|{D R U0 ZH B A } {S } {A L0 I SH Y J0 } {L A V R0 I N0 T0 J0 I V Y M }, {Z A } {K A T O0 R Y M } {P R0 I J0 I ZH A0 J0 I T } {F O0 R T }.|1
+data/wavs/000168.wav|{A L0 I SH A } {SH A L0 I0 T }, {M N0 E0 } {P A R U0 TSH0 I N A } {V A S P0 I T Y V A T0 } {J0 I V O0 }.|1
+data/wavs/000169.wav|{T A G D A0 } {M0 I N0 A0 } {V A Z0 M U0 T } {N A } {D A0 TSH0 U }.|1
+data/wavs/000170.wav|{J0 A0 } {S T A N A V L0 U0 S0 } {M A0 L0 I N0 K0 I M } {G U V0 I R N0 O0 R A M }.|1
+data/wavs/000171.wav|{J0 A0 } {U M N0 E0 J0 I } {I } {B O0 L0 SH Y } {TSH0 I T A0 L }.|1
+data/wavs/000172.wav|{J0 A0 } {Z N A0 J0 U }, {K A0 K } {U G A D0 I0 T0 } {V Z R O0 S L Y M }.|1
+data/wavs/000174.wav|{Z A R A ZH D A0 J0 U SH0 I J0 I S0 A } {T0 A0 G A } {K } {P L0 E0 P S U }.|1
+data/wavs/000175.wav|{M0 I TSH0 T Y0 } {A } {S0 I0 L0 I } {I } {B0 I S T R A0 SH Y I }.|1
+data/wavs/000176.wav|{P O0 KH A R A N Y } {D O0 KH L A J0 } {K O0 SH K0 I } {Z A } {S A R A0 J0 I M0 I }.|1
+data/wavs/000177.wav|{M A J0 A0 } {N A D G R O0 B N A J0 A } {R0 E0 TSH0 }, {V Y0 Z V A F SH A J0 A } {S L0 I Z Y0 } {ZH A N Y }, {D O0 TSH0 I R0 I } {Y L0 I K T R A M A N0 T0 O0 R A }.|1
+data/wavs/000178.wav|{J0 A0 } {U M0 E0 J0 U } {G A V A R0 I0 T0 }, {R A S K A0 Z Y V A T0 }.|1
+data/wavs/000179.wav|{B0 I S K A N0 E0 TSH0 N Y J0 I } {D V O0 J0 K0 I }.|1
+data/wavs/000180.wav|{R A V N A D U0 SH Y J0 I } {K } {T O0 TSH0 N Y M } {N A U0 K A M }.|1
+data/wavs/000181.wav|{S A V M0 E0 S N A J0 I } {A B U TSH0 E0 N0 I J0 I }.|1
+data/wavs/000182.wav|{A L A } {G A R SH K A V A }.|1
+data/wavs/000183.wav|{M O0 J0 } {D L0 I0 N Y J0 } {J0 I Z Y0 K }.|1
+data/wavs/000184.wav|{N0 I U K L0 U0 ZH Y J0 I } {Y P0 I G R A0 M Y }.|1
+data/wavs/000185.wav|{T0 A0 SH K A J0 I } {B R0 E0 M0 A } {S0 I K S U A0 L0 N A J0 } {N0 I V0 I0 N A S0 T0 I }.|1
+data/wavs/000186.wav|{T Y0 S0 I TSH0 A } {D0 I V0 I T0 S O0 T } {P0 I D0 I S0 A0 T } {F T O0 R A J0 } {G O0 T }.|1
+data/wavs/000187.wav|{J0 A0 } {A TS Y L A J0 U } {F } {G A Z0 E0 T U } {L0 E0 N0 I N S K0 I J0 I } {I0 S K R Y } {TSH0 I T Y0 R0 I } {S0 T0 I KH A T V A R0 E0 N0 I J0 A }.|1
+data/wavs/000188.wav|{A D N O0 }, {K A N0 E0 SH N A }, {P R A } {S T A L0 I N A }.|1
+data/wavs/000189.wav|{T R0 I0 } {P R A } {ZH Y V O0 T N Y KH }.|1
+data/wavs/000190.wav|{P0 E0 R V Y J0 I } {R A S K A0 Z Y }.|1
+data/wavs/000191.wav|{A N0 I0 } {P U B L0 I K U J0 U TS A } {F } {D0 E0 TS K A M } {ZH U R N A0 L0 I } {K A S0 T0 O0 R }.|1
+data/wavs/000192.wav|{N A P A M0 I N A J0 U T } {KH U0 TSH Y J0 I } {V0 E0 SH0 I } {S R0 E0 D N0 I KH } {P R A F0 I S0 I A N A0 L A F }.|1
+data/wavs/000193.wav|{S } {P A E0 Z0 I J0 I J0 } {K O0 N0 TSH0 I N A } {N A F S0 I G D A0 }.|1
+data/wavs/000194.wav|{S } {N0 I V0 I0 N A S0 T0 J0 U } {T O0 ZH Y }.|1
+data/wavs/000195.wav|{A T0 I S T A0 T } {Z R0 E0 L A S0 T0 I }.|1
+data/wavs/000196.wav|{P R A I Z V O0 TS T V0 I N Y J0 } {S T A0 SH }.|1
+data/wavs/000197.wav|{T0 I P A G R A0 F0 I J0 A } {I0 M0 I N0 I } {V A L A D A R S K A V A }.|1
+data/wavs/000198.wav|{S0 I G A R0 E0 T Y }, {V0 I N O0 } {I } {M U SH S K0 I0 J0 I } {R A Z G A V O0 R Y }.|1
+data/wavs/000199.wav|{R A S T U0 SH0 I J0 A } {T0 A0 G A } {K } {P L0 E0 P S U }.|1
+data/wavs/000200.wav|{T A } {J0 E0 S0 T0 } {B U K V A0 L0 N A } {N0 I } {A D N A G O0 } {I N0 T0 I L0 I G0 E0 N T N A V A } {P R0 I J0 A0 T0 I L0 A }.|1
+data/wavs/000201.wav|{U N0 I V0 I R S0 I T0 E0 T } {I0 M0 I N0 I } {ZH D A N A V A }.|1
+data/wavs/000202.wav|{Z V U TSH0 I0 T } {N0 I } {KH U0 ZH Y }, {TSH0 E0 M } {U N0 I V0 I R S0 I T0 E0 T } {I0 M0 I N0 I } {A0 L0 } {K A P A N0 I }.|1
+data/wavs/000203.wav|{S T U D0 E0 N0 TSH0 I S K0 I J0 I } {L0 I T0 I R A T U0 R N Y J0 I } {U P R A ZH N0 E0 N0 I J0 A }.|1
+data/wavs/000204.wav|{B0 I S K A N0 E0 TSH0 N Y J0 I } {P0 I R0 I Y G Z A M0 I N O0 F K0 I }.|1
+data/wavs/000205.wav|{N0 I SH0 A0 S N A J0 A } {L0 U B O0 F0 }, {A K O0 N0 TSH0 I F SH A J0 I S0 A } {ZH Y N0 I0 D0 B A J0 }.|1
+data/wavs/000206.wav|{Z N A K O0 M S T V A } {S } {M A L A D Y0 M0 I } {L0 I N0 I N G R A0 TS K0 I M0 I } {P A E0 T A M0 I } {R0 I J0 N A M }, {N A J0 M A N A M }, {B R A TS K0 I M }.|1
+data/wavs/000207.wav|{N A I B O0 L0 I J0 I } {P A P U L0 A0 R N Y J0 } {TSH0 I L A V0 E0 K } {T O0 J0 } {Y P O0 KH0 I } {S0 I R G0 E0 J0 } {V O0 L0 F }.|1
+data/wavs/000208.wav|{D0 E0 D U SH K A } {R U0 S K A J0 } {S L A V0 E0 S N A S0 T0 I }.|1
+data/wavs/000209.wav|{N A0 S } {P A Z N A K O0 M0 I L0 I } {F } {R0 I S T A R A0 N0 I }.|1
+data/wavs/000210.wav|{V O0 L0 F } {N A P A M0 I N A L } {A M0 I R0 I K A0 N S K A V A } {B0 I Z R A B O0 T N A V A } {S } {P L A K A0 T A }.|1
+data/wavs/000211.wav|{DZH Y0 N S Y }, {S V0 I0 T0 I R }, {M0 A0 T Y J0 } {K L0 E0 TSH0 I T Y J0 } {P0 I DZH A0 K }.|1
+data/wavs/000212.wav|{O0 N } {P0 I0 L } {V O0 T K U }.|1
+data/wavs/000213.wav|{J0 A0 } {P R0 I G L A S0 I0 L } {J0 I V O0 } {F } {F A J0 I } {I } {N0 I V N0 A0 T N A } {A B J0 I S0 N0 I0 L S0 A } {B0 I S } {S V0 I D0 E0 T0 I L0 I J0 }.|1
+data/wavs/000214.wav|{J0 A0 } {KH A T0 E0 L }, {SH T O0 B Y } {V O0 L0 F } {P R A TSH0 I T A0 L } {M A I0 } {R A S K A0 Z Y }.|1
+data/wavs/000215.wav|{V O0 L0 F } {B Y0 L } {N0 I T0 I R P0 I L0 I0 F }.|1
+data/wavs/000216.wav|{J0 A0 } {L0 I0 SH } {P O0 Z0 N0 I J0 I } {S A B R A Z0 I0 L } {V O0 T K A } {N A G R0 I V A0 J0 I TS A }.|1
+data/wavs/000217.wav|{L0 U B0 I0 M Y J0 I } {P0 I S A0 T0 I L0 I }?|1
+data/wavs/000218.wav|{K O0 R A T K A } {S P R A S0 I0 L } {V O0 L0 F }.|1
+data/wavs/000219.wav|{J0 A0 } {N A Z V A0 L } {KH0 I M0 I N G U Y J0 A }, {B0 I L0 A }, {R U0 S K0 I KH } {K L A0 S0 I K A F }.|1
+data/wavs/000220.wav|{ZH A0 L0 }, {P R A I Z0 N0 O0 S } {O0 N } {Z A D U0 M TSH0 I V A }, {ZH A0 L0 }.|1
+data/wavs/000221.wav|{P A P R A SH0 A0 L S0 A } {I } {U SH O0 L }.|1
+data/wavs/000222.wav|{J0 A0 } {B Y0 L } {N0 E0 S K A L0 K A } {A Z A D A0 TSH0 I N }.|1
+data/wavs/000223.wav|{ZH Y N0 A0 } {R0 E0 J0 N } {P O0 T A M } {A B J0 I S0 N0 I0 L } {M N0 E0 }.|1
+data/wavs/000224.wav|{N A Z V A0 L0 I } {B Y } {V A L0 F A }.|1
+data/wavs/000225.wav|{O0 N } {B Y } {V A0 S } {U G A S0 T0 I0 L }.|1
+data/wavs/000226.wav|{N A S T A J0 A0 SH0 I J0 I } {P0 I S A0 T0 I L0 I } {I N0 T0 I R0 I S U0 J0 U TS A } {T O0 L0 K A } {S A B O0 J0 }.|1
+data/wavs/000227.wav|{K A0 K } {F S0 I G D A0 }, {R0 E0 J0 N } {B Y0 L } {P R A0 F }.|1
+data/wavs/000228.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000229.wav|{K A0 K T A } {S0 I D0 E0 L } {U } {M0 I N0 A0 } {V0 I S0 I L A F }, {B Y0 F SH Y J0 } {L0 O0 TSH0 I K }.|1
+data/wavs/000230.wav|{T0 I M P0 I R A0 M0 I N T N A } {R A S K A0 Z Y V A L } {A P } {A V0 I A0 TS Y I }.|1
+data/wavs/000231.wav|{S A M A L0 O0 T Y } {P R0 I A D A L0 I V A J0 U T } {V0 E0 R KH N0 U J0 U } {O0 B L A TSH0 N A S0 T0 }.|1
+data/wavs/000232.wav|{ZH A0 V A R A N K0 I } {P A P A0 D A J0 U T } {F } {S A P L A }.|1
+data/wavs/000233.wav|{G L O0 KH N U T } {M A T O0 R Y }.|1
+data/wavs/000234.wav|{S A M A L0 O0 T Y } {P A0 D A J0 U T }.|1
+data/wavs/000235.wav|{L0 U0 D0 I } {R A Z B0 I V A0 J0 U TS A }.|1
+data/wavs/000236.wav|{ZH A0 V A R A N K0 I } {P A P A0 D A J0 U T } {F } {S A P L A }.|1
+data/wavs/000237.wav|{G0 I0 B N U T } {L0 U0 D0 I }.|1
+data/wavs/000238.wav|{A } {N A P R O0 T0 I F } {S0 I D0 E0 L } {ZH Y N0 A0 } {R0 E0 J0 N }.|1
+data/wavs/000239.wav|{S A M A L0 O0 T Y } {R A Z B0 I V A0 J0 U TS A }, {K R0 I TSH0 A0 L } {V0 I S0 I L A F }, {M A T O0 R Y } {G L O0 KH N U T }.|1
+data/wavs/000240.wav|{F } {S A P L A } {P A P A0 D A J0 U T } {ZH A0 V A R A N K0 I }.|1
+data/wavs/000241.wav|{G0 I0 B N U T } {L0 U0 D0 I }.|1
+data/wavs/000242.wav|{G0 I0 B N U T } {L0 U0 D0 I }.|1
+data/wavs/000243.wav|{T A G D A0 } {R0 E0 J0 N } {A B0 I0 ZH Y N A } {K R0 I0 K N U L } {A } {ZH A0 V A R A N K0 I } {SH T O0 } {V Y ZH Y V A0 J0 U T }?!|1
+data/wavs/000244.wav|{D A0 } {I } {S } {V A L0 F A M } {U } {M0 I N0 A0 } {KH A R O0 SH Y J0 I } {A T N A SH E0 N0 I J0 A }.|1
+data/wavs/000245.wav|{A } {N0 E0 M } {J0 E0 S0 T0 } {T A K A0 J0 A } {Z A0 P0 I S0 }.|1
+data/wavs/000246.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000247.wav|{V O0 L0 F } {S } {D L U G A L0 I N S K0 I M } {A T P R A0 V0 I L0 I S0 } {L A V0 I0 T0 } {R Y0 B U }.|1
+data/wavs/000248.wav|{V O0 L0 F } {P A J0 M A0 L } {A G R O0 M N A V A } {S U D A K A0 }.|1
+data/wavs/000249.wav|{V R U TSH0 I0 L } {J0 I V O0 } {KH A Z0 A0 J0 K0 I } {I } {G A V A R0 I0 T }.|1
+data/wavs/000250.wav|{P A DZH A0 R0 T0 I } {E0 T A V A } {S U D A K A0 }, {I } {B U0 D0 I M } {V M0 E0 S0 T0 I } {U0 ZH Y N A T0 }.|1
+data/wavs/000251.wav|{T A0 K } {I } {Z0 D0 E0 L A L0 I }.|1
+data/wavs/000252.wav|{P A U0 ZH Y N A L0 I }, {V Y0 P0 I L0 I }.|1
+data/wavs/000253.wav|{V O0 L0 F } {I } {D L U G A L0 I N S K0 I J0 } {U SH L0 I0 } {F } {S V O0 J0 } {TSH0 U L A0 N }.|1
+data/wavs/000254.wav|{KH M U0 R Y J0 } {V O0 L0 F } {S K A Z A0 L } {D L U G A L0 I N S K A M U }.|1
+data/wavs/000255.wav|{U } {T0 I B0 A0 } {J0 E0 S0 T0 } {K A R A N D A0 SH } {I } {B U M A0 G A }?|1
+data/wavs/000256.wav|{V O0 L0 F } {P A R0 I S A V A0 L } {M0 I N U0 T Y } {D V0 E0 } {I } {G A V A R0 I0 T } {V O0 T } {S U K0 I0 }!|1
+data/wavs/000257.wav|{A N0 I0 } {P O0 D A L0 I } {N0 I } {F S0 I V O0 } {S U D A K A0 }!|1
+data/wavs/000258.wav|{E0 T A T } {P A D J0 I M } {B Y0 L }.|1
+data/wavs/000259.wav|{I } {E0 T A T } {S P U0 S K } {B Y0 L }.|1
+data/wavs/000260.wav|{A } {V O0 T } {E0 T A V A } {P0 I R0 I V A0 L A } {N0 I } {B Y0 L A }.|1
+data/wavs/000261.wav|{J0 A0 V N Y J0 } {P R A B0 I L } {F } {T R A J0 I K T O0 R0 I } {S U D A K A0 }.|1
+data/wavs/000262.wav|{T Y0 S0 I TSH0 A } {D0 I V0 I T0 S O0 T } {SH Y S0 T0 I D0 I S0 A0 T Y J0 } {G O0 T }.|1
+data/wavs/000263.wav|{N O0 V Y J0 } {T V O0 R TSH0 I S K0 I J0 } {P A D J0 I M }.|1
+data/wavs/000264.wav|{R A S K A0 Z Y }, {P O0 SH L Y J0 I } {D A } {K R A0 J0 N A S0 T0 I }.|1
+data/wavs/000265.wav|{T0 E0 M A } {A D0 I N O0 TSH0 I S T V A }.|1
+data/wavs/000266.wav|{N0 I Z M0 E0 N Y J0 } {A N T U R A0 SH } {V0 I TSH0 I R0 I0 N K A }.|1
+data/wavs/000267.wav|{V O0 T } {P R0 I M0 E0 R N Y J0 } {A B R A0 SH0 I K } {F A K T U0 R Y }.|1
+data/wavs/000268.wav|{A } {T Y0 } {S L A0 V N Y J0 } {M A0 L Y J0 }!|1
+data/wavs/000269.wav|{D A0 }, {T Y0 } {S L A0 V N Y J0 } {M A0 L Y J0 }!|1
+data/wavs/000270.wav|{N0 E0 T }, {T Y0 } {S L A0 V N Y J0 } {M A0 L Y J0 }.|1
+data/wavs/000271.wav|{P R O0 S T A } {Z A M0 I TSH0 A0 T0 I L0 N Y J0 }.|1
+data/wavs/000272.wav|{T Y0 } {M0 I N0 A0 } {L0 U0 B0 I SH }?|1
+data/wavs/000273.wav|{V Y P0 I R A J0 U SH0 I J0 I } {R0 I B R A0 } {P A T0 E0 K S T A }.|1
+data/wavs/000274.wav|{KH0 I M0 I N G U Y J0 } {K A0 K } {I D0 I A0 L } {L0 I T0 I R A T U0 R N Y J0 } {I } {TSH0 I L A V0 E0 TSH0 I S K0 I J0 }.|1
+data/wavs/000275.wav|{N0 I D O0 L G0 I J0 I } {Z A N0 A0 T0 I J0 A } {B O0 K S A M }.|1
+data/wavs/000276.wav|{R A Z V O0 T }, {A T M0 E0 TSH0 I N Y J0 } {T R0 O GH D N0 E0 V N A J0 } {P0 J0 A0 N K A J0 }.|1
+data/wavs/000277.wav|{P A V0 E0 S T K A } {I S } {V A J0 I N K A M A0 T A }.|1
+data/wavs/000278.wav|{J0 A0 } {KH A T0 E0 L } {U0 ZH Y } {P0 I R0 I J0 T0 I0 } {K } {R0 I SH A0 J0 U SH0 I M U } {Y T A0 P U } {S V A J0 E0 J0 } {L0 I T0 I R A T U0 R N A J0 } {B0 I A G R A0 F0 I }.|1
+data/wavs/000279.wav|{I } {V O0 T } {P0 I R0 I TSH0 I T A0 L } {N A P0 I0 S A N A J0 I }.|1
+data/wavs/000280.wav|{SH T O0 T A } {V A0 ZH N A J0 I } {S K O0 M K A N A }, {Z A B Y0 T A }.|1
+data/wavs/000281.wav|{U P U0 SH0 I N Y J0 I } {F A0 K T Y } {T A R M A Z0 I T } {M A I0 } {A F T A B0 I A G R A F0 I0 TSH0 I S K0 I J0 I } {D R A G0 I }.|1
+data/wavs/000282.wav|{J0 A0 } {U0 ZH Y } {G A V A R0 I0 L }, {SH T O0 } {P A Z N A K O0 M0 I L S0 A } {S } {B R A TS K0 I M }.|1
+data/wavs/000283.wav|{V Y T0 I S0 N0 I F } {KH0 I M0 I N G U Y J0 A }, {O0 N } {N A F S0 I G D A0 } {S T A0 L } {M A I0 M } {L0 I T0 I R A T U0 R N Y M } {K U M0 I0 R A M }.|1
+data/wavs/000284.wav|{N A0 S } {P A Z N A K O0 M0 I L A } {M A J0 A0 } {B Y0 F SH A J0 A } {ZH Y N A0 } {A S0 A }.|1
+data/wavs/000285.wav|{D A } {E0 T A V A } {A N A0 } {N0 I } {R A0 S } {G A V A R0 I0 L A }.|1
+data/wavs/000286.wav|{J0 E0 S0 T0 } {L0 U0 D0 I }, {P0 E0 R0 I T } {K A T O0 R Y M0 I }, {S T O0 J0 I T } {V0 I L0 I0 K0 I J0 I } {TS E0 L0 I }!|1
+data/wavs/000287.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000288.wav|{SH L0 I0 } {M Y0 } {A T K U0 D A T A } {S } {B R A TS K0 I M }.|1
+data/wavs/000289.wav|{B Y0 L } {P O0 Z0 N0 I J0 } {V0 E0 TSH0 I R }.|1
+data/wavs/000290.wav|{S P U S0 T0 I0 L0 I S0 } {F } {M0 I T R O0 } {Z A K R Y0 T A }.|1
+data/wavs/000291.wav|{TSH0 U G U0 N A J0 A } {R0 I SH O0 T K A } {A T } {Z0 I M L0 I0 } {D A } {P A T A L K A0 }.|1
+data/wavs/000292.wav|{A } {Z A } {R0 I SH O0 T K A J0 } {P R A G U0 L0 I V A J0 I TS A } {M0 I L0 I TS Y A N0 E0 R }.|1
+data/wavs/000293.wav|{I O0 S0 I F } {P A D A SH O0 L } {B L0 I0 ZH Y }.|1
+data/wavs/000294.wav|{Z A T0 E0 M } {D A V O0 L0 N A } {G R O0 M K A } {K R0 I0 K N U L }.|1
+data/wavs/000295.wav|{M0 I L0 I TS Y A N0 E0 R } {N A S T A R A ZH Y0 L S0 A }, {A B0 I R N U0 L S0 A }.|1
+data/wavs/000296.wav|{D0 I0 V N A J0 A } {K A R T0 I0 N A }, {S K A Z A0 L } {J0 I M U0 } {B R A TS K0 I J0 }, {F P0 I R V Y0 J0 I } {N A B L0 U D A0 J0 U } {M0 I N T A } {Z A } {R0 I SH O0 T K A J0 }.|1
+data/wavs/000297.wav|{J0 A0 } {P A Z N A K O0 M0 I L S0 A } {S } {B R A TS K0 I M }, {N A J0 M A N A M }, {R0 I J0 N A M }.|1
+data/wavs/000298.wav|{F } {D A L0 N0 E0 J0 SH Y M } {U Z N A0 L } {I0 KH } {L U0 TSH0 SH Y }.|1
+data/wavs/000299.wav|{T A } {J0 E0 S0 T0 } {F } {P A S L0 I A R M0 I J0 S K0 I J0 I } {G O0 D Y }, {K A G D A0 } {M Y0 } {N0 E0 S K A L0 K A } {Z B L0 I0 Z0 I L0 I S0 }.|1
+data/wavs/000300.wav|{D A } {E0 T A V A } {J0 A0 } {N0 I } {M O0 K } {P A } {Z A S L U0 G A M } {A TS Y N0 I0 T0 } {I0 KH } {T V O0 R TSH0 I S K A J0 I } {I } {L0 I0 TSH0 N A J0 I } {S V A J0 I A B R A0 Z0 I J0 I }.|1
+data/wavs/000301.wav|{B O0 L0 I J0 I } {T A V O0 }, {M A J0 O0 } {A T N A SH E0 N0 I J0 I } {K } {E0 T A J0 } {G R U0 P0 I } {P A E0 T A F } {I M0 E0 L A } {N A L0 O0 T } {S K0 I P T0 I TS Y0 Z M A }.|1
+data/wavs/000302.wav|{P A M0 I M A } {L0 I T0 I R A T U0 R Y } {J0 A0 } {ZH Y0 L } {I N0 T0 I R0 E0 S A M0 I } {S P O0 R T A }, {F U D B O0 L A }.|1
+data/wavs/000303.wav|{N R A0 V0 I L S0 A } {B A0 R Y SH N0 I M } {I S } {T0 I KH N0 I0 TSH0 I S K0 I KH } {V U0 Z A F }.|1
+data/wavs/000304.wav|{L0 I T0 I R A T U0 R A } {P A K A0 } {N0 I } {S T A0 L A } {M A I0 M } {J0 I D0 I0 N S T V0 I N Y M } {Z A N0 A0 T0 I J0 I M }.|1
+data/wavs/000305.wav|{J0 A0 } {U V A ZH A0 L } {J0 I F T U SH Y N K A }.|1
+data/wavs/000306.wav|{P A TSH0 I M U0 } {ZH Y } {T A0 K } {V A0 ZH N A } {U P A M0 I N U0 T0 } {E0 T U } {G R U0 P U }?|1
+data/wavs/000307.wav|{J0 A0 } {U0 ZH Y } {T A G D A0 } {Z N A0 L } {A } {S U SH0 I S T V A V A0 N0 I } {N0 I A F0 I TS Y A0 L0 N A J0 } {L0 I T0 I R A T U0 R Y }.|1
+data/wavs/000308.wav|{A } {S U SH0 I S T V A V A0 N0 I } {T A0 K } {N A Z Y V A0 J0 I M A J0 } {F T O0 R A J0 } {K U L0 T U0 R N A J0 } {D0 I J0 S T V0 I0 T0 I L0 N A S0 T0 I }.|1
+data/wavs/000309.wav|{T O0 J0 } {S A0 M A J0 } {D0 I J0 S T V0 I0 T0 I L0 N A S0 T0 I }, {K A T O0 R A J0 A } {TSH0 I R0 I S } {N0 E0 S K A L0 K A } {L0 E0 T } {P R0 I V R A T0 I0 TS A } {F } {J0 I D0 I0 N S T V0 I N U J0 U } {R0 I A0 L0 N A S0 T0 }.|1
+data/wavs/000310.wav|{P A V0 E0 S T K A } {I S } {V A J0 I N K A M A0 T A }.|1
+data/wavs/000311.wav|{Z A } {T R0 I0 } {M0 E0 S0 I TS A } {D A } {E0 T A V A } {J0 A0 } {P A K0 I0 N U L } {U N0 I V0 I R S0 I T0 E0 T }.|1
+data/wavs/000312.wav|{F } {D A L0 N0 E0 J0 SH Y M } {J0 A0 } {G A V A R0 I0 L } {A } {P R0 I TSH0 I0 N A KH } {U KH O0 D A } {T U M A0 N A }.|1
+data/wavs/000313.wav|{Z A G A0 D A TSH0 N A } {K A S A0 L S0 A } {N0 E0 K0 I KH } {P A L0 I T0 I0 TSH0 I S K0 I KH } {M A T0 I0 V A F }.|1
+data/wavs/000314.wav|{N A } {S A0 M A M } {D0 E0 L0 I } {F S0 E0 } {B Y0 L A } {P R O0 SH0 I }.|1
+data/wavs/000315.wav|{R A0 Z A } {TSH0 I T Y0 R0 I } {J0 A0 } {Z D A V A0 L } {Y G Z A0 M0 I N } {P A } {N0 I M0 E0 TS K A M U } {J0 I Z Y K U0 }.|1
+data/wavs/000316.wav|{I } {K A0 ZH D Y J0 } {R A0 S } {P R A V A0 L0 I V A L S0 A }.|1
+data/wavs/000317.wav|{J0 I Z Y K A0 } {J0 A0 } {N0 I } {Z N A0 L } {S A V0 I R SH E0 N A }.|1
+data/wavs/000318.wav|{N0 I } {J0 I D0 I0 N A V A } {S L O0 V A }.|1
+data/wavs/000319.wav|{K R O0 M0 I } {I M0 O0 N } {V A ZH D0 E0 J0 } {M0 I R A V O0 V A } {P R A L0 I T A R0 I A0 T A }.|1
+data/wavs/000320.wav|{I } {N A K A N0 E0 TS } {M0 I N0 A0 } {V Y0 G N A L0 I }.|1
+data/wavs/000321.wav|{J0 A0 } {ZH Y }, {K A0 K } {V O0 D0 I TS A }, {N A M0 I K A0 L }, {SH T O0 } {S T R A D A0 J0 U } {Z A } {P R A0 V D U }.|1
+data/wavs/000322.wav|{Z A T0 E0 M } {M0 I N0 A0 } {P R0 I Z V A0 L0 I } {F } {A0 R M0 I J0 U }.|1
+data/wavs/000323.wav|{I } {J0 A0 } {P A P A0 L } {F } {K A N V O0 J0 N U J0 U } {A KH R A0 N U }.|1
+data/wavs/000324.wav|{A TSH0 I V0 I0 D N A }, {M N0 E0 } {S U ZH D0 I N A } {B Y0 L A } {P A B Y V A0 T0 } {F } {A0 D U }.|1
+data/wavs/000325.wav|{J0 A0 } {N0 I } {B U0 D U } {R A S K A0 Z Y V A T0 }, {SH T O0 } {T A K O0 J0 I } {V A KH R A }.|1
+data/wavs/000326.wav|{SH T O0 } {T A K O0 J0 I } {N Y0 N0 I SH N0 I J0 } {U S0 T0 V Y M L A K }.|1
+data/wavs/000327.wav|{N A I B O0 L0 I J0 I } {D R A M A T0 I0 TSH0 I S K0 I J0 I } {S0 I T U A0 TS Y I } {A T R A ZH Y N Y0 } {F } {M A J0 E0 J0 } {R U0 K A P0 I S0 I } {Z O0 N A }.|1
+data/wavs/000328.wav|{P A } {N0 E0 J0 }, {D U0 M A J0 U }, {M O0 ZH N A } {S U D0 I0 T0 } {A } {T O0 M }, {K A0 K } {J0 A0 } {ZH Y0 L } {E0 T0 I } {G O0 D Y }.|1
+data/wavs/000329.wav|{D V A0 } {Y G Z0 I M P L0 A0 R A } {Z O0 N Y } {U } {M0 I N0 A0 } {S A KH R A N0 I0 L0 I S0 }.|1
+data/wavs/000330.wav|{J0 I SH0 O0 } {A D0 I0 N } {B L A G A P A L U0 TSH0 N A } {P0 I R0 I P R A0 V L0 I N } {F } {N0 J0 U0 J0 O0 R K }.|1
+data/wavs/000331.wav|{I } {P A S L0 E0 D N0 I J0 }, {TSH0 I T V0 O0 R T Y J0 }, {N A KH O0 D0 I TS A } {F } {Y S T O0 N S K A M } {K P }.|1
+data/wavs/000332.wav|{N O0 } {A P } {E0 T A M } {P O0 ZH Y }.|1
+data/wavs/000333.wav|{Z O0 N A } {M0 I M U A0 R Y } {N A DZ0 I R A0 T0 I L0 A } {K A N V O0 J0 N A J0 } {A KH R A0 N Y }, {TS Y0 K L } {T0 U R0 E0 M N Y KH } {R A S K A0 Z A F }.|1
+data/wavs/000334.wav|{K A0 K } {V0 I0 D0 I T0 I }, {N A0 TSH0 I L } {J0 A0 } {S } {B Y T A P0 I S A0 N0 I J0 A } {I Z N A0 N K0 I } {ZH Y0 Z0 N0 I }.|1
+data/wavs/000335.wav|{D0 I B0 U0 T } {F P A L N0 E0 } {J0 I S0 T0 E0 S T V0 I N Y J0 } {B A B0 I L0 }, {G O0 R0 K0 I J0 }, {KH0 I M0 I N G U Y J0 }.|1
+data/wavs/000336.wav|{Y G Z A T0 I0 TSH0 N A S0 T0 } {P0 I R0 I ZH Y T A V A } {M A T0 I R0 I A0 L A } {V A0 ZH N Y J0 } {L0 I T0 I R A T U0 R N Y J0 } {S0 T0 I0 M U L }.|1
+data/wavs/000337.wav|{KH A T0 A0 } {N A I B O0 L0 I J0 I } {TSH0 U D O0 V0 I SH0 N Y J0 I }, {Y P A T0 I R U J0 U SH0 I J0 I } {P A D R O0 B N A S0 T0 I } {L A0 G0 I R N A J0 } {ZH Y0 Z0 N0 I } {J0 A0 }, {K A0 K } {G A V A R0 I0 TS A }, {A P U S0 T0 I0 L }.|1
+data/wavs/000338.wav|{V A S P R A I Z V A D0 I T0 } {I0 KH } {N0 I } {KH A T0 E0 L A S0 }.|1
+data/wavs/000339.wav|{E0 T A } {V Y0 G L0 I D0 I L A } {B Y } {S P0 I K U L0 I T0 I0 V N A }.|1
+data/wavs/000340.wav|{Y F0 E0 K T } {Z A K L0 U TSH0 A0 L S0 A } {B Y } {N0 I } {F } {KH U D O0 ZH Y S T V0 I N A J0 } {T K A0 N0 I } {P R A I Z V0 I D0 E0 N0 I J0 A }, {A } {F } {S A0 M A M } {M A T0 I R0 I A0 L0 I }.|1
+data/wavs/000341.wav|{T A0 K } {SH T O0 } {J0 A0 } {I G N A R0 I R A V A L } {K R A0 J0 N A S0 T0 I }, {P Y T A0 J0 I S0 } {D0 I R ZH A0 TS A } {F } {A B Y0 D0 I N Y KH } {Y S0 T0 I T0 I0 TSH0 I S K0 I KH } {R A0 M K A KH }.|1
+data/wavs/000342.wav|{F } {TSH0 E0 M } {A S N O0 V N Y J0 I } {I D0 E0 I } {Z O0 N Y }?|1
+data/wavs/000343.wav|{M0 I R A V A0 J0 A } {K A0 T A R ZH N A J0 A } {L0 I T0 I R A T U0 R A } {Z N A0 J0 I T } {D V0 E0 } {S0 I S0 T0 E0 M Y } {I D0 E0 J0 N Y KH } {P R0 I TS T A V L0 E0 N0 I J0 }.|1
+data/wavs/000344.wav|{D V A0 } {N R A0 F S T V0 I N Y KH } {A S P0 E0 K T A }.|1
+data/wavs/000345.wav|{K A0 T A R ZH N0 I K } {ZH E0 R T V A }, {G0 I R O0 J0 }, {B L A G A R O0 D N A J0 A } {M N A G A S T R A D A0 L0 N A J0 A } {F0 I G U0 R A }.|1
+data/wavs/000346.wav|{S A T V0 E0 TS T V0 I N A } {R A S P R0 I D0 I L0 A0 J0 U TS A } {M A R A0 L0 N Y J0 I } {A R0 I J0 I N0 T0 I0 R Y }.|1
+data/wavs/000347.wav|{T A } {J0 E0 S0 T0 } {P R0 I TS T A V0 I0 T0 I L0 I } {R0 I ZH Y0 M A } {S0 I0 L A } {N0 I G A T0 I0 V N A J0 A }, {A T R0 I TS A0 T0 I L0 N A J0 A }.|1
+data/wavs/000348.wav|{K A0 T A R ZH N0 I K } {M O0 N S T R }, {Z L A D0 E0 J0 }.|1
+data/wavs/000349.wav|{S A T V0 E0 TS T V0 I N A } {F S0 E0 } {N A B A R O0 T }.|1
+data/wavs/000350.wav|{K A R A0 T0 I L0 }, {P A L0 I TS E0 J0 S K0 I J0 }, {S Y0 SH0 I K }, {M0 I L0 I TS Y A N0 E0 R } {F0 I G U0 R Y } {B L A G A R O0 D N Y J0 I } {I } {G0 I R A I0 TSH0 I S K0 I J0 I }.|1
+data/wavs/000351.wav|{J0 A0 } {ZH Y } {S } {U D0 I V L0 E0 N0 I J0 I M } {A B N A R U0 ZH Y L } {N0 E0 TSH0 T A } {T R0 E0 T0 J0 I }.|1
+data/wavs/000352.wav|{P A L0 I TS E0 J0 S K0 I J0 I } {I } {V O0 R Y } {TSH0 R0 I Z V Y TSH0 A0 J0 N A } {N A P A M0 I N A J0 U T } {D R U0 K } {D R U0 G A }.|1
+data/wavs/000353.wav|{Z A K L0 U TSH0 O0 N Y J0 I } {A S O0 B A V A } {R0 I ZH Y0 M A } {I } {L A0 G0 I R N Y J0 I } {N A DZ0 I R A0 T0 I L0 I } {B0 I Z U0 M N A } {P A KH O0 ZH Y }.|1
+data/wavs/000354.wav|{J0 I Z Y0 K }, {O0 B R A S } {M Y0 S L0 I J0 }, {F A L0 K L O0 R }, {Y S0 T0 I T0 I0 TSH0 I S K0 I J0 I } {K A N O0 N Y }, {N R A0 F S T V0 I N Y J0 I } {U S T A N O0 F K0 I }.|1
+data/wavs/000355.wav|{T A K O0 F } {R0 I Z U L0 T A0 T } {A B A J0 U0 D N A V A } {V L0 I J0 A0 N0 I J0 A }.|1
+data/wavs/000356.wav|{P A } {O0 B0 I } {S T O0 R A N Y } {K A L0 U0 TSH0 I J0 } {P R O0 V A L A K0 I } {J0 I D0 I0 N Y J0 } {I } {ZH Y S T O0 K0 I J0 } {M0 I0 R }.|1
+data/wavs/000357.wav|{E0 T A } {J0 A0 } {I } {P A P Y T A0 L S0 A } {V Y0 R A Z0 I T0 }.|1
+data/wavs/000358.wav|{I } {J0 I SH0 O0 } {A D N U0 } {S U SH0 E0 S T V0 I N U J0 U } {TSH0 I R T U0 } {U S M A T R0 I V A J0 U } {J0 A0 } {F } {M O0 J0 I M } {L A0 G0 I R N A M } {N A S L0 E0 D0 I }.|1
+data/wavs/000359.wav|{S R A V N0 I0 T0 I L0 N A } {N O0 V Y J0 } {P A } {A T N A SH E0 N0 I J0 U } {K } {M0 I R A V O0 J0 } {L0 I T0 I R A T U0 R0 I } {SH T R0 I0 KH }.|1
+data/wavs/000360.wav|{K A0 T A R G A } {N0 I Z M0 E0 N A } {I Z A B R A ZH A0 L A S0 } {S } {P A Z0 I0 TS Y J0 } {ZH E0 R T V Y }.|1
+data/wavs/000361.wav|{K A0 T A R G A } {ZH Y }, {U V Y0 }, {I } {P A P A L N0 I L A } {R0 I D Y0 } {L0 I T0 I R A0 T A R A F }.|1
+data/wavs/000362.wav|{L A0 G0 I R N A J0 A } {A KH R A0 N A } {N0 I } {P A R A D0 I0 L A } {V0 I0 D N Y KH } {M A S0 T0 I R O0 F } {S L O0 V A }.|1
+data/wavs/000363.wav|{T A0 K } {SH T O0 } {M A I0 } {Z A P0 I0 S K0 I } {A KH R A0 N0 I K A } {S V A J0 I A B R A0 Z N A J0 A } {N A V0 I0 N K A }.|1
+data/wavs/000364.wav|{K A R O0 TSH0 I }, {O0 S0 I N0 J0 U } {SH Y Z0 D Y S0 A0 T } {TSH0 I T V0 O0 R T A V A } {G O0 D A } {J0 A0 } {P A J0 I V0 I0 L S0 A } {F } {L0 I N0 I N G R A D0 I }.|1
+data/wavs/000365.wav|{F } {T O0 SH0 I M } {R0 U G Z A K0 E0 } {L0 I ZH A0 L A } {Z O0 N A }.|1
+data/wavs/000366.wav|{P0 I R S P0 I K T0 I0 V Y } {B Y0 L0 I } {S A0 M Y J0 I } {N0 I J0 A0 S N Y J0 I }.|1
+data/wavs/000367.wav|{N A TSH0 I N A0 L S0 A } {V A ZH N0 E0 J0 SH Y J0 } {Y T A0 P } {M A J0 E0 J0 } {ZH Y0 Z0 N0 I }.|1
+data/wavs/000368.wav|{J0 A0 } {F S T R0 E0 T0 I L S0 A } {S } {B Y0 F SH Y M0 I } {P R0 I J0 A0 T0 I L0 I M0 I }.|1
+data/wavs/000369.wav|{A P SH0 A0 TS A } {N A0 M } {S T A0 L A } {T R U0 D N A }.|1
+data/wavs/000370.wav|{V A Z0 N0 I0 K } {K A K O0 J0 T A } {P S0 I KH A L A G0 I0 TSH0 I S K0 I J0 } {B A R0 J0 E0 R }.|1
+data/wavs/000371.wav|{D R U Z0 J0 A0 } {K A N0 TSH0 A0 L0 I } {U N0 I V0 I R S0 I T0 E0 T }, {S0 I R0 J0 O0 Z N A } {Z A N0 I M A0 L0 I S0 } {F0 I L A L O0 G0 I J0 I J0 }.|1
+data/wavs/000372.wav|{P A T KH V A0 TSH0 I N Y J0 I } {T0 O0 P L Y M } {V0 E0 T R A M } {N A TSH0 A0 L A } {SH Y S0 T0 I D0 I S0 A0 T Y KH } {G A D O0 F }, {A N0 I0 } {I N0 T0 I L0 I K T U A0 L0 N A } {R A S TS V0 I L0 I0 }.|1
+data/wavs/000373.wav|{A } {J0 A0 } {B0 I Z N A D0 O0 ZH N A } {A TS T A0 L }.|1
+data/wavs/000374.wav|{J0 A0 } {N A P A M0 I N A L } {F R A N T A V0 I K A0 }, {K A T O0 R Y J0 } {V0 I R N U0 L S0 A } {I } {A B N A R U0 ZH Y L }, {SH T O0 } {J0 I V O0 } {T Y L A V Y0 J0 I } {D R U Z0 J0 A0 } {P R0 I U S P0 E0 L0 I }.|1
+data/wavs/000375.wav|{M A I0 } {O0 R D0 I N A } {P A Z V0 A0 K0 I V A L0 I }, {K A0 K } {SH U T A F S K0 I0 J0 I } {B U B0 I N TS Y0 }.|1
+data/wavs/000376.wav|{J0 A0 } {P A B Y V A0 L } {N A } {S T U D0 E0 N0 TSH0 I S K0 I KH } {V0 I TSH0 I R0 I0 N K A KH }.|1
+data/wavs/000377.wav|{R A S K A0 Z Y V A L } {K A SH M A0 R N Y J0 I } {L A0 G0 I R N Y J0 I } {I S T O0 R0 I }.|1
+data/wavs/000378.wav|{M0 I N0 A0 } {D0 I L0 I K A0 T N A } {S L U0 SH A L0 I } {I } {V A Z V R A SH0 A0 L0 I S0 } {K } {A K T U A0 L0 N Y M } {F0 I L A L A G0 I0 TSH0 I S K0 I M } {T0 E0 M A M } {P R U0 S T }, {B0 I R A U S }, {N A B A K A F }.|1
+data/wavs/000379.wav|{F S0 E0 } {E0 T A } {K A Z A0 L A S0 } {M N0 E0 } {U D0 I V0 I0 T0 I L0 N A } {P R0 E0 S N Y M }.|1
+data/wavs/000380.wav|{J0 A0 } {B Y0 L } {A D0 E0 R ZH Y M } {G0 I R A I0 TSH0 I S K0 I M0 I } {L A0 G0 I R N Y M0 I } {V A S P A M0 I N A0 N0 I J0 I M0 I }.|1
+data/wavs/000381.wav|{J0 A0 } {P R A I Z N A S0 I0 L } {T O0 S T Y } {F } {TSH0 E0 S0 T0 } {U M0 I R SH0 V L0 O0 N Y KH } {N A DZ0 I R A0 T0 I L0 I J0 } {I } {K A N V A I0 R A F }.|1
+data/wavs/000382.wav|{J0 A0 } {R A S K A0 Z Y V A L } {A } {T A K0 I0 KH } {U0 ZH A S A KH }, {K A T O0 R Y J0 I } {F } {S V A J0 E0 J0 } {TSH0 R0 I Z M0 E0 R N A S0 T0 I } {B Y0 L0 I } {L0 I SH Y N Y0 } {P R A V D A P A D O0 B0 I J0 A }.|1
+data/wavs/000383.wav|{J0 A0 } {F S0 E0 M } {N A D A J0 E0 L }.|1
+data/wavs/000384.wav|{M N0 E0 } {P A N0 A0 T N A }, {Z A } {SH T O0 } {V Y S M0 I V A L } {T U R G0 I N0 I F } {N0 I D A0 V N0 I V A } {K A T A R ZH A0 N0 I N A } {D A S T A J0 I F S K A V A }.|1
+data/wavs/000385.wav|{K } {E0 T A M U } {V R0 E0 M0 I N0 I } {M A J0 A0 } {ZH Y N A0 } {P A L0 U B0 I0 L A } {Z N A M0 I N0 I0 T A V A } {S T A L0 I0 TSH0 N A V A } {L0 I T0 I R A0 T A R A }.|1
+data/wavs/000386.wav|{T A G D A0 } {J0 A0 } {A K A N0 TSH0 A0 T0 I L0 N A } {N A D U0 L S0 A } {I } {S A } {F S0 E0 M0 I } {P0 I R0 I S O0 R0 I L S0 A }.|1
+data/wavs/000387.wav|{N A0 D A } {B Y0 L A } {I S K A0 T0 } {R A B O0 T U }.|1
+data/wavs/000388.wav|{M N0 E0 } {K A Z A0 L A S0 } {F } {T U0 } {P O0 R U }, {SH T O0 } {ZH U R N A L0 I0 S0 T0 I K A } {S R A D N0 I0 } {L0 I T0 I R A T U0 R0 I }.|1
+data/wavs/000389.wav|{I } {J0 A0 } {P A S T U P0 I0 L } {F } {Z A V O0 TS K U J0 U } {M N A G A T0 I R A0 SH K U }.|1
+data/wavs/000390.wav|{G A Z0 E0 T N A J0 A } {R A B O0 T A } {P A N Y0 N0 I } {J0 I V L0 A0 J0 I TS A } {D L0 A } {M0 I N0 A0 } {I S T O0 TSH0 N0 I K A M } {S U SH0 I S T V A V A0 N0 I J0 A }.|1
+data/wavs/000391.wav|{S0 I J0 TSH0 A0 S } {G A Z0 E0 T A } {M N0 E0 } {A P R A T0 I0 V0 I L A }, {N O0 } {T A G D A0 } {J0 A0 } {B Y0 L } {P A L O0 N } {Y N T U Z0 I A0 Z M A }.|1
+data/wavs/000392.wav|{M N O0 G A } {G A V A R0 I0 TS A } {A } {T O0 M }, {SH T O0 } {ZH U R N A L0 I0 S0 T0 I K A } {D L0 A } {L0 I T0 I R A0 T A R A } {Z A N0 A0 T0 I J0 I } {P A0 G U B N A J0 I }.|1
+data/wavs/000393.wav|{J0 A0 } {E0 T A V A } {N0 I } {A SH0 U T0 I0 L }.|1
+data/wavs/000394.wav|{F } {E0 T0 I KH } {S L U0 TSH0 I J0 I KH } {D0 E0 J0 S T V U J0 U T } {R A Z L0 I0 TSH0 N Y J0 I } {U TSH0 A0 S T K0 I } {G A L A V N O0 V A } {M O0 Z G A }.|1
+data/wavs/000395.wav|{K A G D A0 } {J0 A0 } {T V A R0 U0 } {D L0 A } {G A Z0 E0 T Y }, {U } {M0 I N0 A0 } {I Z M0 I N0 A0 J0 I TS A } {P O0 TSH0 I R K }.|1
+data/wavs/000396.wav|{I T A0 K }, {J0 A0 } {P A S T U P0 I0 L } {F } {Z A V O0 TS K U J0 U } {M N A G A T0 I R A0 SH K U }.|1
+data/wavs/000397.wav|{A D N A V R0 I M0 E0 N A } {P0 I S A L } {R A S K A0 Z Y }.|1
+data/wavs/000398.wav|{I0 KH } {S T A N A V0 I0 L A S0 } {F S0 E0 } {B O0 L0 SH Y }.|1
+data/wavs/000399.wav|{A N0 I0 } {N0 I } {U M0 I SH0 A0 L0 I S0 } {F } {T O0 L S T A J0 } {P A0 P K0 I } {Z A } {S O0 R A K } {K A P0 E0 J0 I K }.|1
+data/wavs/000400.wav|{T A G D A0 } {J0 A0 } {J0 I SH0 O0 } {N0 I } {F P A L N0 E0 } {S0 I R0 J0 O0 Z N A } {A T N A S0 I0 L S0 A } {K } {E0 T A M U }.|1
+data/wavs/000401.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000402.wav|{A D N A0 ZH D Y } {B R A0 T } {S P R A S0 I0 L } {M0 I N0 A0 }.|1
+data/wavs/000403.wav|{T Y0 } {P0 I0 SH Y SH } {R A M A0 N }?|1
+data/wavs/000404.wav|{I } {J0 A0 } {P0 I SH U0 }, {A B R A0 D A V A L S0 A } {B R A0 T } {M A KH N0 O0 M } {N0 I } {G L0 A0 D0 A }?|1
+data/wavs/000405.wav|{J0 A0 } {D O0 L ZH Y N } {B Y0 L } {K A M U0 T A } {P A K A Z A0 T0 } {S V A I0 } {R U0 K A P0 I S0 I }.|1
+data/wavs/000406.wav|{P R0 I J0 A0 T0 I L0 I } {S } {F0 I L F A0 K A } {N0 I } {V N U SH A L0 I } {D A V0 E0 R0 I J0 A }.|1
+data/wavs/000407.wav|{Z N A K O0 M Y KH } {L0 I T0 I R A0 T A R A F } {U } {M0 I N0 A0 } {N0 I } {B Y0 L A }.|1
+data/wavs/000408.wav|{T O0 L0 K A } {N0 I A F0 I TS Y A0 L0 N Y J0 I }.|1
+data/wavs/000409.wav|{P A T O0 M A K } {D A R T A N0 J0 I N A }.|1
+data/wavs/000410.wav|{P A } {B U L0 V A0 R U } {V D O0 L0 } {ZH O0 L T Y KH } {S K A M0 E0 J0 I K }, {M0 I0 M A } {G0 I0 P S A V Y KH } {U0 R N } {SH A G A0 J0 I T } {N0 I B A L0 SH O0 V A } {R O0 S T A } {TSH0 I L A V0 E0 K }.|1
+data/wavs/000411.wav|{Z A V U0 T } {J0 I V O0 } {A N A T A L0 I } {N A J0 M A N }.|1
+data/wavs/000412.wav|{B Y0 S T R Y J0 I } {N O0 G0 I } {J0 I V O0 } {A P T0 A0 N U T Y } {S V0 E0 T L Y M0 I } {K A N0 T0 I N0 I N T A0 L0 N Y M0 I } {DZH Y0 N S A M0 I }.|1
+data/wavs/000413.wav|{F } {D V0 I ZH E0 N0 I J0 I KH } {I Z0 A0 SH0 I S T V A } {J0 U0 N A V A } {K N0 A0 Z0 A }.|1
+data/wavs/000414.wav|{N A J0 M A N } {I N0 T0 I L0 I K T U A0 L0 N Y J0 } {K A V B O0 J0 }.|1
+data/wavs/000415.wav|{U S P0 I V A0 J0 I T } {N A ZH A0 T0 } {S P U S K A V O0 J0 } {K R0 U TSH0 O0 K } {R A0 N0 SH Y } {L0 U B O0 V A } {A P A N0 E0 N T A }.|1
+data/wavs/000416.wav|{J0 I V O0 } {T R A S0 I0 R U J0 U SH0 I J0 I } {SH U0 T K0 I } {J0 I D A V0 I0 T Y }.|1
+data/wavs/000417.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000418.wav|{ZH E0 N0 SH0 I N A } {F } {T R A M V A0 J0 I } {N A J0 M A N U }.|1
+data/wavs/000419.wav|{A0 KH }, {N0 I } {P R0 I K A S A0 J0 T0 I S0 } {K A } {M N0 E0 }!|1
+data/wavs/000420.wav|{N0 I TSH0 I G O0 } {S T R A0 SH N A V A }, {J0 A0 } {P O0 T A M } {V Y0 M A J0 U } {R U K0 I0 }.|1
+data/wavs/000421.wav|{K R O0 M0 I } {T A V O0 }, {N A J0 M A N } {P0 I0 SH Y T } {Z A M0 I TSH0 A0 T0 I L0 N Y J0 I } {S0 T0 I KH0 I }, {O0 N } {D R U0 K } {A KH M A T A V A J0 } {I } {V A S P0 I T A0 T0 I L0 } {B R A TS K A V A }.|1
+data/wavs/000422.wav|{J0 A0 } {J0 I V O0 } {B A J0 U0 S0 }.|1
+data/wavs/000423.wav|{M Y0 } {F S T R0 E0 T0 I L0 I S0 } {N A } {U0 L0 I TS Y } {P R A0 V D Y }.|1
+data/wavs/000424.wav|{N A J0 M A N } {A G L0 I D0 E0 L } {M0 I N0 A0 } {S } {V0 I S0 O0 L Y M } {Z A D O0 R A M }.|1
+data/wavs/000425.wav|{J0 I SH0 O0 } {B Y }, {P A TS T R0 I L0 I0 T0 } {T A K U0 J0 U } {K R U0 P N U J0 U } {D0 I0 TSH0 }!|1
+data/wavs/000426.wav|{S K O0 R A } {N A J0 M A N } {U B0 I D0 I0 L S0 A } {F } {T O0 M }, {SH T O0 } {J0 A0 } {M L0 I K A P0 I T A J0 U SH0 I J0 I }.|1
+data/wavs/000427.wav|{M O0 R SH } {N A } {S U0 SH Y }.|1
+data/wavs/000428.wav|{TSH0 I R0 I SH0 U0 R } {B O0 L0 SH A J0 A } {M0 I SH E0 N0 }.|1
+data/wavs/000429.wav|{S T R0 I L0 A0 T0 } {F } {M0 I N0 A0 } {N0 I N0 T0 I R0 E0 S N A }.|1
+data/wavs/000430.wav|{M Y0 }, {K A0 ZH Y TS A }, {Z N A K O0 M Y }?|1
+data/wavs/000431.wav|{D0 I M A B0 I L0 I Z A V A0 L0 I S0 }?|1
+data/wavs/000433.wav|{SH T O0 T A } {P0 I0 SH Y T0 I }?|1
+data/wavs/000434.wav|{P R A TSH0 I T A0 J0 T0 I } {S T R A TSH0 K0 I0 } {T R0 I0 }.|1
+data/wavs/000435.wav|{A0 KH }, {R A S K A0 Z Y }?|1
+data/wavs/000436.wav|{T A G D A0 } {Z A N0 I S0 I0 T0 I }.|1
+data/wavs/000437.wav|{J0 A0 } {ZH Y V U0 } {B L0 I0 S K A }.|1
+data/wavs/000438.wav|{N A J0 M A N } {TSH0 I T A0 J0 I T } {M A I0 } {R A S K A0 Z Y }.|1
+data/wavs/000439.wav|{M Y0 } {G U L0 A0 J0 I M } {V O0 Z L0 I } {P U0 SH K0 I N S K A V A } {T0 I A0 T R A }.|1
+data/wavs/000440.wav|{TSH0 I R0 I S } {G O0 T } {V Y0 } {S T A0 N0 I T0 I } {P R A G R0 I S0 I0 V N Y M } {M A L A D Y0 M } {A0 F T A R A M }.|1
+data/wavs/000441.wav|{J0 E0 S L0 I } {V A0 S } {E0 T A }, {K A N0 E0 SH N A }, {U S T R A0 I V A J0 I T }.|1
+data/wavs/000442.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000443.wav|{T O0 L0 A }, {Z O0 V U } {J0 A0 } {N A J0 M A N A }.|1
+data/wavs/000444.wav|{P A J0 D0 O M T0 I } {F } {G O0 S0 T0 I } {K } {L0 E0 V0 I } {R Y S K0 I N U }.|1
+data/wavs/000445.wav|{K A K O0 J0 T A } {O0 N } {S A V0 E0 TS K0 I J0 }.|1
+data/wavs/000446.wav|{T A } {J0 E0 S0 T0 } {K A0 K } {E0 T A } {S A V0 E0 TS K0 I J0 }?|1
+data/wavs/000447.wav|{V Y0 } {A SH Y B A0 J0 I T0 I S0 }!|1
+data/wavs/000448.wav|{N U0 }, {A N0 T0 I S A V0 E0 TS K0 I J0 }.|1
+data/wavs/000449.wav|{K A K A0 J0 A } {R A0 Z0 N0 I TS A }?|1
+data/wavs/000450.wav|{N A J0 M A N } {S P0 E0 SH Y T }.|1
+data/wavs/000451.wav|{J0 A0 } {P R A V A ZH A J0 U } {J0 I V O0 }.|1
+data/wavs/000452.wav|{M N0 E0 } {KH O0 TSH0 I TS A } {B0 I S } {K A N TS A0 } {G A V A R0 I0 T0 } {A } {R A S K A0 Z A KH }.|1
+data/wavs/000453.wav|{P0 I TSH0 A0 T A TS A } {N0 I } {A B0 I Z A0 T0 I L0 N A }.|1
+data/wavs/000454.wav|{E0 T A } {N0 I V A0 ZH N A }.|1
+data/wavs/000455.wav|{K A G D A0 N0 I B U T0 } {P O0 T A M }.|1
+data/wavs/000456.wav|{L0 I0 SH } {B Y } {N A P0 I S A0 T0 } {SH T O0 T A } {S T O0 J0 I SH0 I J0 I }.|1
+data/wavs/000457.wav|{N A J0 M A N } {R A S0 E0 J0 I N A } {K0 I V A0 J0 I T }.|1
+data/wavs/000458.wav|{O0 N } {R A V N A D U0 SH Y N } {D A0 ZH Y } {K } {S A Z V0 E0 Z0 D0 I J0 U } {L0 E0 V Y KH } {M A S K V0 I TSH0 E0 J0 }.|1
+data/wavs/000459.wav|{J0 I M U0 } {I Z V0 E0 S N Y } {L0 I T0 I R A T U0 R N Y J0 I } {T A0 J0 N Y } {P R O0 SH L A V A } {I } {B U0 D U SH0 I V A }.|1
+data/wavs/000460.wav|{S A V R0 I M0 E0 N A J0 A } {L0 I T0 I R A T U0 R A } {F S0 A0 } {N0 I V Z R A0 TSH0 N Y J0 } {Z A KH L A M L0 O0 N Y J0 } {T A N0 E0 L0 } {M0 E0 ZH D U } {P R O0 SH L Y M } {I } {B U0 D U SH0 I M }.|1
+data/wavs/000461.wav|{M Y0 } {A K A0 Z Y V A J0 I M S0 A } {F } {R A J0 O0 N0 I } {N A V A S T R O0 J0 I K }.|1
+data/wavs/000462.wav|{J0 A0 } {P Y T A0 J0 U S0 } {J0 I M U0 } {U G A D0 I0 T0 }.|1
+data/wavs/000463.wav|{D U0 M A J0 U }, {T O0 L S T A J0 } {N0 I } {S A G L A S0 I0 L S0 A } {B Y } {ZH Y0 T0 } {F } {E0 T A M } {U N Y0 L A M } {R A J0 O0 N0 I }!|1
+data/wavs/000464.wav|{T O0 L S T A J0 } {N0 I } {S A G L A S0 I0 L S0 A } {B Y } {ZH Y0 T0 } {F } {E0 T A M }.|1
+data/wavs/000465.wav|{M Y0 } {V0 I0 D0 I M S0 A } {D A V O0 L0 N A } {TSH0 A0 S T A }.|1
+data/wavs/000466.wav|{J0 A0 } {P R0 I N A SH U0 } {N O0 V Y J0 I } {R A S K A0 Z Y }.|1
+data/wavs/000467.wav|{T O0 L0 A } {I0 KH } {S0 N0 I S KH A D0 I0 T0 I L0 N A } {P A KH V A L0 I V A J0 I T }.|1
+data/wavs/000468.wav|{J0 I V O0 } {ZH Y N A0 } {L0 E0 R A } {T V0 I R D0 I T }.|1
+data/wavs/000469.wav|{S0 I R G0 E0 J0 }, {U } {V A0 S } {N0 E0 T } {B O0 G A }!|1
+data/wavs/000470.wav|{J0 A0 } {N0 I } {Z N A0 J0 U }, {K T O0 } {J0 A0 } {T A K O0 J0 }.|1
+data/wavs/000471.wav|{P0 I SH U0 } {R A S K A0 Z Y }.|1
+data/wavs/000472.wav|{S O0 V0 I S0 T0 } {J0 E0 S0 T0 }, {E0 T A } {T O0 TSH0 N A }.|1
+data/wavs/000473.wav|{J0 A0 } {A SH0 U SH0 A0 J0 U } {J0 I J0 O0 } {B A L0 E0 Z0 N0 I N A J0 I } {N A L0 I0 TSH0 I J0 I }.|1
+data/wavs/000474.wav|{M N0 E0 } {G R U0 S N A }, {SH T O0 } {N A0 SH A } {P L A N0 E0 T A } {F } {D A L0 N0 E0 J0 SH Y M } {A S T Y0 N0 I T }.|1
+data/wavs/000475.wav|{J0 A0 } {Z A V0 I0 D U J0 U } {N A J0 M A N U }.|1
+data/wavs/000476.wav|{J0 I V O0 } {A S T R A U0 M0 I J0 U }, {U V0 E0 R0 I N A S0 T0 I }, {Z L O0 S0 T0 I }.|1
+data/wavs/000477.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000478.wav|{N A J0 M A N U } {Z V A N0 I0 T } {P R0 I J0 A0 T0 I L0 N0 I TS A }.|1
+data/wavs/000479.wav|{P R0 I KH A D0 I0 } {K } {N A0 M } {A B0 E0 D A T0 }.|1
+data/wavs/000480.wav|{Z N A0 J0 I SH }, {V A Z0 M0 I0 } {P A } {D A R O0 G0 I } {S A R D0 I0 N } {T A K0 I0 KH } {I0 M P A R T N Y KH }, {M A R A K A0 N S K0 I KH }.|1
+data/wavs/000481.wav|{I } {V A R0 E0 N0 J0 A } {K A K O0 V A N0 I B U T0 }.|1
+data/wavs/000482.wav|{J0 E0 S L0 I } {T0 I B0 A0 } {N0 I } {A B0 I S P A K O0 J0 I T } {E0 T0 I } {R A S KH O0 D Y }.|1
+data/wavs/000483.wav|{E0 T0 I } {R A S KH O0 D Y } {M0 I N0 A0 } {S A V0 I R SH E0 N A } {N0 I } {A B0 I S P A K O0 J0 I T }.|1
+data/wavs/000484.wav|{P A T A M U0 } {SH T O0 } {J0 A0 } {N0 I } {K U P L0 U0 } {N0 I } {T A V O0 }, {N0 I } {D R U G O0 V A }.|1
+data/wavs/000485.wav|{J0 A0 } {T A0 K } {KH A TSH0 U0 } {P A N R A0 V0 I TS A } {N A J0 M A N U }.|1
+data/wavs/000486.wav|{J0 A0 } {P A TSH0 T0 I0 } {Z A I0 S K0 I V A J0 U }.|1
+data/wavs/000487.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000488.wav|{J0 A0 } {S P R A0 SH Y V A J0 U } {N A J0 M A N A }.|1
+data/wavs/000489.wav|{V Y0 } {Z N A0 J0 I T0 I } {A B R A M A } {K A TS Y N0 I L0 I N B A G0 I N A }?|1
+data/wavs/000490.wav|{A B R A M } {K A TS Y N0 I L0 I N B A G0 I N } {T A L A0 N T L0 I V Y J0 } {L0 I N G V0 I0 S T }.|1
+data/wavs/000491.wav|{P A P U L0 A0 R N Y J0 }, {J0 A0 R K0 I J0 } {TSH0 I L A V0 E0 K }.|1
+data/wavs/000492.wav|{T O0 L0 A } {D O0 L ZH Y N } {Z N A0 T0 } {J0 I V O0 }.|1
+data/wavs/000493.wav|{J0 A0 } {T O0 ZH Y } {Z N A0 J0 U } {A B R A M A } {K A TS Y N0 I L0 I N B A G0 I N A }.|1
+data/wavs/000494.wav|{T A } {J0 E0 S0 T0 } {U } {N A0 S } {O0 P SH0 I J0 I } {Z N A K O0 M Y J0 I }.|1
+data/wavs/000495.wav|{Z N A0 TSH0 I T }, {M Y0 } {R A V N Y0 }.|1
+data/wavs/000496.wav|{N A J0 M A N } {A T V0 I TSH0 A0 J0 I T }.|1
+data/wavs/000497.wav|{A B R A M } {K A TS Y N0 I L0 I N B A G0 I N }?|1
+data/wavs/000499.wav|{I0 M0 A } {A B R A M } {M N0 E0 } {G D0 E0 T A } {F S T R0 I TSH0 A0 L A S0 }.|1
+data/wavs/000500.wav|{A P R0 I D0 I L0 O0 N A } {F S T R0 I TSH0 A0 L A S0 }, {F A M0 I0 L0 I J0 U } {K A TS Y N0 I L0 I N B A G0 I N } {S L Y0 SH U } {F P0 I R V Y0 J0 I }.|1
+data/wavs/000501.wav|{P R0 I N A SH U0 } {J0 I M U0 } {T R0 I0 } {R A S K A0 Z A } {F } {N0 I D0 E0 L0 U }.|1
+data/wavs/000502.wav|{P R A TSH0 O0 L } {S } {U D A V O0 L0 S T V0 I J0 I M }.|1
+data/wavs/000503.wav|{R A S K A0 Z Y } {Z A M0 I TSH0 A0 T0 I L0 N Y J0 I }.|1
+data/wavs/000504.wav|{P L A KH0 I0 J0 I }, {N O0 } {Z A M0 I TSH0 A0 T0 I L0 N Y J0 I }.|1
+data/wavs/000505.wav|{V Y0 } {S T A N A V0 I T0 I S0 } {P R A G R0 I S0 I0 V N Y M } {M A L A D Y0 M } {A0 F T A R A M }.|1
+data/wavs/000506.wav|{N A } {U0 L0 I TS Y } {V A I N A V A } {J0 E0 S0 T0 } {L0 I T0 I R A T U0 R N A J0 I } {A B J0 I D0 I N0 E0 N0 I J0 I }.|1
+data/wavs/000507.wav|{T A0 M } {S A B0 I R A0 J0 U TS A } {P R A G R0 I S0 I0 V N Y J0 I } {M A L A D Y0 J0 I } {A0 F T A R Y }.|1
+data/wavs/000508.wav|{KH A T0 I0 T0 I }, {J0 A0 } {P A K A ZH U0 } {R A S K A0 Z Y } {I G A R0 U } {J0 I F0 I M A V U }?|1
+data/wavs/000509.wav|{K T O0 } {T A K O0 J0 } {I G A R0 } {J0 I F0 I M A F }?|1
+data/wavs/000510.wav|{P R A G R0 I S0 I0 V N Y J0 } {M A L A D O0 J0 } {A0 F T A R }.|1
+data/wavs/000511.wav|{T A0 K } {M A I0 } {R A S K A0 Z Y } {P A P A0 L0 I } {K } {I G A R0 U } {J0 I F0 I M A V U }.|1
+data/wavs/000512.wav|{J0 I F0 I M A F } {I0 KH } {P R A TSH0 O0 L }, {K A J0 I SH T O0 } {A D O0 B R0 I L }.|1
+data/wavs/000513.wav|{TSH0 I R0 I S } {N0 I V O0 } {J0 A0 } {P A Z N A K O0 M0 I L S0 A } {S } {B A R0 I S A M } {B A KH T0 I N Y M }, {M A R A M Z0 I N Y M } {I } {G U B0 I N Y M }.|1
+data/wavs/000514.wav|{TSH0 E0 T V0 I R A } {T A L A0 N T L0 I V Y KH } {A0 F T A R A F } {P R0 I TS T A V L0 A0 L0 I } {L0 I T0 I R A T U0 R N A J0 I } {S A D R U0 ZH Y S T V A } {G A R A ZH A0 N0 I }.|1
+data/wavs/000515.wav|{S A M O0 } {N A Z V A0 N0 I J0 I } {P R A T0 I V A P A S T A V L0 I L A } {I0 KH } {K R0 E0 P N U SH0 I J0 } {D0 I R0 I V0 E0 N S K A J0 } {L0 I T0 I R A T U0 R0 I }.|1
+data/wavs/000516.wav|{N0 I G L A0 S N Y M } {K A M A N0 D0 I0 R A M } {S A D R U0 ZH Y S T V A } {R A0 V N Y KH } {B Y0 L } {V A KH T0 I N }.|1
+data/wavs/000517.wav|{M U0 ZH Y S T V0 I N Y J0 }, {Y N0 I R G0 I0 TSH0 N Y J0 } {B A R0 I S } {TSH0 R0 I Z V Y TSH0 A0 J0 N A } {K } {S0 I B0 E0 } {R A S P A L A G A0 L }.|1
+data/wavs/000518.wav|{I Z L0 I0 SH N0 I J0 A } {T0 I A T R A0 L0 N A S0 T0 } {J0 I V O0 } {M A N0 E0 R } {P O0 R A J0 U } {V Y Z Y V A0 L A } {N A S M0 E0 SH K0 I }.|1
+data/wavs/000519.wav|{A D N A0 K A } {ZH Y } {N A S M0 E0 SH K0 I } {T A0 J0 N Y J0 I }.|1
+data/wavs/000520.wav|{S M0 I J0 A0 TS A } {A T K R Y0 T A } {N0 I } {R0 I SH A0 L0 I S0 }.|1
+data/wavs/000521.wav|{D A0 ZH Y } {J0 I D A V0 I0 T Y J0 } {N A J0 M A N } {V A Z R A ZH A0 L } {B A R0 I S U } {A S T A R O0 ZH N A }.|1
+data/wavs/000522.wav|{P O0 T A M } {J0 A0 } {U Z N A0 L }, {SH T O0 } {B A KH T0 I N U } {KH A R A SH O0 } {Z A M0 E0 T N Y } {J0 I V O0 } {S L A0 B A S0 T0 I }.|1
+data/wavs/000523.wav|{SH T O0 } {O0 N } {N0 I R0 E0 T K A } {I R A N0 I Z0 I0 R U J0 I T } {F } {S O0 P S T V0 I N Y J0 } {A0 D R0 I S }.|1
+data/wavs/000524.wav|{A } {E0 T A } {N0 I A P R A V0 I R ZH Y0 M Y J0 } {P R0 I0 Z N A K } {U M A0 }.|1
+data/wavs/000525.wav|{K A0 K } {U } {B A L0 SH Y N S T V A0 } {A G R0 I S0 I0 V N Y KH } {L0 U D0 E0 J0 }, {J0 I V O0 } {V A L0 I V O0 J0 I } {D A V L0 E0 N0 I J0 I } {A B R U0 SH Y V A L A S0 } {N A } {L0 U D0 E0 J0 } {S T O0 L0 } {ZH Y } {A G R0 I S0 I0 V N Y KH }.|1
+data/wavs/000526.wav|{F } {A T N A SH E0 N0 I } {L0 U D0 E0 J0 } {N0 I P R0 I T0 I Z A0 T0 I L0 N Y KH } {O0 N } {B Y0 L } {TSH0 R0 I Z V Y TSH0 A0 J0 N A } {Z0 D0 E0 R ZH A N }.|1
+data/wavs/000527.wav|{J0 A0 } {F } {T U0 } {P O0 R U } {B Y0 L } {N0 I P R0 I T0 I Z A0 T0 I L0 N Y M } {TSH0 I L A V0 E0 K A M }.|1
+data/wavs/000528.wav|{M N0 E0 } {I Z V0 E0 S N A }, {SH T O0 } {V A KH T0 I N } {S A V0 I R SH Y0 L } {N0 I M A0 L A } {D O0 B R Y KH } {P A S T U0 P K A F } {Y L0 I M0 I N T A0 R N A V A } {ZH Y T0 E0 J0 S K A V A } {T O0 L K A }.|1
+data/wavs/000529.wav|{J0 I M U0 } {P A S T A J0 A0 N A } {D A S A ZH D A0 L0 I } {TSH0 J0 I0 T A } {ZH Y N Y0 }, {K A T O0 R Y M } {O0 N } {V Y KH L A P A T Y V A L } {A L0 I M0 E0 N T Y }.|1
+data/wavs/000530.wav|{J0 I V O0 } {D A M A G A0 L0 I S0 } {I N V A L0 I0 D Y }, {T R0 I B A V A F SH Y J0 I } {F0 I N A0 N S A V A V A } {U TSH0 A0 S0 T0 I J0 A }.|1
+data/wavs/000531.wav|{K } {N0 I M U0 } {SH L0 I0 } {ZH E0 R T V Y } {F S0 A0 TSH0 I S K0 I KH } {B0 I Z A K O0 N0 I J0 }.|1
+data/wavs/000532.wav|{J0 I SH0 O0 } {M N0 E0 } {I M P A N0 I0 R A V A L A } {F } {N0 E0 M } {TSH0 O0 R T A TSH0 K A } {L0 I N0 I0 V A V A } {B A0 R S T V A }.|1
+data/wavs/000533.wav|{J0 I V O0 } {N0 I Z M0 E0 N A J0 A } {G A T O0 V N A S0 T0 } {R A S K A SH E0 L0 I TS A }.|1
+data/wavs/000534.wav|{T A } {J0 E0 S0 T0 } {B U K V A0 L0 N A } {U P L A T0 I0 T0 } {Z A } {F S0 E0 KH }.|1
+data/wavs/000535.wav|{G U B0 I N } {B Y0 L } {TSH0 I L A V0 E0 K A M } {D R U G O0 V A } {S K L A0 D A }.|1
+data/wavs/000536.wav|{V Y0 D U M SH0 I K }, {P L U0 T }, {S A TSH0 I N0 I0 T0 I L0 }, {O0 N } {N A TSH0 I N A0 L } {L0 I KH K O0 } {I } {U D A0 TSH0 L0 I V A }.|1
+data/wavs/000537.wav|{N O0 } {J0 I V O0 } {D A V O0 L0 N A } {B Y0 S T R A } {R A S K U S0 I0 L0 I }.|1
+data/wavs/000538.wav|{P A S L0 E0 D A V A L } {D L0 I0 T0 I L0 N Y J0 } {T0 I ZH O0 L Y J0 } {N0 I U S P0 E0 KH }.|1
+data/wavs/000539.wav|{I } {G U B0 I N }, {M N0 E0 } {K A0 ZH Y TS A }, {Z D A0 L S0 A }.|1
+data/wavs/000540.wav|{A S T A0 V0 I L } {L0 I T0 I R A T U0 R N Y J0 I } {P A P Y0 T K0 I }.|1
+data/wavs/000541.wav|{S0 I J0 TSH0 A0 S } {O0 N } {TSH0 I N O0 V N0 I K } {L0 I N G A Z A }, {N0 I Z M0 E0 N A } {P R0 I V0 E0 T L0 I V Y J0 }, {D O0 B R Y J0 }, {V0 I S0 O0 L Y J0 }.|1
+data/wavs/000542.wav|{Z A } {F S0 E0 M } {E0 T0 I M } {TSH0 U0 F S T V U J0 I TS A } {D R A0 M A }.|1
+data/wavs/000543.wav|{S A0 M } {O0 N } {G A V A R0 I0 T }, {SH T O0 } {P0 I S A T0 } {N0 I } {B R O0 S0 I L }.|1
+data/wavs/000544.wav|{M N0 E0 } {KH O0 TSH0 I TS A } {E0 T A M U } {V0 E0 R0 I T0 }.|1
+data/wavs/000545.wav|{I } {F S0 E0 T A K0 I } {J0 A0 } {D U0 M A J0 U }, {SH T O0 } {G U B0 I N } {P0 I R0 I S T U P0 I0 L } {R U B0 E0 SH } {B L A G A T V O0 R N A V A } {U J0 I D0 I N0 E0 N0 I J0 A }.|1
+data/wavs/000546.wav|{P U0 S0 T0 } {E0 T A } {Z V U TSH0 I0 T } {B A N A0 L0 N A } {L0 I T0 I R A T U0 R N A J0 A } {S R0 I D A0 } {N0 I A P KH A D0 I0 M A }.|1
+data/wavs/000547.wav|{P0 I S A0 T0 I L0 } {N0 I } {M O0 ZH Y T } {B R O0 S0 I T0 } {S V A J0 O0 } {Z A N0 A0 T0 I J0 I }.|1
+data/wavs/000548.wav|{E0 T A } {N0 I Z B0 E0 ZH N A } {P R0 I V0 I L O0 } {B Y } {K } {I S K A ZH E0 N0 I J0 U } {J0 I V O0 } {L0 I0 TSH0 N A S0 T0 I }.|1
+data/wavs/000549.wav|{V O0 T } {P A TSH0 I M U0 } {J0 A0 } {D U0 M A J0 U } {A } {G U B0 I N0 I } {S } {T R0 I V O0 G A J0 } {I } {N A D0 E0 ZH D A J0 }.|1
+data/wavs/000550.wav|{F } {M A I0 KH } {Z A P0 I S N Y0 KH } {K N0 I0 SH K A KH } {I M0 E0 J0 I TS A } {A } {N0 E0 M } {J0 I D0 I0 N S T V0 I N A J0 I } {U P A M0 I N A0 N0 I J0 I }.|1
+data/wavs/000551.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000552.wav|{V A L O0 D0 A } {G U B0 I N } {TSH0 I L A V0 E0 K } {N0 I } {S V0 E0 TS K0 I J0 }.|1
+data/wavs/000553.wav|{D A } {TSH0 I V O0 } {K R A S0 I0 V Y J0 I } {ZH Y N Y0 } {U } {M A I0 KH } {P R0 I J0 A0 T0 I L0 I J0 }.|1
+data/wavs/000554.wav|{G A V A R0 I0 T } {O0 N }, {E0 T A } {F A N T A0 S0 T0 I K A }!|1
+data/wavs/000555.wav|{U } {B A KH T0 I N A } {K R A S A0 V0 I TS A }!|1
+data/wavs/000556.wav|{U } {J0 I F0 I M A V A } {K R A S A0 V0 I TS A }!|1
+data/wavs/000558.wav|{N U0 } {T A K A0 J0 A } {K R A S A0 V0 I TS A }.|1
+data/wavs/000559.wav|{T A K0 I0 KH } {D A0 ZH Y } {F } {M0 I T R O0 } {N0 I } {TSH0 A0 S T A } {F S T R0 E0 T0 I SH }!|1
+data/wavs/000560.wav|{G U B0 I N } {R A S K A0 Z Y V A J0 I T } {A } {S0 I B0 E0 }.|1
+data/wavs/000561.wav|{D A0 }, {J0 A0 } {N0 I } {P A J0 I V L0 A0 J0 U S0 } {F } {I Z D A0 T0 I L0 S T V A KH }.|1
+data/wavs/000562.wav|{E0 T A } {B0 I S P A L0 E0 Z N A }.|1
+data/wavs/000563.wav|{P0 I SH U0 } {N A TSH0 A0 M0 I }.|1
+data/wavs/000564.wav|{I } {D A S0 T0 I G A0 J0 U } {T A K0 I0 KH } {V0 I R SH Y0 N }, {A } {K A T O0 R Y KH } {N0 I } {M0 I TSH0 T A0 L }!|1
+data/wavs/000565.wav|{P A F T A R0 A0 J0 U }, {J0 A0 } {KH A T0 E0 L } {B Y } {E0 T A M U } {V0 E0 R0 I T0 }.|1
+data/wavs/000566.wav|{N O0 } {F } {S U0 M0 I R0 I TSH0 N Y J0 I } {A Z A R0 E0 N0 I J0 A } {P A V0 E0 R0 I T0 } {T R U0 D N A }.|1
+data/wavs/000567.wav|{N O0 TSH0 } {A P A0 S N A J0 I } {V R0 E0 M0 A }.|1
+data/wavs/000568.wav|{V A } {M R A0 K0 I } {T A0 K } {L0 I KH K O0 } {P A T0 I R0 A0 T0 } {A R0 I J0 I N0 T0 I0 R Y }.|1
+data/wavs/000569.wav|{S U D0 B A0 } {G U B0 I N A } {J0 I SH0 O0 } {A D N O0 } {P R0 I S T U P L0 E0 N0 I J0 I } {N A0 SH Y KH } {L0 I T0 I R A T U0 R N Y KH } {V A KH R A F TS Y F }.|1
+data/wavs/000570.wav|{M A R A M Z0 I N } {S0 I J0 TSH0 A0 S } {TSH0 I L A V0 E0 K } {I Z V0 E0 S N Y J0 }, {ZH Y V0 O0 T } {F } {P A R0 I0 ZH Y }, {R0 I D A K T0 I R U J0 I T } {E0 KH A }.|1
+data/wavs/000571.wav|{K A G D A0 } {M Y0 } {P A Z N A K O0 M0 I L0 I S0 }, {O0 N } {U0 ZH Y } {B Y0 L } {Z N A M0 I N0 I0 T Y M } {S K A N D A L0 I0 S T A M }.|1
+data/wavs/000572.wav|{S M0 E0 L Y J0 }, {T A L A0 N T L0 I V Y J0 } {I } {R A SH0 O0 T L0 I V Y J0 }, {M A R A M Z0 I N }, {J0 A0 } {U V0 E0 R0 I N }, {D A V N O0 } {SH O0 L } {K } {N A M0 E0 TSH0 I N A J0 } {TS E0 L0 I }.|1
+data/wavs/000573.wav|{J0 I V O0 } {Z A M0 I TSH0 A0 T0 I L0 N U J0 U }, {N0 E0 S K A L0 K A } {M A N0 E0 R N U J0 U } {P R O0 Z U } {U K R A SH A J0 U T } {V N0 I Z A0 P N Y J0 I } {A0 Z0 I S Y } {J0 A0 S N A S0 T0 I } {I } {TSH0 I S T O0 T Y } {J0 A0 } {S V A B O0 D Y } {N0 I } {P R A SH U0 }.|1
+data/wavs/000574.wav|{Z A TSH0 E0 M } {M N0 E0 } {S V A B O0 D A }?|1
+data/wavs/000575.wav|{B O0 L0 I J0 I } {T A V O0 }, {U } {M0 I N0 A0 } {A N A0 }, {K A0 ZH Y TS A }, {J0 E0 S0 T0 }. {Z A M0 E0 TSH0 U }, {SH T O0 } {E0 T A } {N A P0 I0 S A N A } {D A } {Y M0 I G R A0 TS Y I }.|1
+data/wavs/000576.wav|{F } {J0 I V O0 } {KH A R A0 K T0 I R0 I } {S } {P A S L0 E0 D A V A T0 I L0 N A J0 } {N0 I P A S L0 E0 D A V A T0 I L0 N A S0 T0 J0 U } {U ZH Y V A0 L0 I S0 } {B0 I Z G R A N0 I0 TSH0 N A J0 A } {A R T A D O0 K S0 I J0 A } {I } {SH Y R A TSH0 A0 J0 SH A J0 A } {T0 I R P0 I0 M A S0 T0 }.|1
+data/wavs/000577.wav|{J0 I V O0 } {B0 I Z A P0 I L0 I TS Y O0 N Y J0 I } {ZH E0 S T Y } {R A Z D R A ZH A L0 I }.|1
+data/wavs/000578.wav|{Z A T R U D N0 I L A } {A P SH0 E0 N0 I J0 I } {I } {S K L O0 N A S0 T0 } {K } {M A R D A B O0 J0 U }.|1
+data/wavs/000579.wav|{P A S L0 E0 } {A D N O0 J0 } {K U L A0 TSH0 N A J0 } {I S T O0 R0 I } {J0 A0 } {D0 I R ZH A0 L S0 A } {A T } {M A R0 I A M Z0 I N A } {N A } {R A S T A J0 A0 N0 I }.|1
+data/wavs/000580.wav|{A } {J0 I F0 I M A V0 I } {P0 I S A T0 } {T R U0 D N A }.|1
+data/wavs/000581.wav|{I G A R0 } {M N O0 G A J0 I } {P R0 I T P R0 I0 N0 I L }, {SH T O0 B Y } {Z A T R U D N0 I0 T0 } {F S0 A0 K0 I J0 I } {R A Z G A V O0 R Y } {A } {S0 I B0 E0 }.|1
+data/wavs/000582.wav|{P A P Y0 T K0 I } {R A S K A Z A0 T0 } {A } {N0 E0 M } {U V A D0 I T } {F } {S T O0 R A N U } {K A Z0 O0 N A J0 } {KH A R A K T0 I R0 I0 S0 T0 I K0 I }.|1
+data/wavs/000583.wav|{TSH0 E0 S0 T0 I N }, {P R0 I N TS Y P0 I A0 L0 I N }, {M A R A0 L0 N A } {U S T O0 J0 TSH0 I F }.|1
+data/wavs/000584.wav|{P O0 L0 Z U J0 I TS A } {A F T A R0 I T0 E0 T A M }.|1
+data/wavs/000585.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000586.wav|{SH L0 I0 } {V Y0 B A R Y } {P R A V L0 E0 N0 I J0 A } {S A J0 U0 Z A }.|1
+data/wavs/000587.wav|{S A J0 U0 Z A } {P0 I S A0 T0 I L0 I J0 }, {R A Z U M0 E0 J0 I TS A }.|1
+data/wavs/000588.wav|{G A L A S A V A L0 I } {P A } {S P0 I0 S K A M }.|1
+data/wavs/000589.wav|{N0 I U G O0 D N U J0 U } {K A N0 D0 I D A T U0 R U } {S L0 E0 D A V A L A } {V Y0 TSH0 I R K N U T0 }.|1
+data/wavs/000590.wav|{F } {K A R0 I D O0 R0 I } {J0 I F0 I M A F } {P A F S T R0 I TSH0 A0 L } {M0 I N0 TSH0 K A F S K A V A }.|1
+data/wavs/000591.wav|{A B D A F } {I G A R0 A } {V0 I0 N Y M0 I } {P A0 R A M0 I }, {T O0 T } {Z A D O0 R N A } {P R A I Z0 N0 O0 S }.|1
+data/wavs/000592.wav|{I D0 O0 M } {G A L A S A V A T0 }!|1
+data/wavs/000593.wav|{P U N K T U A0 L0 N Y J0 } {J0 I F0 I M A F } {U T A TSH0 N0 I0 L }.|1
+data/wavs/000594.wav|{I D0 O0 M } {V Y TSH0 O R K0 I V A T0 } {D R U0 K } {D R U0 G A }.|1
+data/wavs/000595.wav|{J0 I F0 I M A F } {TSH0 I L A V0 E0 K } {N0 I } {S L0 I0 SH K A M } {A T K R A V0 E0 N Y J0 }.|1
+data/wavs/000596.wav|{K N0 I0 G0 I } {I } {D A0 ZH Y } {R U0 K A P0 I S0 I } {N0 I } {A T R A ZH A J0 U T } {P A L N A S0 T0 J0 U } {J0 I V O0 } {KH A R A0 K T0 I R A }.|1
+data/wavs/000597.wav|{J0 A0 } {KH A T0 E0 L } {B Y } {N A P0 I S A0 T0 } {E0 T A } {TSH0 I L A V0 E0 K } {S L O0 ZH N Y J0 }.|1
+data/wavs/000598.wav|{S L O0 ZH N Y J0 }, {T A0 K } {N0 I } {P0 I SH Y0 }.|1
+data/wavs/000599.wav|{A } {T A }, {Z N A0 J0 I T0 I }, {F } {P0 I R0 I V A D N Y0 KH } {R A M A0 N A KH } {D0 E0 L A J0 U TS A } {I N A G D A0 } {B0 I S P O0 M A SH0 N Y J0 I } {S N O0 S K0 I }.|1
+data/wavs/000600.wav|{F } {A R0 I G0 I N A0 L0 I } {N0 I P0 I R0 I V A D0 I0 M A J0 A } {I G R A0 } {S L O0 F }.|1
+data/wavs/000601.wav|{J0 A0 } {D U0 M A J0 U }, {J0 I F0 I M A F } {S A0 M Y J0 } {M N A G A B0 I SH0 A0 J0 U SH0 I J0 } {TSH0 I L A V0 E0 K } {F } {L0 I N0 I N G R A D0 I }.|1
+data/wavs/000602.wav|{J0 E0 S L0 I } {N0 I } {SH0 I T A0 T0 } {B R A TS K A V A }.|1
+data/wavs/000603.wav|{S R0 I D0 I0 } {M A I0 KH } {Z N A K O0 M Y KH } {P R0 I A B L A D A0 L0 I } {N0 I A R D0 I N A R N Y J0 I } {L0 I0 TSH0 N A S0 T0 I }.|1
+data/wavs/000604.wav|{G L A0 V N Y M } {O0 B R A Z A M }, {D0 E0 R S K0 I J0 I } {N A TSH0 I N A0 J0 U SH0 I J0 I } {P0 I S A0 T0 I L0 I }, {B U N T U J0 U SH0 I J0 I } {KH U D O0 ZH N0 I K0 I } {I } {R0 I V A L0 U TS Y O0 N Y J0 I } {M U Z Y K A0 N T Y }.|1
+data/wavs/000605.wav|{D A0 ZH Y } {N A } {E0 T A M } {M0 I T0 E0 ZH N A M } {F O0 N0 I } {B R A TS K0 I J0 } {R0 E0 S K A } {V Y D0 I L0 A0 L S0 A }.|1
+data/wavs/000606.wav|{N0 I0 L0 S } {B O0 R } {G A V A R0 I0 L }.|1
+data/wavs/000607.wav|{I0 S0 T0 I N Y } {B Y V A0 J0 U T } {J0 A0 S N Y J0 I } {I } {G L U B O0 K0 I J0 I }.|1
+data/wavs/000608.wav|{J0 A0 S N A J0 } {I0 S0 T0 I N0 I } {P R A T0 I V A S T A I0 T } {L O0 SH }.|1
+data/wavs/000609.wav|{G L U B O0 K A J0 } {I0 S0 T0 I N0 I } {P R A T0 I V A S T A I0 T } {D R U G A0 J0 A } {I0 S0 T0 I N A }, {N0 I } {M0 E0 N0 I J0 I } {G L U B O0 K A J0 A }.|1
+data/wavs/000610.wav|{M A I0 } {D R U Z0 J0 A0 } {B Y0 L0 I } {A D0 I R ZH Y0 M Y } {J0 A0 S N Y M0 I } {I0 S0 T0 I N A M0 I }.|1
+data/wavs/000611.wav|{M Y0 } {G A V A R0 I0 L0 I } {A } {S V A B O0 D0 I } {T V O0 R TSH0 I S T V A }, {A } {P R A0 V0 I } {N A } {I N F A R M A0 TS Y J0 U }, {A P } {U V A ZH E0 N0 I } {K } {TSH0 I L A V0 E0 TSH0 I S K A M U } {D A S T O0 I N S T V U }.|1
+data/wavs/000612.wav|{N A0 M0 I } {V L A D0 E0 L } {S K0 I P T0 I TS Y0 Z M } {P A } {A T N A SH E0 N0 I J0 U } {K } {G A S U D A0 R S T V U }.|1
+data/wavs/000613.wav|{M Y0 } {B Y0 L0 I } {S0 T0 I KH0 I0 J0 N Y M0 I }, {F0 I Z0 I A L A G0 I0 TSH0 I S K0 I M0 I } {A T0 I0 S T A M0 I }.|1
+data/wavs/000614.wav|{T A0 K } {U0 SH } {N A0 S } {V A S P0 I T A0 L0 I }.|1
+data/wavs/000615.wav|{J0 E0 S L0 I } {M Y0 } {I } {G A V A R0 I0 L0 I } {A } {B O0 G0 I }, {T A } {F } {S A S T A J0 A0 N0 I } {P O0 Z Y }, {K A K0 E0 TS T V A }, {D0 I M A0 R SH A }.|1
+data/wavs/000616.wav|{I D0 E0 J0 A } {B O0 G A } {K A Z A0 L A S0 } {N A0 M } {Z N A K O0 M } {A S O0 B A J0 } {T V O0 R TSH0 I S K A J0 } {P R0 I T0 I Z A0 T0 I L0 N A S0 T0 I }.|1
+data/wavs/000617.wav|{N A I B O0 L0 I J0 I } {V Y S O0 K A J0 } {P A } {K L A0 S U } {Y M B L0 E0 M A J0 } {KH U D O0 ZH Y S T V0 I N A V A } {I Z A B0 I0 L0 I J0 A }.|1
+data/wavs/000618.wav|{B O0 KH } {S T A N A V0 I0 L S0 A } {TSH0 E0 M T A } {V R O0 D0 I } {P A L A ZH Y0 T0 I L0 N A V A } {L0 I T0 I R A T U0 R N A V A } {G0 I R O0 J0 A }.|1
+data/wavs/000619.wav|{B R A TS K A V A } {V A L N A V A0 L0 I } {G L U B O0 K0 I J0 I } {I0 S0 T0 I N Y }.|1
+data/wavs/000620.wav|{P A N0 A0 T0 I J0 I } {D U0 SH Y } {F } {J0 I V O0 } {L0 I T0 I R A T U0 R N A M } {I } {ZH Y0 Z0 N0 I N A M } {A B0 I KH O0 D0 I } {B Y0 L A } {R0 I SH A0 J0 U SH0 I M }, {TS Y N T R A0 L0 N Y M }.|1
+data/wavs/000621.wav|{B U0 D N0 I } {N A0 SH Y V A } {G A S U D A0 R S T V A } {V A S P R0 I N0 I M A L0 I S0 } {I0 M } {K A0 K } {U M0 I R A0 N0 I J0 I } {P A K0 I0 N U T A V A } {D U SH O0 J0 } {T0 E0 L A }.|1
+data/wavs/000622.wav|{I L0 I } {K A0 K } {A P A0 T0 I J0 A } {S O0 N A V A } {M0 I0 R A }, {G D0 E0 } {B O0 D R S T V U J0 I T } {T O0 L0 K A } {P A E0 Z0 I J0 A }.|1
+data/wavs/000623.wav|{R0 A0 D A M } {S } {B R A TS K0 I M } {D R U G0 I0 J0 I } {M A L A D Y0 J0 I } {N A N K A N F A R M0 I S T Y } {K A Z A0 L0 I S0 } {L0 U D0 M0 I0 } {I N O0 J0 } {P R A F0 E0 S0 I }.|1
+data/wavs/000624.wav|{B R A TS K0 I J0 } {S O0 Z D A L } {N0 I S L Y0 KH A N U J0 U } {M A D E0 L0 } {P A V0 I D0 E0 N0 I J0 A }.|1
+data/wavs/000625.wav|{O0 N } {ZH Y0 L } {N0 I } {F } {P R A L0 I T A0 R S K A M } {G A S U D A0 R S T V0 I }, {A } {F } {M A N A S T Y R0 E0 } {S O0 P S T V0 I N A V A } {D U0 KH A }.|1
+data/wavs/000626.wav|{O0 N } {N0 I } {B A R O0 L S0 A } {S } {R0 I ZH Y0 M A M }.|1
+data/wavs/000627.wav|{O0 N } {J0 I V O0 } {N0 I } {Z A M0 I TSH0 A0 L }.|1
+data/wavs/000628.wav|{I } {D A0 ZH Y } {N0 I T V0 O0 R D A } {Z N A0 L } {A } {J0 I V O0 } {S U SH0 I S T V A V A0 N0 I }.|1
+data/wavs/000629.wav|{J0 I V O0 } {N0 I A S V0 I D A M L0 O0 N A S0 T0 } {F } {O0 B L A S0 T0 I } {S A V0 E0 TS K A J0 } {ZH Y0 Z0 N0 I } {K A Z A0 L A S0 } {P R0 I T V O0 R N A J0 }.|1
+data/wavs/000630.wav|{N A P R0 I0 M0 I R }, {O0 N } {B Y0 L } {U V0 E0 R0 I N }, {SH T O0 } {DZ0 I R ZH Y N S K0 I J0 } {ZH Y0 F }.|1
+data/wavs/000631.wav|{I } {SH T O0 } {K A M0 I N0 T0 I R N } {N A Z V A0 N0 I J0 I } {M U Z Y K A0 L0 N A V A } {A N S A0 M B L0 A }.|1
+data/wavs/000632.wav|{O0 N } {N0 I } {U Z N A V A L } {TSH0 L0 E0 N A F } {P A L0 I D B0 U R A } {TS Y K A }.|1
+data/wavs/000633.wav|{K A G D A0 } {N A } {F A S A0 D0 I } {J0 I V O0 } {D A M A0 } {U K R0 I P0 I0 L0 I } {SH Y S0 T0 I M0 I T R A V Y J0 } {P A R T R0 E0 T } {M ZH A V A N A DZ0 I }, {B R A TS K0 I J0 } {S K A Z A0 L }.|1
+data/wavs/000634.wav|{P A KH O0 SH } {N A } {U I0 L0 J0 I M A } {B L Y J0 K A }.|1
+data/wavs/000635.wav|{S V A I0 M } {P A V0 I D0 E0 N0 I J0 I M } {B R A TS K0 I J0 } {N A R U SH A L } {K A K U0 J0 U T A } {TSH0 R0 I Z V Y TSH0 A0 J0 N A } {V A0 ZH N U J0 U } {U S T A N O0 F K U }.|1
+data/wavs/000636.wav|{I } {J0 I V O0 } {S A S L A0 L0 I } {F } {A R KH A0 N G0 I L0 S K U J0 U } {G U B0 E0 R N0 I J0 U }.|1
+data/wavs/000637.wav|{S A V0 E0 TS K A J0 A } {V L A0 S0 T0 } {A B0 I0 TSH0 I V A J0 A } {D A0 M A }.|1
+data/wavs/000638.wav|{KH U0 D A } {T A M U0 }, {K T O0 } {J0 I J0 O0 } {A S K A R B L0 I J0 I T }.|1
+data/wavs/000639.wav|{N O0 } {G A R A0 Z D A } {KH U0 ZH Y } {T A M U0 }, {K T O0 } {J0 I J0 O0 } {I G N A R0 I R U J0 I T }.|1
+data/wavs/000640.wav|{N A V0 E0 R N A J0 I }, {J0 A0 } {M O0 K } {B Y } {F S P O0 M N0 I T0 } {A P } {E0 T0 I KH } {L0 U0 D0 I KH } {SH T O0 T A } {P L A KH O0 J0 I }.|1
+data/wavs/000641.wav|{A D N A0 K A } {D0 E0 L A T0 } {E0 T A V A } {P R0 I N TS Y P0 I A0 L0 N A } {N0 I } {ZH Y L A0 J0 U }.|1
+data/wavs/000642.wav|{N0 I } {KH A TSH0 U0 } {B Y0 T0 } {A B J0 I K T0 I0 V N Y M }.|1
+data/wavs/000643.wav|{J0 A0 } {L0 U B L0 U0 } {M A I0 KH } {T A V A0 R0 I SH0 I J0 }.|1
+data/wavs/000644.wav|{G A R A ZH A0 N0 I } {A T N0 I S L0 I0 S0 } {K A } {M N0 E0 } {B L A G A S K L O0 N A }.|1
+data/wavs/000645.wav|{ZH Y L A0 J0 A } {V0 I R N U0 T0 } {L0 I T0 I R A T U0 R0 I } {TSH0 I R T Y0 } {I Z0 A0 SH0 N A J0 } {S L A V0 E0 S N A S0 T0 I }, {A N0 I0 } {N A S T O0 J0 TSH0 I V A } {A K TS Y N0 T0 I R A V A L0 I } {J0 I Z Y K O0 V Y J0 I } {P R0 I J0 O0 M Y }.|1
+data/wavs/000646.wav|{D A0 ZH Y } {S T R O0 G0 I J0 } {J0 I F0 I M A F } {B A L A V A0 L S0 A } {F S0 A0 TSH0 I S K A J0 } {A R N A M0 I N T A L0 I S0 T0 I K A J0 }.|1
+data/wavs/000647.wav|{B A R0 I S } {B A KH T0 I N } {P R A V A Z G L A SH A L }.|1
+data/wavs/000648.wav|{N0 I } {P0 I SH Y0 } {T Y0 } {Y P O0 KH A M0 I } {I } {K A T A K L0 I0 Z M A M0 I }!|1
+data/wavs/000649.wav|{N0 I } {P0 I SH Y0 } {T Y0 } {S T R A S0 T0 A0 M0 I } {I } {L A K A M A T0 I0 V A M0 I }!|1
+data/wavs/000650.wav|{A } {P0 I SH Y0 } {T Y0 }, {D U0 R0 I N0 }, {B U0 K V A M0 I } {A }, {P }, {F }.|1
+data/wavs/000651.wav|{J0 A0 } {B Y0 L } {J0 I D0 I N A D U0 SH N A } {P R0 I0 N0 I T } {F } {S A D R U0 ZH Y S T V A } {G A R A ZH A0 N0 I }.|1
+data/wavs/000652.wav|{N O0 } {T U0 T } {S K A Z A0 L A S0 } {KH A R A0 K T0 I R N A J0 A } {TSH0 I R T A0 } {M A J0 E0 J0 } {B0 I A G R A0 F0 I } {U M0 E0 N0 I J0 I } {P A S P0 I V A0 T0 } {L0 I0 SH } {K } {SH A0 P A TSH0 N A M U } {R A Z B O0 R U }.|1
+data/wavs/000653.wav|{S T A I0 T } {M N0 E0 } {P R0 I A B R0 I S0 T0 I0 } {SH T O0 N0 I B U T0 } {F } {K R0 I D0 I T }, {I } {E0 T U } {SH T U0 K U } {T A TSH0 A0 S } {ZH Y } {U TS Y N0 I V A J0 U T }.|1
+data/wavs/000654.wav|{A } {J0 A0 } {P O0 T A M } {D V A0 } {G O0 D A } {R A S P L A0 TSH0 I V A J0 U S0 }.|1
+data/wavs/000655.wav|{S } {L A0 G0 I R N A J0 } {T0 E0 M A J0 } {A P A Z D A0 L } {G O0 D A } {N A } {D V A0 }.|1
+data/wavs/000656.wav|{F } {O0 P SH0 I M }, {P R0 I G L A S0 I F } {M0 I N0 A0 }, {S A D R U0 ZH Y S T V A } {N0 I M0 E0 D L0 I N A } {R A S P A0 L A S0 }.|1
+data/wavs/000657.wav|{A D0 I L0 I0 L S0 A } {J0 I F0 I M A F }.|1
+data/wavs/000658.wav|{O0 N } {P A K O0 N0 TSH0 I L } {S } {L0 I T0 I R A T U0 R N Y M0 I } {U P R A ZH N0 E0 N0 I J0 I M0 I } {I } {N A P0 I S A0 L } {T R A D0 I TS Y O0 N Y J0 } {R A M A0 N } {Z R0 E0 L0 I SH0 A }.|1
+data/wavs/000659.wav|{B0 I S } {N0 I V O0 } {G R U0 P A } {T0 I R0 A0 L A } {S A L0 I0 D N A S0 T0 }.|1
+data/wavs/000660.wav|{V0 E0 T0 } {O0 N } {B Y0 L } {J0 I D0 I0 N S T V0 I N Y M } {TSH0 L0 E0 N A M } {S A J0 U0 Z A } {P0 I S A0 T0 I L0 I J0 }.|1
+data/wavs/000661.wav|{K A R O0 TSH0 I }, {M N O0 G0 I J0 I } {D A0 ZH Y } {N0 I } {Z N A0 J0 U T }, {SH T O0 } {J0 A0 } {B Y0 L } {P0 A0 T Y M } {G A R A ZH A0 N0 I N A M }.|1
+data/wavs/000662.wav|{R0 A0 D A M } {S } {G0 I J0 N0 I }.|1
+data/wavs/000663.wav|{M A I0 } {S A TSH0 I N0 E0 N0 I J0 A } {P0 I R0 I D A V A0 L0 I S0 } {I S } {R U0 K } {F } {R U K0 I0 }.|1
+data/wavs/000664.wav|{T A0 K } {J0 A0 } {P A Z N A K O0 M0 I L S0 A } {S } {B0 I T A V Y M }, {M A0 J0 I J0 } {D A N0 I N0 I }, {R0 I D A M } {G R A TSH0 O V Y M }, {V A S K A B A J0 N0 I K A V Y M }, {L0 I A N A V Y M }, {A R A }.|1
+data/wavs/000665.wav|{F S0 E0 } {E0 T0 I } {L0 U0 D0 I } {A T N0 I S L0 I0 S0 } {K A } {M N0 E0 } {D A B R A ZH Y L A0 T0 I L0 N A }.|1
+data/wavs/000666.wav|{I S } {L0 I T0 I R A0 T A R A F } {S T A0 R SH Y V A } {P A K A L0 E0 N0 I J0 A } {R A S K A0 Z A M0 I } {Z A I N0 T0 I R0 I S A V A0 L0 I S0 } {M0 I T0 I R }, {G O0 R }, {B A K0 I N S K0 I J0 }.|1
+data/wavs/000667.wav|{K L A0 S0 I K } {N A0 SH Y J0 } {L0 I T0 I R A T U0 R Y } {G R A N0 I N } {T O0 ZH Y } {I0 KH } {P R A TSH0 O0 L }.|1
+data/wavs/000668.wav|{Z A T0 E0 M } {P R0 I G L A S0 I0 L } {M0 I N0 A0 } {N A } {D A0 TSH0 U }.|1
+data/wavs/000669.wav|{M Y0 } {B0 I S0 E0 D A V A L0 I } {V O0 Z L0 I } {K U0 KH A N A J0 } {P L0 I T Y }.|1
+data/wavs/000670.wav|{N0 I P L O0 KH A }, {P A F T A R0 A0 L } {D A N0 I L } {A L0 I K S A0 N D R A V0 I TSH0 }, {L0 I S T A J0 A } {M A J0 U0 } {R U0 K A P0 I S0 }, {N0 I P L O0 KH A }.|1
+data/wavs/000671.wav|{Z A } {S0 T0 I N O0 J0 } {R A Z D A V A0 L0 I S0 } {SH A G0 I0 }.|1
+data/wavs/000672.wav|{G R A N0 I N } {Z A D U0 M A L S0 A }, {P O0 T A M } {S K A Z A0 L }.|1
+data/wavs/000673.wav|{T O0 L0 K A } {F S0 E0 } {E0 T A } {N0 I } {D L0 A } {P0 I TSH0 A0 T0 I }.|1
+data/wavs/000674.wav|{J0 A0 } {N0 I } {Z N A0 J0 U }, {G D0 E0 } {S A V0 E0 TS K0 I J0 I } {P0 I S A0 T0 I L0 I } {TSH0 I R P A J0 U T } {T0 E0 M Y }.|1
+data/wavs/000675.wav|{F S0 E0 } {K R U0 G A M } {N0 I } {D L0 A } {P0 I TSH0 A0 T0 I }.|1
+data/wavs/000676.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000677.wav|{F } {D B0 I L0 I S0 I } {P R A KH A D0 I0 L A } {K A N F0 I R0 E0 N TS Y J0 A }.|1
+data/wavs/000678.wav|{A P T0 I M0 I0 Z M } {S A V0 E0 TS K A J0 } {L0 I T0 I R A T U0 R Y }.|1
+data/wavs/000679.wav|{S R0 I D0 I0 } {D R U G0 I0 KH } {V Y S T U P A0 L } {P A E0 T } {N A R A F TSH0 I T A F }.|1
+data/wavs/000680.wav|{G A V A R0 I0 L } {N A } {T0 E0 M U } {B0 I Z G R A N0 I0 TSH0 N A V A } {A P T0 I M0 I0 Z M A } {S A V0 E0 TS K A J0 } {L0 I T0 I R A T U0 R Y }.|1
+data/wavs/000681.wav|{Z A T0 E0 M } {V Y0 SH Y L } {N A } {T R0 I B U0 N U } {G R U Z0 I0 N S K0 I J0 } {P0 I S A0 T0 I L0 } {K0 I M A K L0 I DZ0 I }.|1
+data/wavs/000682.wav|{V A P R O0 S } {P R0 I D Y D U0 SH0 I M U } {A R A0 T A R U }.|1
+data/wavs/000683.wav|{S L U0 SH A J0 U } {V A0 S } {A T K L0 I0 K N U L S0 A } {N A R A F TSH0 I T A F }.|1
+data/wavs/000684.wav|{J0 A0 } {KH A TSH0 U0 } {S P R A S0 I0 T0 } {N A SH0 O0 T } {B A J0 R A N A }.|1
+data/wavs/000685.wav|{O0 N } {B Y0 L } {M A L A D O0 J0 }?|1
+data/wavs/000686.wav|{D A0 }, {U D0 I V0 I0 L S0 A } {N A R A F TSH0 I T A F }, {B A J0 R A N } {P A G0 I0 P } {S R A V N0 I0 T0 I L0 N A } {M A L A D Y0 M } {TSH0 I L A V0 E0 K A M }.|1
+data/wavs/000687.wav|{P A TSH0 I M U0 } {V Y0 } {A P } {E0 T A M } {S P R A0 SH Y V A J0 I T0 I }?|1
+data/wavs/000688.wav|{J0 I SH0 O0 } {A D0 I0 N } {V A P R O0 S } {N A SH0 O0 T } {B A J0 R A N A }.|1
+data/wavs/000689.wav|{O0 N } {B Y0 L } {K R A S0 I0 V Y J0 }?|1
+data/wavs/000690.wav|{B A J0 R A N } {A B L A D A0 L } {TSH0 R0 I Z V Y TSH0 A0 J0 N A } {Y F0 E0 K T N A J0 } {V N0 E0 SH N A S0 T0 J0 U }.|1
+data/wavs/000691.wav|{E0 T A } {A P SH0 I Z V0 E0 S N A }.|1
+data/wavs/000692.wav|{I } {J0 I SH0 O0 } {A D0 I0 N } {V A P R O0 S } {N A SH0 O0 T } {T A V O0 } {ZH Y } {B A J0 R A N A }.|1
+data/wavs/000693.wav|{O0 N } {B Y0 L } {Z A ZH Y0 T A TSH0 N Y J0 }?|1
+data/wavs/000695.wav|{O0 N } {B Y0 L } {L O0 R T }.|1
+data/wavs/000696.wav|{U } {N0 I V O0 } {B Y0 L } {Z A M A K }.|1
+data/wavs/000697.wav|{K A K0 I0 J0 I T A } {S T R A0 N Y J0 I } {V A P R O0 S Y }.|1
+data/wavs/000698.wav|{I } {P A S L0 E0 D N0 I J0 } {V A P R O0 S } {N A SH0 O0 T } {B A J0 R A N A }.|1
+data/wavs/000699.wav|{O0 N } {B Y0 L } {T A L A0 N T L0 I V Y J0 }?|1
+data/wavs/000700.wav|{B A J0 R A N } {V0 I L0 I TSH0 A0 J0 SH Y J0 } {P A E0 T } {A N G L0 I }!|1
+data/wavs/000701.wav|{J0 A0 } {N0 I } {P A N0 I M A0 J0 U }, {F } {TSH0 E0 M } {D0 E0 L A }?!|1
+data/wavs/000703.wav|{V O0 T } {P A S M A T R0 I0 } {N A } {B A J0 R A N A }.|1
+data/wavs/000704.wav|{O0 N } {B Y0 L } {M A L A D O0 J0 }, {K R A S0 I0 V Y J0 }, {Z A ZH Y0 T A TSH0 N Y J0 } {I } {T A L A0 N T L0 I V Y J0 }.|1
+data/wavs/000705.wav|{I } {O0 N } {B Y0 L } {P0 I S0 I M0 I0 S T }.|1
+data/wavs/000706.wav|{A } {T Y0 } {S T A0 R Y J0 }, {N0 I0 SH0 I J0 }, {U R O0 D L0 I V Y J0 } {I } {B0 I Z D A0 R N Y J0 }.|1
+data/wavs/000709.wav|{V Y0 } {P R0 I U V0 I L0 I TSH0 I V A J0 I T0 I }.|1
+data/wavs/000710.wav|{L0 I T0 I R A0 T A R } {D O0 L ZH Y N } {P U B L0 I K A V A TS A }.|1
+data/wavs/000711.wav|{R A Z U M0 E0 J0 I TS A }, {N0 I } {F } {U SH0 E0 R P } {S V A J0 I M U0 } {T A L A0 N T U }.|1
+data/wavs/000712.wav|{J0 E0 S0 T0 } {T A K A0 J0 A } {SH0 E0 L0 } {M0 E0 ZH D U } {S O0 V0 I S0 T0 J0 U } {I } {P O0 D L A S0 T0 J0 U }.|1
+data/wavs/000713.wav|{F } {E0 T U } {SH0 E0 L0 } {N0 I A P KH A D0 I0 M A } {P R A N0 I0 K N U T0 }.|1
+data/wavs/000714.wav|{J0 A0 } {N A B R A0 L S0 A } {KH R A0 B R A S0 T0 I } {I } {S K A Z A0 L }.|1
+data/wavs/000715.wav|{M N0 E0 } {K A0 ZH Y TS A }, {R0 A0 D A M } {S } {E0 T A J0 } {SH0 E0 L0 J0 U } {V O0 L TSH0 I J0 } {K A P K A0 N } {U S T A N O0 V L0 I N }.|1
+data/wavs/000716.wav|{N A S T U P0 I0 L A } {T0 A0 G A S N A J0 A } {P A0 U Z A }.|1
+data/wavs/000717.wav|{J0 A0 } {P A P R A SH0 A0 L S0 A } {I } {V Y0 SH Y L }.|1
+data/wavs/000718.wav|{P R A SH L O0 } {N0 I D0 E0 L0 I } {D V0 E0 }.|1
+data/wavs/000719.wav|{J0 A0 } {U Z N A0 L }, {SH T O0 } {M A I0 } {R A S K A0 Z Y } {B U0 D U T } {A P S U ZH D A TS A } {F } {S A J0 U0 Z0 I } {P0 I S A0 T0 I L0 I J0 }.|1
+data/wavs/000720.wav|{F } {J0 I ZH Y M0 E0 S0 I TSH0 N A J0 } {P R A G R A0 M0 I } {D A M A0 } {I0 M0 I N0 I } {M A J0 I K A F S K A V A } {N A P0 I TSH0 A0 T A L0 I } {A N O0 N S }.|1
+data/wavs/000721.wav|{D0 E0 V0 I T0 } {L0 E0 T } {S P U S0 T0 A0 } {V Z V A L N O0 V A N A } {P0 I R0 I L0 I S T Y V A J0 U } {G A L U B U0 J0 U } {K N0 I0 ZH Y TSH0 K U }.|1
+data/wavs/000722.wav|{F A M0 I0 L0 I } {B Y0 L0 I } {N A P0 I TSH0 A0 T A N Y } {A D0 I N A0 K A V Y M } {SH R0 I0 F T A M }.|1
+data/wavs/000723.wav|{P A K L O0 N0 I K0 I } {G0 I J0 N0 I } {S A B R A L0 I S0 } {N A } {F T A R O0 M } {Y T A ZH E0 }.|1
+data/wavs/000724.wav|{M A I0 } {N A } {T R0 E0 T0 J0 I M }.|1
+data/wavs/000726.wav|{Z N A TSH0 I0 T0 I L0 N A } {P R0 I A B L A D A0 L0 I }.|1
+data/wavs/000727.wav|{A P S U ZH D0 E0 N0 I J0 I } {P R A SH L O0 } {KH A R A SH O0 }.|1
+data/wavs/000728.wav|{J0 E0 S L0 I } {A } {T0 I B0 E0 } {G A V A R0 A0 T } {TS E0 L Y J0 } {V0 E0 TSH0 I R } {D U R N O0 J0 I } {I L0 I } {KH A R O0 SH Y J0 I } {E0 T A } {P R0 I J0 A0 T N A }.|1
+data/wavs/000729.wav|{S } {R0 E0 S K A J0 } {K R0 I0 T0 I K A J0 } {V Y0 S T U P0 I L } {L0 I0 SH } {A D0 I0 N } {TSH0 I L A V0 E0 K } {P0 I S A0 T0 I L0 } {B A R0 I S } {I V A0 N A F }.|1
+data/wavs/000730.wav|{TSH0 I R0 I S } {N0 E0 S K A L0 K A } {M0 E0 S0 I TS Y F } {J0 I V O0 } {V Y0 G N A L0 I } {I S } {P A0 R T0 I }.|1
+data/wavs/000731.wav|{J0 A0 } {T U0 T } {N0 I } {P R0 I } {TSH0 E0 M }.|1
+data/wavs/000732.wav|{V0 I0 D N A }, {O0 N } {K R0 I T0 I K A V A L } {N0 I } {T O0 L0 K A } {M0 I N0 A0 }.|1
+data/wavs/000733.wav|{P0 E0 R V A J0 A } {R0 I TS E0 N0 Z0 I J0 A }.|1
+data/wavs/000734.wav|{D0 I K A0 B R0 S K0 I M } {U0 T R A M } {SH Y Z0 D Y S0 A0 T } {S0 I D0 M O0 V A } {G O0 D A } {J0 A0 } {A T A S L A0 L } {TS E0 L U J0 U } {P A0 TSH0 K U } {R A S K A0 Z A F } {F } {ZH U R N A0 L } {N O0 V Y J0 } {M0 I0 R }.|1
+data/wavs/000735.wav|{A T K R A V0 E0 N A } {G A V A R0 A0 }, {J0 A0 } {N0 I } {P0 I T A0 L } {I L0 U0 Z0 I J0 }.|1
+data/wavs/000736.wav|{Z A P0 I TSH0 A0 T A L }, {A T A S L A0 L } {I } {F S0 E0 }.|1
+data/wavs/000737.wav|{N O0 V Y J0 } {M0 I0 R } {T A G D A0 } {B Y0 L } {O0 TSH0 I N0 } {P A P U L0 A0 R0 I N }.|1
+data/wavs/000738.wav|{F } {N0 E0 M } {S A T R U0 D N0 I TSH0 I L0 I } {L U0 TSH0 SH Y J0 I } {M A S K A F S K0 I J0 I } {P R A Z A0 I K0 I }.|1
+data/wavs/000739.wav|{F } {N0 E0 M } {P0 I TSH0 A0 T A L S0 A } {S A L ZH Y N0 I TS Y N }.|1
+data/wavs/000740.wav|{J0 A0 } {D U0 M A L }, {SH T O0 } {A T V0 E0 T A } {V A P SH0 E0 } {N0 I } {P A S L0 E0 D U J0 I T }.|1
+data/wavs/000741.wav|{M0 I N0 A0 } {P R O0 S T A } {N0 I } {Z A M0 E0 T0 I T }.|1
+data/wavs/000742.wav|{I } {V O0 T } {J0 A0 } {P A L U TSH0 A0 J0 U } {B A L0 SH O0 J0 } {M A R K0 I R A V A N Y J0 } {K A N V0 E0 R T }.|1
+data/wavs/000743.wav|{F } {N0 E0 M } {M A I0 } {S L0 I K A0 } {P A M0 A0 T Y J0 I } {R A S K A0 Z Y }.|1
+data/wavs/000744.wav|{K } {N0 I0 M } {P R0 I L A G A J0 I TS A } {R0 I TS E0 N0 Z0 I J0 A } {Z N A M0 I N0 I0 T A J0 } {I N Y } {S A L A V0 J0 O V A J0 }.|1
+data/wavs/000745.wav|{I } {D A L0 I J0 I } {K A R O0 T K A J0 I } {Z A K L0 U TSH0 E0 N0 I J0 I } {A D0 E0 L A } {P R O0 Z Y }.|1
+data/wavs/000746.wav|{V A S P R A I Z V A ZH U } {N A I B O0 L0 I J0 I } {S U SH0 E0 S T V0 I N Y J0 I } {A T R Y0 F K0 I } {I S } {E0 T0 I KH } {D A K U M0 E0 N T A F }.|1
+data/wavs/000747.wav|{K A0 TSH0 I S T V A } {TS Y T0 I R U J0 I M Y KH } {M A T0 I R0 I A0 L A F } {N A } {S O0 V0 I S0 T0 I } {A0 F T A R A F }.|1
+data/wavs/000748.wav|{A } {R A S K A0 Z A KH } {S }. {D A V L A T A V A }.|1
+data/wavs/000749.wav|{E0 T0 I } {N0 I B A L0 SH Y0 J0 I } {R A S K A0 Z Y } {TSH0 I T A0 J0 I SH } {S } {K A K0 I0 M T A } {D V A J0 N Y0 M } {I N0 T0 I R0 E0 S A M }.|1
+data/wavs/000750.wav|{I N0 T0 I R0 E0 S } {V Y Z Y V A0 J0 I T } {L0 I0 TSH0 N A J0 A } {A0 F T A R S K A J0 A } {N O0 T A }, {T O0 T } {KH A R A0 K T0 I R } {A T N A SH E0 N0 I J0 A } {K } {ZH Y0 Z0 N0 I }, {F } {K A T O0 R A M } {P R0 I A B L A D A0 J0 I T } {S T Y0 T }.|1
+data/wavs/000751.wav|{B0 I S P A SH0 A0 D N Y J0 } {D A0 R } {N A B L0 U D A0 T0 I L0 N A S0 T0 I } {V A R U ZH A J0 I T } {P0 I S A0 T0 I L0 A } {S0 I0 L0 N Y M } {B0 I N O0 K L0 I M } {M A0 L A J0 I } {O0 N } {R A Z L0 I TSH0 A0 J0 I T } {D A } {P A D R O0 B N A S0 T0 I J0 }, {B A L0 SH O0 J0 I } {N0 I } {Z A S L A N0 I J0 I T } {J0 I V O0 } {G A R0 I Z O0 N T A F }.|1
+data/wavs/000752.wav|{P R A G R A0 M N Y M } {V0 I0 D0 I TS A } {U } {A0 F T A R A } {D0 I M A N S T R A T0 I0 V N Y J0 }, {TSH0 U0 T0 } {Z A N O0 SH0 I V Y J0 } {A T K A0 S } {A T } {V Y0 V A D A F }, {A T } {M A R A0 L0 I }.|1
+data/wavs/000753.wav|{D A0 ZH Y } {T0 E0 N0 } {J0 I J0 O0 } {K A0 ZH Y TS A } {P R0 I N U0 D0 I T } {D A V L A T A V A } {Z A M K N U0 TS A }, {A SH0 I T0 I0 N0 I TS A }.|1
+data/wavs/000754.wav|{F P R O0 TSH0 I M }, {S A M A0 } {D0 I M A N S T R A T0 I V N A S0 T0 } {A0 F T A R S K A V A } {N0 I V M0 I SH A0 T0 I L0 S T V A }, {A K TS Y N0 T0 I R A V A N A S0 T0 } {J0 I V O0 } {M A L TSH0 A0 N0 I J0 A } {S T A N O0 V0 I TS A } {F O0 R M A J0 } {P R0 I S U0 TS T V0 I J0 A }, {S0 I S0 T0 E0 M A J0 } {B0 I ZH A0 L A S N A V A } {Z R0 E0 N0 I J0 A }.|1
+data/wavs/000756.wav|{N O0 } {F } {T A } {ZH Y } {V R0 E0 M0 A } {N A } {R A S K A0 Z A KH } {D A V L A T A V A } {L0 I ZH Y0 T } {A S O0 B Y J0 } {U Z N A V A0 J0 I M Y J0 } {L O0 S K } {P R O0 Z Y } {D L0 A } {S V A I0 KH }.|1
+data/wavs/000757.wav|{R U0 K A P0 I S0 I } {B Y0 L0 I } {A T K L A N0 I N Y0 }.|1
+data/wavs/000758.wav|{I } {F S0 E0 T A K0 I } {E0 T A } {P0 I S0 M O0 } {M0 I N0 A0 } {A B N A D0 O0 ZH Y L A }.|1
+data/wavs/000759.wav|{V0 E0 T0 } {G L A0 V N A J0 I } {D L0 A } {M0 I N0 A0 } {N A P0 I S A0 T0 } {SH T O0 T A } {S T O0 J0 I SH0 I J0 I }.|1
+data/wavs/000760.wav|{A } {Z0 D0 E0 S0 } {B0 I S P A SH0 A0 D N Y J0 } {D A0 R } {N A B L0 U D A0 T0 I L0 N A S0 T0 I }, {U N0 I K A0 L0 N Y J0 } {ZH Y0 Z0 N0 I N Y J0 } {M A T0 I R0 I A0 L }.|1
+data/wavs/000761.wav|{TSH0 I R0 I S } {N0 E0 S K A L0 K A } {L0 E0 T } {M0 I N0 A0 } {P0 I R0 I S T A0 N U T } {I N0 T0 I R0 I S O0 V A T0 } {S A B R A ZH E0 N0 I J0 A } {R0 I TS Y N0 Z0 E0 N T A F }.|1
+data/wavs/000762.wav|{J0 A0 } {B U0 D U } {S R A0 Z U } {ZH Y } {Z A G L0 A0 D Y V A T0 } {F } {K A N0 E0 TS }.|1
+data/wavs/000763.wav|{T0 E0 M } {N0 I } {M0 E0 N0 I J0 I } {R A S K A0 Z Y } {P R0 I KH O0 D0 I TS A } {V A Z V R A T0 I0 T0 }.|1
+data/wavs/000764.wav|{F } {S0 I0 L U } {I Z V0 E0 S N Y KH } {P R0 I TSH0 I0 N } {R A S K A0 Z Y } {A T K L A N0 I J0 I M }.|1
+data/wavs/000765.wav|{R A S K A0 Z Y } {I S P O0 L0 Z A V A T0 } {N0 I } {M O0 ZH Y M }, {KH O0 T0 } {A N0 I0 } {P R A I Z V0 I L0 I0 } {B L A G A P R0 I J0 A0 T N A J0 I } {F P0 I TSH0 I T L0 E0 N0 I J0 I }. {I } {T A0 K } {D A L0 I J0 I }.|1
+data/wavs/000766.wav|{T A K0 I0 KH } {R0 I TS E0 N0 Z0 I J0 } {U } {M0 I N0 A0 } {N A K A P0 I0 L A S0 } {B O0 L0 SH Y } {S O0 T N0 I }.|1
+data/wavs/000767.wav|{N R A0 V0 I TS A } {V A Z V R A SH0 I J0 I M }!|1
+data/wavs/000768.wav|{J0 A0 } {P A Z N A K O0 M0 I L S0 A } {S } {R0 I D A V Y0 M0 I } {ZH U R N A0 L0 N Y M0 I } {TSH0 I N O0 V N0 I K A M0 I }.|1
+data/wavs/000769.wav|{S } {N0 E0 K A T A R Y M0 I } {D A0 ZH Y } {P A D R U ZH Y0 L S0 A }.|1
+data/wavs/000770.wav|{P0 I S0 M A0 } {I S } {R0 I D A0 K TS Y J0 } {S T A N A V0 I0 L0 I S0 } {F S0 E0 } {M0 E0 N0 I J0 I } {A F0 I TS Y A0 L0 N Y M0 I }.|1
+data/wavs/000771.wav|{T0 I P0 E0 R0 } {J0 A0 } {P A L U TSH0 A0 L } {D R U0 ZH Y S K0 I J0 I } {Z A P0 I0 S K0 I }.|1
+data/wavs/000772.wav|{F } {E0 T A M } {B Y0 L0 I } {S V A I0 } {P L0 U0 S Y } {I } {M0 I0 N U S Y }.|1
+data/wavs/000773.wav|{S } {A D N O0 J0 } {S T O0 R A N Y } {T A V A0 R0 I SH0 I S K A J0 A } {D A V0 I R0 I0 T0 I L0 N A J0 A } {I N F A R M A0 TS Y J0 A }.|1
+data/wavs/000775.wav|{N0 I K A K0 I0 KH } {I L0 U0 Z0 I J0 }.|1
+data/wavs/000776.wav|{N O0 } {P R0 I } {E0 T A M } {B O0 L0 I J0 I } {L0 O0 KH K A J0 A } {I } {U D O0 B N A J0 A } {D L0 A } {ZH U R N A0 L A } {F O0 R M A } {A T K A0 Z A }.|1
+data/wavs/000777.wav|{V M0 E0 S T A } {A T V0 E0 TS T V0 I N Y KH } {K A Z0 O0 N Y KH } {D A K U M0 E0 N T A F } {F A M0 I L0 J0 A0 R N Y J0 } {Z V A N O0 K } {P A } {T0 I L0 I F O0 N U }.|1
+data/wavs/000779.wav|{D O0 L ZH Y N } {T0 I B0 A0 } {A G A R TSH0 I0 T0 } {N0 I } {P A J0 D0 O0 T }!|1
+data/wavs/000780.wav|{T Y0 } {ZH Y } {Z N A0 J0 I SH }, {K A0 K } {U } {N A0 S } {E0 T A } {D0 E0 L A J0 I TS A }!|1
+data/wavs/000781.wav|{T Y0 } {V0 E0 T0 } {U0 M N Y J0 } {TSH0 I L A V0 E0 K }.|1
+data/wavs/000782.wav|{M O0 ZH Y T }, {U } {T0 I B0 A0 } {J0 E0 S0 T0 } {SH T O0 N0 I B U T0 } {P R A } {Z A V O0 T }?|1
+data/wavs/000783.wav|{P R A } {Z A V O0 T }, {G A V A R0 U0 }.|1
+data/wavs/000784.wav|{A } {V O0 T } {M A T0 I R0 I0 TS A } {N0 I } {A B0 I Z A0 T0 I L0 N A }!|1
+data/wavs/000785.wav|{J0 A0 } {ZH Y } {P A T A V A0 R0 I SH0 I S K0 I } {S P R A S0 I0 L }.|1
+data/wavs/000786.wav|{F } {O0 P SH0 I M }, {Z V A N0 I0 }.|1
+data/wavs/000787.wav|{J0 A0 } {N0 I } {A B0 I ZH A0 L S0 A }.|1
+data/wavs/000788.wav|{R0 I Z U L0 T A0 T } {A D0 I0 N } {I } {T O0 T } {ZH Y }.|1
+data/wavs/000789.wav|{V O0 T } {N0 E0 S K A L0 K A } {A B R A S TS O0 F } {D R U0 ZH Y S K0 I KH } {P A S L A0 N0 I J0 }.|1
+data/wavs/000790.wav|{I S } {ZH U R N A0 L A } {J0 U0 N A S0 T0 }.|1
+data/wavs/000791.wav|{S0 I R G0 E0 J0 }, {P R0 I V0 E0 T }!|1
+data/wavs/000792.wav|{F S0 E0 } {B Y0 L A } {I M0 I N O0 } {T A0 K }, {K A0 K } {J0 A0 } {P R0 I T P A L A G A0 L }.|1
+data/wavs/000793.wav|{K A N0 E0 SH N A } {ZH Y }, {R A S K A0 Z Y } {N0 I } {P R A SH L0 I0 }.|1
+data/wavs/000794.wav|{K A N0 E0 SH N A } {ZH Y }, {N0 I } {P A } {L0 I T0 I R A T U0 R N Y M } {M0 E0 R K A M }.|1
+data/wavs/000795.wav|{F S0 A0 K A J0 A } {L A0 G0 I R N A J0 A } {T0 E0 M A } {N A G L U KH A } {Z A K R Y0 T A }, {D O0 ZH Y } {J0 E0 S L0 I } {R0 E0 TSH0 } {I D0 O0 T } {A P } {U G A L O0 V N0 I K A KH }.|1
+data/wavs/000796.wav|{N0 I TSH0 I G O0 } {T R A G0 I0 TSH0 I S K A V A }, {M R A0 TSH0 N A V A }.|1
+data/wavs/000797.wav|{ZH Y0 Z0 N0 } {P R0 I K R A0 S N A } {I } {U D0 I V0 I0 T0 I L0 N A }! {K A0 K } {V A S K L0 I TS A0 L } {T A V A0 R0 I SH0 } {M A J0 I K A F S K0 I J0 } {N A K A N U0 N0 I } {S A M A U B0 I0 J0 S T V A }.|1
+data/wavs/000798.wav|{N0 E0 K A T A R Y J0 I } {S TS E0 N Y } {J0 A0 } {TSH0 A0 S T A } {P0 I R0 I S K A Z Y V A J0 U } {D R U Z0 J0 A0 M }.|1
+data/wavs/000799.wav|{L U0 TSH0 SH Y } {B Y } {A N0 I0 } {P R A TSH0 L0 I0 } {E0 T A } {N A } {S T R A N0 I0 TS A KH } {J0 U0 N A S0 T0 I }, {N O0 }.|1
+data/wavs/000800.wav|{P R0 I V0 E0 T } {A T } {J0 U0 R Y }.|1
+data/wavs/000802.wav|{D R U Z0 J0 A0 }, {R A B O0 T A J0 U SH0 I J0 I } {F } {ZH U R N A0 L A KH }, {I0 S K R0 I N0 I } {KH A T0 E0 L0 I } {M N0 E0 } {P O0 M A TSH0 }.|1
+data/wavs/000803.wav|{T O0 L0 K A } {V A Z M O0 ZH N A S0 T0 I J0 } {U } {N0 I0 KH } {B Y0 L A } {M A L A V A T A }.|1
+data/wavs/000804.wav|{P A E0 T A M U } {J0 A0 } {N0 I } {A B0 I ZH A0 J0 U S0 }.|1
+data/wavs/000805.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000806.wav|{F } {L0 I N0 I N G R A D0 I } {J0 E0 S0 T0 } {A S O0 B A J0 A } {K A M0 I0 S0 I J0 A } {P A } {R A B O0 T0 I } {S } {M A L A D Y0 M0 I } {A0 F T A R A M0 I }.|1
+data/wavs/000807.wav|{A D N A0 ZH D Y } {M0 I N0 A0 } {P R0 I G L A S0 I0 L0 I } {N A } {Z A S0 I D A0 N0 I J0 I } {E0 T A J0 } {K A M0 I0 S0 I }.|1
+data/wavs/000808.wav|{TSH0 L0 E0 N Y } {K A M0 I0 S0 I } {Z A0 D A L0 I } {V A P R O0 S }.|1
+data/wavs/000809.wav|{TSH0 E0 M } {M O0 ZH N A } {V A0 M } {P O0 M A TSH0 }!|1
+data/wavs/000810.wav|{N0 I TSH0 E0 M }, {S K A Z A0 L } {J0 A0 }.|1
+data/wavs/000812.wav|{SH T O0 } {N U0 ZH N A } {Z0 D0 E0 L A T0 } {F } {P0 E0 R V U J0 U } {O0 TSH0 I R0 I T0 }?|1
+data/wavs/000813.wav|{T A G D A0 } {J0 A0 } {I0 M } {A T V0 E0 T0 I L }, {P A L0 E0 N0 I N S K0 I } {G R A S0 I0 R U J0 A }.|1
+data/wavs/000814.wav|{F } {P0 I G V U J0 U } {A TSH0 I G0 I T0 }!|1
+data/wavs/000815.wav|{F } {P0 E0 R V U J0 U } {O0 TSH0 I R0 I T0 } {N U0 ZH N A } {Z A KH V A T0 I0 T0 } {M A S T Y0 }.|1
+data/wavs/000816.wav|{Z A T0 E0 M } {A TS Y P0 I0 T0 } {V A G Z A0 L Y }.|1
+data/wavs/000817.wav|{B L A K0 I0 R A V A T0 } {P A TSH0 T U0 } {I } {T0 I L0 I G R A0 F }.|1
+data/wavs/000818.wav|{TSH0 L0 E0 N Y } {K A M0 I0 S0 I } {V Z D R O0 G N U L0 I } {I } {P0 I R0 I G L0 I N U0 L0 I S0 }.|1
+data/wavs/000819.wav|{L0 I T0 I R A T U0 R N Y J0 } {G A R L0 I M }.|1
+data/wavs/000820.wav|{J0 A0 } {U0 ZH Y } {N0 I } {A G R A N0 I0 TSH0 I V A L S0 A } {S L U0 ZH B A J0 } {F } {M N A G A T0 I R A0 SH K0 I }.|1
+data/wavs/000821.wav|{S A T R U0 D N0 I TSH0 I L } {K A0 K } {ZH U R N A L0 I0 S T } {F } {A V R A R0 I }, {Z V0 I Z0 D0 E0 } {I } {N0 I V0 E0 }.|1
+data/wavs/000822.wav|{N A P0 I TSH0 A0 T A L } {T R0 I0 } {O0 TSH0 I R K A } {I } {P A L T A R A0 } {D0 I S0 A0 T K A } {K A R O0 T K0 I KH } {R0 I TS E0 N0 Z0 I J0 }.|1
+data/wavs/000823.wav|{Z A K A0 Z Y } {J0 A0 } {P A L U TSH0 A0 L }, {F } {A S N O0 V N A M }, {M0 E0 L K0 I J0 I }, {N O0 } {I } {E0 T0 I M } {D A R A ZH Y0 L } {TSH0 R0 I Z V Y TSH0 A0 J0 N A }.|1
+data/wavs/000824.wav|{A } {N A TSH0 I L O0 S0 } {F S0 E0 } {T A0 K }.|1
+data/wavs/000825.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000826.wav|{P A Z V A N0 I0 L } {M N0 E0 } {Z A V0 E0 D U J0 U SH0 I J0 } {A D0 E0 L A N } {K R0 I0 T0 I K0 I } {D U T K A }.|1
+data/wavs/000829.wav|{P A TSH0 I M U0 } {N0 I } {Z A KH O0 D0 I T0 I }?!|1
+data/wavs/000830.wav|{S R O0 TSH0 N A } {P0 I SH Y0 T0 I } {D L0 A } {N A0 S } {R0 I TS E0 N0 Z0 I J0 U }!|1
+data/wavs/000831.wav|{S } {V A0 SH Y J0 } {A S T R O0 T A J0 }.|1
+data/wavs/000832.wav|{S } {V A0 SH Y J0 } {N A B L0 U D A0 T0 I L0 N A S0 T0 J0 U }.|1
+data/wavs/000833.wav|{S } {P R0 I S U0 SH0 I M } {V A0 M } {TSH0 U0 F S T V A M } {J0 U0 M A R A }.|1
+data/wavs/000834.wav|{Z A KH A ZH U0 } {N A } {S L0 E0 D U J0 U SH0 I J0 } {D0 E0 N0 } {F } {R0 I D A0 K TS Y J0 U }.|1
+data/wavs/000835.wav|{D U T K A } {M R A0 TSH0 N A } {S P R A0 SH Y V A J0 I T }.|1
+data/wavs/000836.wav|{SH T O0 } {V A0 M }. {S O0 P S T V0 I N A }, {N U0 ZH N A }?|1
+data/wavs/000837.wav|{D A0 } {V O0 T }, {R0 I TS E0 N0 Z0 I J0 U } {S A B0 I R A0 J0 U S0 } {N A P0 I S A0 T0 }.|1
+data/wavs/000838.wav|{KH A T0 E0 L A S0 } {B Y } {P A S A V0 E0 T A V A TS A } {N A SH0 O0 T } {T0 E0 M Y }.|1
+data/wavs/000839.wav|{V Y0 } {SH T O0 }, {K R0 I0 T0 I K }?|1
+data/wavs/000840.wav|{P A TSH0 I M U0 } {ZH Y } {V Y0 } {D U0 M A J0 I T0 I }, {SH T O0 } {R0 I TS E0 N0 Z0 I J0 U } {M O0 ZH Y T } {N A P0 I S A0 T0 } {L0 U B O0 J0 }!|1
+data/wavs/000841.wav|{J0 A0 } {U D0 I V0 I0 L S0 A }, {P A P R A SH0 A0 L S0 A } {I } {V Y0 SH Y L }.|1
+data/wavs/000842.wav|{TSH0 I R0 I S } {T R0 I0 } {D N0 A0 } {A P0 A0 T0 } {Z V A N0 I0 T }.|1
+data/wavs/000843.wav|{S0 I R0 I ZH A }, {D A R O0 G A J0 }!|1
+data/wavs/000844.wav|{SH T O0 } {ZH Y } {V Y0 } {N0 I } {P A J0 I V L0 A0 J0 I T0 I S0 }?!|1
+data/wavs/000845.wav|{M0 I TSH0 T A0 J0 I M } {P A L U TSH0 I0 T0 } {A T } {V A0 S } {R0 I TS E0 N0 Z0 I J0 U }.|1
+data/wavs/000847.wav|{Z A KH A ZH U0 } {F } {R0 I D A0 K TS Y J0 U }.|1
+data/wavs/000848.wav|{M R A0 TSH0 N Y J0 } {V A P R O0 S } {SH T O0 } {V A0 M } {U G O0 D N A }?|1
+data/wavs/000849.wav|{E0 T A } {P A F T A R0 A0 L A S0 } {R A0 S } {S0 E0 M0 }.|1
+data/wavs/000850.wav|{N A K A N0 E0 TS } {J0 A0 } {P A TSH0 U0 F S T V A V A L }, {SH T O0 } {T0 I R0 A0 J0 U } {R A S U0 D A K }.|1
+data/wavs/000851.wav|{Z A SH O0 L } {F } {A D0 E0 L } {P R O0 Z Y } {K } {TSH0 I R K A V U }.|1
+data/wavs/000852.wav|{S P R A0 SH Y V A J0 U } {SH T O0 } {F S0 E0 } {E0 T A } {Z N A0 TSH0 I T }?|1
+data/wavs/000853.wav|{K A G D A0 } {T Y0 } {Z A KH O0 D0 I SH }? {I N0 T0 I R0 I S U0 J0 I TS A } {TSH0 I R K O0 F }.|1
+data/wavs/000855.wav|{N U0 }, {K A0 K } {P R A V0 I L A }, {TSH0 I S O0 F } {F } {A D0 I0 N A TS A T0 }.|1
+data/wavs/000856.wav|{A } {O0 N } {T0 I B0 E0 } {Z V A N0 I0 T } {K A G D A0 }?|1
+data/wavs/000857.wav|{F } {K A K0 I0 J0 I } {TSH0 I S Y0 }?|1
+data/wavs/000858.wav|{K A0 K } {P R A V0 I L A }, {TSH0 A0 S A } {F } {D V A0 }.|1
+data/wavs/000859.wav|{T Y0 } {J0 I V L0 A0 J0 I SH S0 A }, {K A G D A0 } {D U T K A } {S } {P A KH M0 E0 L0 J0 A } {M R A0 TSH0 N Y J0 }.|1
+data/wavs/000860.wav|{A } {Z V A N0 I0 T } {O0 N } {T0 I B0 E0 } {P O0 ZH Y }.|1
+data/wavs/000861.wav|{T A } {J0 E0 S0 T0 } {U0 ZH Y } {P A D L0 I TSH0 I F SH Y S0 }.|1
+data/wavs/000862.wav|{P A P R O0 B U J0 } {Z A J0 T0 I0 } {TSH0 A0 S A } {F } {D V A0 }.|1
+data/wavs/000863.wav|{J0 A0 } {Z A SH O0 L } {F } {D V A0 }.|1
+data/wavs/000864.wav|{A }! {Z A K R0 I TSH0 A0 L } {D U T K A }.|1
+data/wavs/000865.wav|{S T O0 } {L0 E0 T } {N0 I } {V0 I0 D0 I L0 I S0 }!|1
+data/wavs/000866.wav|{N A D0 E0 J0 U S0 }, {P R0 I N0 I S L0 I0 } {R0 I TS E0 N0 Z0 I J0 U }?|1
+data/wavs/000867.wav|{S } {V A0 SH Y M } {T A L A0 N T A M }!|1
+data/wavs/000868.wav|{S } {V A0 SH Y M } {TSH0 U0 F S T V A M } {J0 U0 M A R A }!|1
+data/wavs/000870.wav|{S } {T0 E0 KH } {P O0 R } {J0 A0 } {N A P0 I TSH0 A0 T A L } {F } {E0 T A M } {ZH U R N A0 L0 I } {D0 I S0 A0 T A K } {R0 I TS E0 N0 Z0 I J0 }.|1
+data/wavs/000871.wav|{A D N A0 K A } {R A0 N0 SH Y } {D V U0 KH } {J0 A0 } {T A0 M } {N0 I } {P A J0 I V L0 A0 J0 U S0 }.|1
+data/wavs/000872.wav|{F } {O0 P SH0 I M }, {M0 I N0 A0 } {I0 Z R0 I T K A } {P U B L0 I K A V A L0 I }.|1
+data/wavs/000873.wav|{KH O0 T0 } {I } {N0 I } {P A } {S P0 I TS Y A0 L0 N A S0 T0 I }.|1
+data/wavs/000874.wav|{N A } {E0 T A T } {SH0 O0 T } {I M0 E0 J0 I TS A } {T A K A0 J0 A } {Z A0 P0 I S0 }.|1
+data/wavs/000875.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000876.wav|{L0 I R M A N } {I } {J0 A0 } {O0 B A } {P A P A0 L0 I } {F } {Y N TS Y K L A P0 E0 D0 I J0 U }.|1
+data/wavs/000877.wav|{F } {L0 I T0 I R A T U0 R N U J0 U }, {J0 I S0 T0 E0 S T V0 I N A }, {Y N TS Y K L A P0 E0 D0 I J0 U }.|1
+data/wavs/000878.wav|{L0 I R M A N } {N A } {B U0 K V U }.|1
+data/wavs/000879.wav|{SH } {B0 I B L0 I A G R A0 F0 I J0 A } {K } {SH A L A KH A V U }.|1
+data/wavs/000880.wav|{J0 A0 } {N A } {B U0 K V U } {A } {B0 I B L0 I A G R A0 F0 I J0 A } {K } {A K U DZH A V0 I }.|1
+data/wavs/000881.wav|{K A K O0 J0 I } {U B O0 ZH Y S T V A }.|1
+data/wavs/000882.wav|{R A Z U M0 E0 J0 I TS A }, {J0 A0 } {P A L U TSH0 A0 L } {N0 I } {T O0 L0 K A } {G R U0 S N Y J0 I } {I Z V0 E0 S0 T0 I J0 A }.|1
+data/wavs/000883.wav|{M A J0 U0 } {R A B O0 T U } {F } {TSH0 A0 S N A M } {P A R0 A0 T K0 I } {KH V A L0 I L0 I } {U V A ZH A0 J0 I M Y J0 I } {L0 U0 D0 I }.|1
+data/wavs/000884.wav|{R A S K A0 Z Y } {N R A0 V0 I L0 I S0 } {G O0 R U }, {P A N A V A J0 }, {B A K0 I N S K A M U }, {M0 I T0 I R U }.|1
+data/wavs/000885.wav|{J0 A0 } {P A L U TSH0 A0 L } {A T } {N0 I0 KH } {D R U0 ZH Y S K0 I J0 I } {Z A P0 I0 S K0 I }.|1
+data/wavs/000886.wav|{P A S0 T0 I P0 E0 N A } {E0 T A V A } {M N0 E0 } {S T A0 L A } {J0 A0 V N A } {N0 I D A S T A0 T A TSH0 N A }.|1
+data/wavs/000887.wav|{K A0 K } {Z A R A B O0 T A T0 } {T Y0 S0 I TSH0 U } {R U B L0 E0 J0 }.|1
+data/wavs/000888.wav|{F } {ZH U R N A0 L0 I } {N0 I V A0 } {S L U ZH Y0 L } {M O0 J0 } {B L0 I0 S K0 I J0 } {P R0 I J0 A0 T0 I L0 } {L0 I R M A N }.|1
+data/wavs/000889.wav|{D A V N O0 } {M N0 E0 } {S A V0 E0 T A V A L }.|1
+data/wavs/000890.wav|{N A P0 I SH Y0 } {A } {Z A V O0 D0 I }.|1
+data/wavs/000891.wav|{T Y0 } {ZH Y } {R A B O0 T A L } {F } {M N A G A T0 I R A0 SH K0 I }.|1
+data/wavs/000892.wav|{R A Z L A ZH Y0 L } {S V A I0 } {G A Z0 E0 T N Y J0 I } {V Y0 R0 I S K0 I }.|1
+data/wavs/000894.wav|{R0 I SH Y0 L } {N A } {V R0 E0 M0 A } {Z A B Y0 T0 } {A } {TSH0 E0 S0 T0 I }.|1
+data/wavs/000895.wav|{I } {B Y0 S T R A } {N A P0 I S A0 L } {R A S K A0 S } {P A } {Z A D A0 N0 I J0 U } {D V A0 } {A0 F T A R S K0 I KH } {L0 I S T A0 } {T A SH N A T V O0 R N A J0 } {J0 I L0 E0 J0 N A J0 } {KH A L T U0 R Y }.|1
+data/wavs/000896.wav|{T A0 M } {D0 E0 J0 S T V A V A L0 I } {N A I0 V N Y J0 } {ZH U R N A L0 I0 S T } {I } {P0 I R0 I D A V O0 J0 } {R A B O0 TSH0 I J0 }.|1
+data/wavs/000897.wav|{ZH U R N A L0 I0 S T } {Z A D A V A L } {I D0 I O0 TS K0 I J0 I } {V A P R O0 S Y } {P A } {S KH0 E0 M0 I }.|1
+data/wavs/000898.wav|{P0 I R0 I D A V0 I0 K } {E0 T U } {Z A V0 E0 D A M U J0 U } {S KH0 E0 M U } {R A Z R U SH A L }.|1
+data/wavs/000899.wav|{D0 I T A0 L0 I J0 }, {A T K R A V0 E0 N A } {G A V A R0 A0 }, {N0 I } {P O0 M N0 U }.|1
+data/wavs/000900.wav|{P0 I R0 I TSH0 I T Y V A T0 } {E0 T A } {D0 E0 L A } {S T Y ZH U0 S0 }.|1
+data/wavs/000901.wav|{F } {N0 I V0 E0 } {M O0 J0 } {R A S K A0 S } {P R A TSH0 I T A0 L0 I } {I } {A T V0 E0 R G L0 I }.|1
+data/wavs/000902.wav|{L0 I R M A N } {A B J0 I S0 N0 I0 L }.|1
+data/wavs/000903.wav|{S L0 I0 SH K A M } {KH A R A SH O0 } {D L0 A } {N A0 S }.|1
+data/wavs/000904.wav|{KH U0 ZH Y } {N0 I } {B Y V A0 J0 I T }, {G A V A R0 U0 }.|1
+data/wavs/000905.wav|{R0 E0 T K A }, {N O0 } {B Y V A0 J0 I T }.|1
+data/wavs/000906.wav|{KH O0 TSH0 I SH } {U B0 I D0 I0 TS A } {R A S K R O0 J0 } {ZH U R N A0 L } {N0 I V A0 }.|1
+data/wavs/000907.wav|{J0 A0 } {B Y0 L } {A Z A D A0 TSH0 I N }.|1
+data/wavs/000908.wav|{J0 A0 } {R0 I SH Y0 L S0 A } {P R A D A0 T0 } {D U0 SH U } {S A T A N0 I }, {A } {SH T O0 } {V Y0 SH L A }?|1
+data/wavs/000909.wav|{V Y0 SH L A }, {SH T O0 } {J0 A0 } {D U0 SH U } {S A T A N0 I } {P A D A R0 I0 L }.|1
+data/wavs/000910.wav|{SH T O0 } {M O0 ZH Y T } {B Y0 T0 } {P A Z O0 R N0 I J0 I }?|1
+data/wavs/000911.wav|{J0 A0 } {A T A S L A0 L } {S V A J0 O0 } {P R A I Z V0 I D0 E0 N0 I J0 I } {F } {J0 U0 N A S0 T0 }.|1
+data/wavs/000912.wav|{TSH0 I R0 I S } {D V0 E0 } {N0 I D0 E0 L0 I } {P A L U TSH0 I0 L } {A T V0 E0 T } {B0 I R0 O0 M }.|1
+data/wavs/000913.wav|{J0 I SH0 O0 } {TSH0 I R0 I S } {T R0 I0 } {M0 E0 S0 I TS A } {V Y0 SH Y L } {N O0 M0 I R } {ZH U R N A0 L A }.|1
+data/wavs/000914.wav|{F } {T0 E0 K S T } {J0 A0 } {D A0 ZH Y } {N0 I } {Z A G L0 I N U0 L }.|1
+data/wavs/000915.wav|{A } {F T } {F A T A G R A0 F0 I J0 A } {M N0 E0 } {P A N R A0 V0 I L A S0 } {E0 T A K0 I J0 } {N0 I A P A L0 I T A0 N S K0 I J0 } {S A L0 I0 S T }.|1
+data/wavs/000916.wav|{F } {P A L U0 TSH0 I N A J0 } {M N O0 J0 U } {A N A N0 I0 M N A J0 } {Z A P0 I0 S K0 I } {E0 T A T } {K A N T R A0 S T } {B Y0 L } {L0 U B O0 V N A } {A P A Y T0 I Z0 I0 R A V A N }.|1
+data/wavs/000917.wav|{P A R T R0 E0 T } {KH A R O0 SH }, {G A D0 I0 TS A } {D L0 A } {K0 I N O0 }.|1
+data/wavs/000918.wav|{N O0 } {T0 E0 K S T } {B0 I S P R0 I TS Y D0 E0 N T N A J0 I } {G A V N A }!|1
+data/wavs/000919.wav|{T A0 K } {Z N A0 J0 T0 I } {ZH Y }, {SH T O0 } {E0 T A } {KH A L T U0 R A } {P R0 I N0 I S L A0 } {M N0 E0 } {A G R O0 M N Y J0 I } {D0 E0 N0 G0 I }.|1
+data/wavs/000920.wav|{A } {I M0 I N O0 } {T Y0 S0 I TSH0 U } {R U B L0 E0 J0 }.|1
+data/wavs/000921.wav|{TSH0 I T Y0 R0 I S T A } {Z A P L A T0 I0 L A } {J0 U0 N A S0 T0 }.|1
+data/wavs/000922.wav|{Z A T0 E0 M } {P R0 I SH L A0 } {B U M A0 G A } {I S } {K0 I0 J0 I V A }.|1
+data/wavs/000923.wav|{R0 I ZH Y S0 O0 R } {P0 I V A V A0 R A F } {KH O0 TSH0 I T } {S0 N0 A0 T0 } {K A R A T K A M0 I T R A0 ZH N Y J0 } {F0 I0 L0 M }.|1
+data/wavs/000924.wav|{D V0 E0 S0 T0 I } {R U B L0 E0 J0 } {Z A } {P R A0 V A } {Y K R A N0 I Z A0 TS Y I }.|1
+data/wavs/000925.wav|{Z A T0 E0 M } {D A G A V O0 R } {I S } {M A S K V Y0 }.|1
+data/wavs/000926.wav|{R A D0 I A S P0 I K T A K L0 } {S0 I0 L A M0 I } {A R T0 I0 S T A F } {M KH A T A }.|1
+data/wavs/000928.wav|{D A L0 I J0 I } {P0 I S0 M0 I TS O0 } {I S } {T A SH K0 I N T A }.|1
+data/wavs/000929.wav|{T0 I L0 I K A M P A Z0 I TS Y J0 A }.|1
+data/wavs/000930.wav|{A TSH0 I R0 I D N Y0 J0 I } {D V0 E0 S0 T0 I } {R U B L0 E0 J0 }.|1
+data/wavs/000931.wav|{I } {J0 I SH0 O0 } {F } {P0 I S0 M0 E0 } {T A K A0 J0 A } {M0 I0 L A J0 A } {D0 I T A0 L0 }.|1
+data/wavs/000932.wav|{ZH U R N A L0 I0 S T } {F } {R A S K A0 Z0 I } {N0 I } {I M0 E0 J0 I T } {F A M0 I0 L0 I }.|1
+data/wavs/000933.wav|{R0 E0 TSH0 } {V0 I D0 O0 TS A } {A T } {P0 E0 R V A V A } {L0 I0 TS A }.|1
+data/wavs/000934.wav|{M Y0 } {S A TSH0 L0 I0 } {Z A K A N A M0 E0 R N Y M } {D A0 T0 } {G0 I R O0 J0 U } {V A0 SH U } {F A M0 I0 L0 I J0 U }.|1
+data/wavs/000935.wav|{R O0 L0 } {D A V L A T A V A } {P A R U0 TSH0 I N A } {A R T0 I0 S T U } {V L A D L0 I N U } {G0 I N0 I N U }.|1
+data/wavs/000936.wav|{S P R A0 SH Y V A J0 I TS A }, {K T O0 } {I S } {N A0 SH Y KH } {M A G U0 TSH0 I KH } {P R A Z A0 I K A F } {U V0 I K A V0 E0 TSH0 I N } {T0 I L0 I P A S T A N O0 F K A J0 }?|1
+data/wavs/000937.wav|{G D0 E0 } {SH A L A KH A F }, {K A T A J0 I F }, {F0 I D0 I N }?|1
+data/wavs/000938.wav|{J0 A0 } {I } {D A S T A J0 I F S K A V A T A } {N0 I } {P R0 I P O0 M N0 U }.|1
+data/wavs/000939.wav|{N A D0 E0 J0 U S0 }, {T A V A0 R0 I SH0 } {G0 I N0 I N } {V A P L A T0 I0 L } {M0 I N0 A0 } {D O0 L ZH N Y M } {O0 B R A Z A M }.|1
+data/wavs/000940.wav|{T Y0 S0 I TSH0 U } {R U B L0 E0 J0 } {P A L U TSH0 I0 L } {J0 A0 } {Z A } {E0 T U } {G A L0 I M A T0 J0 U0 }.|1
+data/wavs/000941.wav|{T Y0 S0 I TSH0 U } {R U B L0 E0 J0 } {F } {N0 I D0 E0 L0 U }.|1
+data/wavs/000942.wav|{R A Z0 D0 I L0 I0 T0 } {N A } {P0 A0 T0 }.|1
+data/wavs/000943.wav|{D V0 E0 S0 T0 I } {R U B L0 E0 J0 } {F } {S U0 T K0 I }.|1
+data/wavs/000944.wav|{R A Z0 D0 I L0 I0 T0 } {N A } {V O0 S0 I M0 }.|1
+data/wavs/000945.wav|{P R0 I } {S T A N D A0 R T N A M } {R A B O0 TSH0 I M } {D N0 E0 }.|1
+data/wavs/000946.wav|{V Y0 KH A D0 I T } {D V A0 TS A T0 } {P0 A0 T0 }.|1
+data/wavs/000947.wav|{D V A0 TS A T0 } {P0 A0 T0 } {R U B L0 E0 J0 } {F } {TSH0 A0 S }!|1
+data/wavs/000948.wav|{S T O0 L0 K A }, {J0 A0 } {D U0 M A J0 U }, {I } {P A L K O0 V N0 I K0 I } {K Y G Y B Y } {N0 I } {Z A R A B A0 T Y V A J0 U T }.|1
+data/wavs/000949.wav|{A } {N A R M A0 L0 N Y J0 I } {L0 U0 D0 I } {T0 E0 M } {B O0 L0 I J0 I }.|1
+data/wavs/000950.wav|{K R U0 G A M } {A D N0 I0 } {J0 I V R0 E0 I }.|1
+data/wavs/000951.wav|{P0 I R0 I KH A ZH U0 } {K } {A D N A M U0 } {I S } {S A0 M Y KH } {G N U0 S N Y KH } {Y P0 I Z O0 D A F } {M A J0 E0 J0 } {L0 I T0 I R A T U0 R N A J0 } {J0 U0 N A S0 T0 I }.|1
+data/wavs/000952.wav|{E0 T A } {M0 I R A P R0 I J0 A0 T0 I J0 I } {S A S T A J0 A0 L A S0 } {F } {J0 I N V A R0 E0 } {SH Y Z0 D Y S0 A0 T } {V A S0 M O0 V A } {G O0 D A }.|1
+data/wavs/000953.wav|{P R0 I G L A S0 I0 T0 I L0 N Y J0 I } {B0 I L0 E0 T Y } {V Y0 G L0 I D0 I L0 I } {T A0 K }.|1
+data/wavs/000954.wav|{L0 I N0 I N G R A0 TS K A J0 I } {A D0 I L0 E0 N0 I J0 I } {S A J0 U0 Z A } {P0 I S A0 T0 I L0 I J0 } {Y R Y S Y F Y S Y R } {P R0 I G L A SH A0 J0 I T } {V A0 S } {N A }.|1
+data/wavs/000955.wav|{F S T R0 E0 TSH0 U } {T V O0 R TSH0 I S K A J0 } {M A L A D0 I ZH Y }.|1
+data/wavs/000956.wav|{V Y S T U P A0 J0 U T } {P A E0 T Y } {I } {P R A Z A0 I K0 I }.|1
+data/wavs/000957.wav|{T A T0 J0 I N A } {G A L U SH K A }.|1
+data/wavs/000958.wav|{A L0 I K S A0 N D R } {G A R A D N0 I TS Y K A I J0 }.|1
+data/wavs/000959.wav|{S0 I R G0 E0 J0 } {D A V L A T A F }.|1
+data/wavs/000960.wav|{J0 I L0 E0 N A } {K U M P A N }.|1
+data/wavs/000961.wav|{V L A D0 I M0 I R } {M A R A M Z0 I N }.|1
+data/wavs/000963.wav|{M A L A D Y0 J0 I } {A R T0 I0 S T Y }, {KH U D O0 ZH N0 I K0 I }, {K A M P A Z0 I0 T A R Y }.|1
+data/wavs/000964.wav|{K R O0 M0 I } {T A V O0 }, {S A B0 I R A0 L0 I S0 } {V Y0 S T U P0 I T0 } {B R A TS K0 I J0 } {I } {U F L0 I N T }.|1
+data/wavs/000965.wav|{I0 KH } {F A M0 I0 L0 I J0 } {N0 I } {U K A Z A0 L0 I }.|1
+data/wavs/000966.wav|{SH T O0 } {ZH Y } {P R A I Z A SH L O0 } {D A0 L0 SH Y }?|1
+data/wavs/000967.wav|{R A Z U M0 E0 J0 I TS A }, {M Y0 } {N0 I } {P A TS TSH0 I T Y V A L0 I }, {K A K A0 J0 A } {TSH0 A0 S0 T0 } {V Y S T U P A0 J0 U SH0 I KH } {J0 I V R0 E0 I }.|1
+data/wavs/000968.wav|{K T O0 } {B Y } {S T A0 L } {E0 T0 I M } {Z A N0 I M A0 TS A }?!|1
+data/wavs/000969.wav|{S A L A } {N A } {U N0 D0 I R V U D0 I }.|1
+data/wavs/000970.wav|{M Y0 } {B0 I S0 E0 D A V A L0 I } {S } {K L A0 S0 I K A M } {A T0 E0 TSH0 I S T V0 I N A J0 } {L0 I T0 I R A T U0 R Y } {P A N A V A J0 }.|1
+data/wavs/000971.wav|{K A N0 E0 SH N A } {G A V A R0 U0 }, {J0 A0 } {P R O0 T0 I F } {A N0 T0 I S0 I M0 I T0 I0 Z M A }.|1
+data/wavs/000972.wav|{N O0 } {K L0 U TSH0 I V Y0 J0 I } {P A Z0 I0 TS Y I } {F } {R U0 S K A M } {G A S U D A0 R S T V0 I } {D O0 L ZH N Y } {Z A N0 I M A0 T0 } {R U0 S K0 I J0 I } {L0 U0 D0 I }.|1
+data/wavs/000973.wav|{D A R O0 G A J0 } {M O0 J0 }, {S K A Z A0 L A } {V0 E0 R A } {F0 O D A R A V N A }. {E0 T A } {I } {J0 E0 S0 T0 } {A N0 T0 I S0 I M0 I T0 I0 Z M }.|1
+data/wavs/000974.wav|{T A }, {SH T O0 } {V Y0 } {S K A Z A0 L0 I }, {E0 T A } {I } {J0 E0 S0 T0 } {A N0 T0 I S0 I M0 I T0 I0 Z M }.|1
+data/wavs/000975.wav|{I B A } {K L0 U TSH0 I V Y0 J0 I } {P A Z0 I0 TS Y I } {F } {R U0 S K A M } {G A S U D A0 R S T V0 I } {D O0 L ZH N Y } {Z A N0 I M A0 T0 } {N A R M A0 L0 N Y J0 I } {L0 U0 D0 I }.|1
+data/wavs/000976.wav|{N A R O0 D U } {S A B R A L A S0 } {O0 TSH0 I N0 } {M N O0 G A }.|1
+data/wavs/000977.wav|{S0 I D0 E0 L0 I } {N A } {P A D A K O0 N0 I K A KH }.|1
+data/wavs/000978.wav|{V Y S T U P L0 E0 N0 I J0 A } {P R A SH L0 I0 } {S } {B O0 L0 SH Y M } {U S P0 E0 KH A M }.|1
+data/wavs/000979.wav|{B R A TS K0 I J0 } {TSH0 I T A0 L } {P A T } {N0 I U M A L K A J0 U SH0 I J0 } {V A S T O0 R ZH Y N Y J0 } {R0 O0 F } {A U D0 I T O0 R0 I }.|1
+data/wavs/000980.wav|{TSH0 I R0 I S } {N0 I D0 E0 L0 U } {O0 N } {P A Z V A N0 I0 L } {M N0 E0 }.|1
+data/wavs/000983.wav|{E0 T A } {N0 I } {T0 I L0 I F O0 N Y J0 } {R A Z G A V O0 R }.|1
+data/wavs/000984.wav|{J0 E0 S L0 I } {U0 SH } {B R A TS K0 I J0 } {G A V A R0 I0 T }, {SH T O0 } {R A Z G A V O0 R } {N0 I } {T0 I L0 I F O0 N Y J0 }, {Z N A0 TSH0 I T }, {D0 E0 L A } {S0 I R0 J0 O0 Z N A J0 I }.|1
+data/wavs/000985.wav|{M Y0 } {F S T R0 E0 T0 I L0 I S0 } {N A } {U G L U0 } {ZH U K A F S K A V A } {I } {L0 I T0 E0 J0 N A V A }.|1
+data/wavs/000986.wav|{I O0 S0 I F } {D A S T A0 L } {N0 E0 S K A L0 K A } {L0 I S T K O0 F } {P A P0 I R O0 S N A J0 } {B U M A0 G0 I }.|1
+data/wavs/000987.wav|{J0 A0 } {N A0 TSH0 I L } {TSH0 I T A0 T0 }.|1
+data/wavs/000988.wav|{TSH0 I R0 I S } {M0 I N U0 T U } {S P R A S0 I0 L }.|1
+data/wavs/000989.wav|{K A0 K } {U D A0 L A S0 } {E0 T A } {R A Z D A B Y0 T0 }?|1
+data/wavs/000990.wav|{U } {N A0 S } {J0 E0 S0 T0 } {S V O0 J0 } {TSH0 I L A V0 E0 K } {F } {B A L0 SH O0 M } {D O0 M0 I }.|1
+data/wavs/000991.wav|{A D N A0 } {D0 I V0 I0 TS A } {K O0 P0 I J0 U } {S0 N0 I L A0 }.|1
+data/wavs/000992.wav|{V O0 T } {SH T O0 } {J0 A0 } {P R A TSH0 O0 L }.|1
+data/wavs/000993.wav|{A D0 E0 L } {K U L0 T U0 R Y } {I } {P R A P A G A0 N D Y } {TS Y K A } {K P S }.|1
+data/wavs/000994.wav|{A D0 E0 L } {K U L0 T U0 R Y } {L0 I N0 I N G R A0 TS K A V A } {O0 K } {K P S }.|1
+data/wavs/000996.wav|{L0 I N0 I N G R A0 TS K0 I J0 } {O0 K } {V Y L K S Y M }.|1
+data/wavs/000997.wav|{D A R A G0 I0 J0 I } {T A V A0 R0 I SH0 I }!|1
+data/wavs/000998.wav|{N A P R0 I0 M0 I R }, {T R0 I TS A0 T A V A } {J0 I N V A R0 A0 }.|1
+data/wavs/000999.wav|{F } {L0 I N0 I N G R A0 TS K A M } {D O0 M0 I } {P0 I S A0 T0 I L0 A } {P R A I Z A SH O0 L } {KH A R A SH O0 } {P A D G A T O0 V L0 I N Y J0 } {S0 I A N0 I0 S TS K0 I J0 } {KH U D O0 ZH Y S T V0 I N Y J0 } {M0 I0 T0 I N K }.|1
